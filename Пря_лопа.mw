@@ -1,6 +1,51 @@
-{{approved
-|interwiki=w:mdf:
-|project=wikipedia
-|name=Moksha Wikipedia
-|date=May 26, 2008
-}}
+{| border="0" cellspacing="5" cellpadding="0"
+| colspan=2 |{{Прялопа панда}}
+|-
+| colspan=2 |{{Прялопа кучка}}
+|-
+| valign=top width="60%" |
+<div>
+<center>'''Тиемс од лопа:'''</center>
+<inputbox>
+ type=create
+ width=60
+ bgcolor=#ffffff
+ default=
+</inputbox>
+</div><br>
+{{Потма}}
+| width="40%" valign=top |{{Нюрьхкяня тексттне}}
+|-
+| colspan=2 | {{Индекс А-Я}}
+|-
+| colspan=2 | {{Википедиет}}
+|-
+| colspan=2 | {{Мала проекттне}}
+|}
+__notoc__ __noeditsection__
+<!-- интервики больших разделов + финно-угорские -->
+[[ca:]]
+[[de:]]
+[[et:]]
+[[en:]]
+[[es:]]
+[[fr:]]
+[[hu:]]
+[[it:]]
+[[ja:]]
+[[kv:]]
+[[la:]]
+[[nl:]]
+[[no:]]
+[[pl:]]
+[[pt:]]
+[[ro:]]
+[[ru:]]
+[[se:]]
+[[fi:]]
+[[sv:]]
+[[udm:]]
+[[fiu-vro:]]
+[[zh:]]
+
+[[Category:Wp/mdf| ]]
