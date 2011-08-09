@@ -8,7 +8,7 @@
 <center>'''Тиемс од лопаланга:'''</center>
 <inputbox>
  type=create
- width=600
+ width=6000
  bgcolor=#ffffff
  default=
 </inputbox>
