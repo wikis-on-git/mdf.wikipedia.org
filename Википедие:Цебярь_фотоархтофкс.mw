@@ -1,0 +1,34 @@
+
+[[Файл:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|
+300px|thumb|<center>{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (mdf)}}<br/><small>''Image description'' / Oписание изображения<br/>''[[Commons:Template:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (en)|in English]]'' /  [[:ru:Template:Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (ru)|на русском]].</small></center>]]
+
+
+Здесь можно увидеть избранные изображения, иллюстрирующие Заглавную страницу мокшанского раздела Википедии.</br> 
+
+
+{{Potd/Months}}
+* Источник изображений - проект '''[[:commons:Commons:Picture of the day|Изображение дня]]''' на [[Википърдафкссь|Викискладе]]
+** [[:Commons:Commons talk:Изображение дня/все языки|текущий месяц]]
+** [[:Commons:Commons talk:Изображение дня/все языки/следующий|следующий месяц]]
+
+* Обсуждение и предложения — см. [[ru:Проект:Изображение дня]].
+
+<br style="clear:both;" />
+<div align="center{|
+|-valign=top 
+|style="margin:1.0em; padding:1.0em;"|
+">[{{fullurl:Википедие:Цебярь фотография|action=purge}} Purge / Обновить]</div>
+
+{|
+|-valign=top 
+|style="margin:1.0em; padding:1.0em;"|
+
+== Current month / Текущий месяц ==
+{{Potd/CurrentMonth|width=300}}
+|style="margin:1.0em; padding:1.0em;"|
+
+== Next month / Следующий месяц ==
+{{Potd/NextMonth|width=300}}
+|style="margin:1.0em; padding:1.0em;"|}
+
+[[Категория:Википедие]]
