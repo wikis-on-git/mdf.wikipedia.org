@@ -6,16 +6,17 @@
 | valign=top width="60%" |
 <div>
 {{Цебярь фотография}}
-{{Нюрьхкяня тексттне}}
-</div>
-
-| width="40%" valign=top |{{This month}}<br><center>'''Тиемс од лопаланга:'''</center>
+{{This month}}<br><center>'''Тиемс од лопаланга:'''</center>
 <inputbox>
  type=create
  width=40
  bgcolor=#ffffff
  default=
 </inputbox>
+</div>
+
+| width="40%" valign=top |{{Нюрьхкяня тексттне}}
+{{Цебярь мультимедиа}}
 |-
 | colspan=2 |{{Потма}}
 |-
