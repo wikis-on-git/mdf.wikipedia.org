@@ -6,19 +6,23 @@
 
 
 {{Motd/Months}}
-* Источник файлов - проект '''[[:commons:Commons:Медиафайл дня|Медиафайл дня]]''' на [[Википърдафкссь|Викискладе]]
+* '''Источники изображений дня см. в проекте [[:Commons:Commons:Медиафайл дня|«Медиафайл дня» на Викискладе]]. 
 
 <br style="clear:both;" />
 <div align="center{|
 |-valign=top 
 |style="margin:1.0em; padding:1.0em;"|
-">[{{fullurl:Шаблон:Motd/CurrentMonth|action=purge}} Purge / Обновить]</div>
+">''[{{fullurl:{{FULLPAGENAME}}|action=purge}} обновить/purge]''</div>
 
-== Current month / Текущий месяц ==
+{|
+|-valign=top 
+|style="margin:1.0em; padding:1.0em;"|
+
+== Текущий месяц ==
 {{Motd/CurrentMonth|width=300}}
 |style="margin:1.0em; padding:1.0em;"|
 
-== Next month / Следующий месяц ==
+== Следующий месяц ==
 {{Motd/NextMonth|width=300}}
 |style="margin:1.0em; padding:1.0em;"|
 |}
