@@ -2,6 +2,55 @@
 
 == Эрямопингсь ==
 
+==Демографиясь==
+<timeline>
+ImageSize = width:530 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1500
+ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1676 from:0 till:128
+  bar:1827 from:0 till:413
+  bar:1883 from:0 till:531
+  bar:1921 from:0 till:922
+  bar:1978 color:cobar2 from:0 till:1200
+  bar:1988 from:0 till:1115
+  bar:2000 from:0 till:1100
+  bar:2002 from:0 till:1065
+  bar:2008 from:0 till:1106
+  bar:2009 from:0 till:1098
+  bar:2011 from:0 till:1069
+  bar:2018 from:0 till:1026
+  bar:2019 from:0 till:1019
+  bar:2020 from:0 till:1017
+PlotData=
+  textcolor:black fontsize:S
+  bar:1676 at: 128 text: 128 shift:(-10,5)
+  bar:1827 at: 413 text: 413 shift:(-10,5)
+  bar:1883 at: 531 text: 531 shift:(-10,5)
+  bar:1921 at: 922 text: 922 shift:(-10,5)
+  bar:1978 at: 1200 text: 1200 shift:(-10,5)
+  bar:1988 at: 1115 text: 1115 shift:(-14,5)
+  bar:2000 at: 1100 text: 1100 shift:(-14,5)
+  bar:2002 at: 1065 text: 1065 shift:(-12,5)
+  bar:2008 at: 1106 text: 1106 shift:(-12,5)
+  bar:2009 at: 1098 text: 1098 shift:(-12,5)
+  bar:2011 at: 1069 text: 1069 shift:(-12,5)
+  bar:2018 at: 1026 text: 1026 shift:(-12,5)
+  bar:2019 at: 1019 text: 1019 shift:(-12,5)
+  bar:2020 at: 1017 text: 1017 shift:(-12,5)
+</timeline>
+
 == Кучфтемат ==
 * [http://www.kazimierzdolny.pl/bochotnica/28081/ Бохотница]
 
