@@ -1,0 +1,42 @@
+[[Няйф:Uniform Resource Locator.svg|320px|кенжешка|вить_кедь]]
+'''Uniform resource locator, URL'''&nbsp;— интернетса веб-лопаань адрес протокол мархта, конань вельде можна мумс тя лопась. Тяза сувай: доментть лемоц, файлать ди катологть лемоц, машинать сетевой адресоц ди протоколсь, конань вельде сувават тя
+файлати<ref>''Гришунина В. П.'' [http://vidzanin.komikyv.com/pdf_dictionaries/pusztai/geography_moksha.pdf Словарь терминов по информатике на мокшанском языке для общеобразовательных школ / Мокшень кяльса общеобразовательнай школатненди информатикань терминонь валкс]. Ассоциация финно-угорских университетов, NH Collegium Fenno-Ugricum ; Главный редактор серии Янош Пустаи. Сыктывкар – Ижевск – Йошкар-Ола – Саранск – Бадачоньтомай 2011 ISBN 978-5-963-9876-38-5</ref>.
+
+== Тага ватт ==
+* [[Интернетсь]]
+* [[Информатикась]]
+
+== Кяльвалсь ==
+* {{Cite book|author=Tim Berners-Lee, Mark Fischetti|publisher=Econ |location=München|year=1999|isbn=3-430-11468-3|title=Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web}}{{ref-en}}
+* {{cite book |url=https://books.google.com/books?id=6u2sBAAAQBAJ&pg=PA193 |title=Secure Development for Mobile Apps: How to Design and Code Secure Mobile Applications with PHP and JavaScript |publisher=CRC Press |date=2013 |page=193|isbn=978-1-48220903-7}}{{ref-en}}
+* {{cite book |url=https://books.google.com/books?id=DW0uyBZzEDwC&pg=PT124 |title=HTML, XHTML, and CSS Bible |publisher=John Wiley & Sons |author=Steven M. Schafer |date=2011 |page=124|isbn=978-1-11808130-3}}{{ref-en}}
+* {{cite web |url=http://news.bbc.co.uk/1/hi/technology/8306631.stm |title=Berners-Lee "sorry" for slashes |publisher=BBC News |date= 2009 |ref={{SfnRef|BBC News|2009}}}}{{ref-en}}
+* {{cite web |url=http://www.w3.org/Conferences/IETF92/WWX_BOF_mins.html |title=Living Documents BoF Minutes |publisher=World Wide Web Consortium |date= 1992 |ref={{SfnRef|IETF|1992}}}} {{ref-en}}                  
+* {{cite web |url=http://www.w3.org/Addressing/URL/url-spec.txt |title=Uniform Resource Locators (URL): A Syntax for the Expression of Access Information of Objects on the Network |first=Tim |last=Berners-Lee Tim Berners-Lee |date=1994 |publisher=World Wide Web Consortium |ref={{SfnRef|W3C|1994}}}}{{ref-en}}
+* {{cite web |url=http://www.w3.org/People/Berners-Lee/FAQ.html#etc |author-first=Tim |author-last=Berners-Lee |work=Frequently asked questions |title=Why the //, #, etc? |orig-year=2000 |date=2015 |publisher=World Wide Web Consortium |ref={{SfnRef|Berners-Lee|2000}}}}{{ref-en}}
+* {{cite web |url=http://www.w3.org/html/wg/href/draft#url |title=Web addresses in HTML 5 |editor-first1=Daniel "Dan" |editor-last1=Connolly |editor-first2=C. Michael |editor-last2=Sperberg-McQueen |date= 2009 |publisher=World Wide Web Consortium |ref={{SfnRef|W3C|2009}}}}{{ref-en}}
+* {{cite web |url=http://www.atm.tut.fi/list-archive/ietf-announce/msg13572.html |archive-url=https://web.archive.org/web/20041208124351/http://www.atm.tut.fi/list-archive/ietf-announce/msg13572.html |archive-date=8 December 2004 |title=Completion of IANA Selection of IDNA Prefix |author=Internet Assigned Numbers Authority |work=IETF-Announce mailing list |date=2003|ref={{SfnRef|IANA|2003}}}}{{ref-en}}
+* {{cite web |title=An Introduction to Multilingual Web Addresses |url=http://www.w3.org/International/articles/idn-and-iri/|date= 2008 |ref={{SfnRef|W3C|2008}}}}{{ref-en}}
+* {{cite web |title=What is Happening with "International URLs" |author-first=A. |author-last=Phillip |url=https://www.w3.org/International/wiki/IRIStatus |publisher=World Wide Web Consortium |date=2014 |ref={{SfnRef|W3C|2014}}}}{{ref-en}}
+* {{cite web |last1=Lawrence |first1=Eric |title=Browser Arcana: IP Literals in URLs |url=https://docs.microsoft.com/en-us/archive/blogs/ieinternals/browser-arcana-ip-literals-in-urls |website=docs.microsoft.com |archive-url=https://web.archive.org/web/20200622181648/https://docs.microsoft.com/en-us/archive/blogs/ieinternals/browser-arcana-ip-literals-in-urls |archive-date=22 June 2020}}{{ref-en}}
+{{refend}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+{{commonscat|URL|URL}}
+* [https://url.spec.whatwg.org/ URL specification.] WHATWG{{ref-en}}
+* [https://www.ibm.com/support/knowledgecenter/en/SSGMCP_4.1.0/com.ibm.cics.ts.internet.doc/topics/dfhtl_uricomp.html The Components of a URL.] IBM{{ref-en}}
+
+{{керф}}
+
+[[Категорие:URL]]
+[[Категорие:Интернетсь]]
+
+[[be:URL]]
+[[bg:Унифициран локатор на ресурси]]
+[[de:Uniform Resource Locator]]
+[[en:URL]]
+[[ru:URL]]
+[[uk:Уніфікований локатор ресурсів]]
