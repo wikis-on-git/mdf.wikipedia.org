@@ -1,0 +1,83 @@
+[[Няйф:Chromium (web browser).png|300px|кенжешка|вить_кедь]]
+'''Браузерсь''' ({{lang-en|'''Web browser''' илякс '''browser'''}})&nbsp;— программа, конань вельде азорти вановихть веб-ресурсне ди качандавихть файлатне<ref>''Гришунина В. П.'' [http://vidzanin.komikyv.com/pdf_dictionaries/pusztai/informatics_moksha.pdf Словарь терминов по информатике на мокшанском языке для общеобразовательных школ / Мокшень кяльса общеобразовательнай школатненди информатикань терминонь валкс]. Ассоциация финно-угорских университетов, NH Collegium Fenno-Ugricum ; Главный редактор серии Янош Пустаи. Сыктывкар – Ижевск – Йошкар-Ола – Саранск – Бадачоньтомай 2011 ISBN 978-5-963-9876-38-5{{ref-mdf}}{{ref-ru}}</ref>
+<ref>{{cite web|url=https://www.youtube.com/watch?v=o4MwTvtyrUQ |title=What is a Browser?|publisher=Google on YouTube}}{{ref-en}}</ref><ref>{{cite web|url=https://blog.mozilla.org/firefox/internet-search-engine-browser/ |title=No-Judgment Digital Definitions: Internet, Search Engine, Browser |publisher=Mozilla}}{{ref-en}}</ref>.
+{{Image frame
+|align=right
+|width=375
+|caption=Браузерсь<ref name="Statistic">{{Cite web|title=W3Counter: Global Web Stats|url=https://www.w3counter.com/globalstats.php|website=www.w3counter.com|accessdate=2021-05-09}}{{ref-en}}</ref>
+|content=
+{{graph:Chart
+ | width = 100
+ | height = 100
+ | type = pie
+ | innerRadius = 40
+ | legend = Легендась
+ | x = Chrome, Safari, Firefox, Internet Explorer & Edge, Opera
+ | y1 = 65.3, 16.7, 5.7, 4.1, 1.6
+ | showValues =1
+ |colors= #FFC125, #1E90FF, #FF8247, #87CEFF, #FF4040
+}}
+}}
+
+== Статистикась ==
+[[Няйф:Screenshot vom Dolphin Browser.png|220px|кенжешка|вить_кедь|Мобильнай браузерсь «Dolphin».]]
+{| class="wikitable sortable" style="text-align:right"
+|-
+! Браузерсь
+!2020||2019||2018||2017||2016||2015||2014||2013||2012
+|-
+|style="text-align:left"| [[Google Chrome|Chrome]]
+|69,1||68,5||61,6||58,5||47,6||27,6||19,1||16,4||18,7
+|-
+|style="text-align:left"| [[Internet Explorer]]
+|5,5|| 6,1||12,0||19,1||31,4||53,0||58,3||56,7||53,8
+|-
+|style="text-align:left"| [[Firefox]]
+| 7,2|| 8,7||11,0||11,8||10,0||11,8||15,7||19,3||20,3
+|-
+|style="text-align:left"| [[Microsoft Edge]]
+|7,2 || 5,9|| 4,2|| 5,6|| 4,8|| 1,0|| 0 || 0 || 0
+|-
+|style="text-align:left"| [[Apple Safari]]
+|3,7 || 4,4|| 3,8|| 3,4|| 4,3|| 4,9|| 5,4|| 5,6|| 5,0
+|-
+|style="text-align:left"| [[Opera]]
+|1,2 || 1,4|| 1,5|| 1,2|| 1,5|| 1,3|| 1,1|| 1,6|| 1,6
+|}
+== Тага ватт ==
+{{div col}}
+* [[Байтсь]]
+* [[Интернетсь]]
+* [[Информатикась]]
+* [[Мялямсь]]
+* [[Порталсь]]
+* [[Интерфейссь]]
+* [[Компьютерсь]]
+* [[Программась]]
+* [[Web-лопа]]
+* [[URL]]
+{{div col end}}
+
+== Кяльвалсь ==
+* {{Cite book|title=How the Web was Born: The Story of the World Wide Web|author=James Gillies|publisher=Oxford University Press|year=2000|isbn=0192862073|pages=6}}{{ref-en}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+{{commonscat|Web browsers|Браузерсь}}
+* {{Cite web|url=https://www.us-cert.gov/publications/securing-your-web-browser|title=Securing Your Web Browser|website=www.us-cert.gov}} {{ref-en}}
+* {{Cite web|title = Browsers| publisher = Open Directory Project | url=https://curlie.org/en/Computers/Software/Internet/Clients/Web/Browsers}}{{ref-en}}
+
+{{керф}}
+
+[[Категорие:Информацие]]
+[[Категорие:Интернетсь]]
+
+[[en:Web browser]]
+[[ru:Браузер]]
+[[et:Brauser]]
+[[hu:Webböngésző]]
+[[uk:Браузер]]
+[[de:Webbrowser]]
+[[vep:Kaclim]]
