@@ -10,7 +10,7 @@
 |Уштефоль     = 1543
 |Картась      = 
 }}
-'''Мощена''' ({{Lang-uk|Мощена}}) — [[веле|велесь]] [[Украин]]. 581 эряйхне ([[2010]]).
+'''Мощена''' ({{Lang-uk|Мощена}}) — [[веле|велесь]] [[Украин]]. 583 эряйхне ([[2015]]).
 
 == Эряйхне<ref>[http://history.org.ua/LiberUA/SpNasMestVolGub_1906/SpNasMestVolGub_1906.pdf Список населених місць Волинської губернії.&nbsp;— Житомир: Волинська губернська типографія, 1906.&nbsp;— 219 с.]</ref><ref name="населення 1989">{{cite web|url=http://database.ukrcensus.gov.ua/MULT/Database/Census/databasetree_uk.asp|title=Кількість наявного та постійного населення по кожному сільському населеному пункту, Волинська область|publisher=Банк даних Державної служби статистики України}}</ref><ref name="населення 2001">{{cite web|url=http://database.ukrcensus.gov.ua/MULT/Database/Census/databasetree_uk.asp|title=Кількість наявного населення по кожному сільському населеному пункту, Волинська область |publisher=Банк даних Державної служби статистики України}}</ref> ==
 <div style="float:left;margin:0 0 .5em 2em;" class="toccolours">
@@ -34,6 +34,7 @@ BarData=
   bar:1970 text:1970
   bar:1989 text:1989
   bar:2001 text:2001
+  bar:2010 text:2010
   bar:2012 text:2012
   bar:2013 text:2013
   bar:2014 text:2014
@@ -44,6 +45,7 @@ PlotData=
   bar:1970 from:0 till:539
   bar:1989 from:0 till:510
   bar:2001 from:0 till:546
+  bar:2010 from:0 till:583
   bar:2012 from:0 till:584
   bar:2013 from:0 till:602
   bar:2014 from:0 till:591
