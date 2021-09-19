@@ -1,17 +1,67 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Łobez''
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[File:POL Łobez COA.svg|100px]]
-| align="center" width="140px" | [[File:Łobez-Polska.png|right|100px]]
-|}
-|-
-| align=center colspan=2 | [[File:Lobez main street.jpg|250px]]
-|}
-
-'''Лобез''' ({{Lang-pl|Łobez}}) ошсь [[Шивалгомань Померания воеводши|Шивалгомань Померания воеводшиса]], пялевень-шивалгомань [[Полень мастор|Полень масторса]]. Щечинца 10 409<ref>Główny Urząd Statystyczny, dane za rok 2015, stan na 01.01.2015.[http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2015-r-,7,12.html]</ref> эряйда (2015). Ошсь ушетфоль 1295<ref>Historia Łobza [http://www.lobez.pl/historia-lobza.html]</ref> кизоня.
+{{Эряма васта
+|статус                   = 
+|мокшень лемтне           = Лобез
+|васенце лем              = {{Lang-pl|Łobez}}
+|изображение              = Lobez main street.jpg
+|описание изображения     = 
+|подчинение               = 
+|страна                   = 
+|герб                     = POL Łobez COA.svg
+|флаг                     = Łobez-Polska.png
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 12,84
+|вид высоты               = 
+|высота центра НП         = 94
+|климат                   = 
+|официальный язык         = полень кяль
+|эряйхне                  = 10 066
+|год переписи             = 2019
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +48 91
+|почтовый индекс          = 73-150
+|почтовые индексы         = 
+|автомобильный код        = ZLO
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = https://lobez.pl/
+|язык сайта               = pl
+}}
+'''Лобез''' ({{Lang-pl|Łobez}}) — ошсь [[Шивалгомань Померания воеводши|Шивалгомань Померания воеводшиса]], пялевень-шивалгомань [[Полень мастор|Полень масторса]]. Щечинца 10 409<ref>Główny Urząd Statystyczny, dane za rok 2015, stan na 01.01.2015.[http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2015-r-,7,12.html]</ref> эряйда (2015). Ошсь ушетфоль 1295<ref>Historia Łobza [http://www.lobez.pl/historia-lobza.html]</ref> кизоня.
 
 == Эряйхне ==
 <timeline>
@@ -63,16 +113,18 @@ PlotData=
   bar:1990 at: 10953 text:11 shift:(0)
   bar:2014 at: 10440 text:10,4 shift:(0)
   </timeline>
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
 == Ушеширень сюлмафксне ==
 * [http://www.lobez.pl Łobez] 
 * [http://www.bip.lobez.pl/ BIP Łobez]
 * [http://www.youtube.com/watch?v=mPWlmToO5FY/ Łobez - You Tube]
 * [http://pl.wikivoyage.org/wiki/%C5%81obez  Tourist Information]
-=== Ушесь Лобеза ===
-{{commons|Category:Łobez}}
 
-[[Категорие:Сембе]]
-[[Категорие:Эряма тонадоматне]]
+{{гео-керф}}
+
 [[Категорие:Масторонь тонафнемакссь (географиесь)]]
 [[Категорие:Явропонь масторхне]]
 [[Категорие:Полень мастор]]
