@@ -1,5 +1,5 @@
 <templatestyles src="Шаблон:Геокар/styles.css" />
-<table class="infobox t-geoinfobox t-geoinfobox-mount">
+<table class="infobox t-geoinfobox t-geoinfobox-yellow .infobox-above">
 {{Геокар|Название|Африкась}}
 {{Геокар|Изображение|Africa (orthographic projection).svg|Африкась}}
 {{Геокар|Заголовок|Единичные параметры|}}
