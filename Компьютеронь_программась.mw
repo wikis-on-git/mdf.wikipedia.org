@@ -1,0 +1,68 @@
+[[Няйф:Object-Oriented-Programming-Methods-And-Classes-with-Inheritance.png|250px|кенжешка|вить_кедь]]
+'''Компьютеронь программась'''&nbsp;— машинань командатнень фкя-фкянь мельге молемасна, конатнень вельде сатневи кодамовок результат<ref>''Гришунина В. П.'' [http://vidzanin.komikyv.com/pdf_dictionaries/pusztai/informatics_moksha.pdf Словарь терминов по информатике на мокшанском языке для общеобразовательных школ / Мокшень кяльса общеобразовательнай школатненди информатикань терминонь валкс]. Ассоциация финно-угорских университетов, NH Collegium Fenno-Ugricum ; Главный редактор серии Янош Пустаи. Сыктывкар – Ижевск – Йошкар-Ола – Саранск – Бадачоньтомай 2011 [[ISBN]] 978-5-963-9876-38-5{{ref-mdf}}{{ref-ru}}</ref>.
+
+== Тага ватт ==
+{{div col}}
+* [[Байтсь]]
+* [[Браузерсь]] 
+* [[Информатикась]]
+* [[Мялямсь]]
+* [[Порталсь]]
+* [[Интерфейссь]]
+* [[Компьютерсь]]
+* [[Программась]]
+* [[Web-лопа]]
+* [[URL]]
+{{div col end}}
+
+== Кяльвалсь ==
+* {{cite book|last = Linz|first = Peter|title = An Introduction to Formal Languages and Automata|publisher = D. C. Heath and Company|year = 1990| page = 234|isbn = 978-0-669-17342-0}} {{ref-en}}
+* {{cite book|last = McCartney|first = Scott|title = ENIAC – The Triumphs and Tragedies of the World's First Computer|publisher = Walker and Company|year = 1999|page = [https://archive.org/details/eniac00scot/page/16 16]|isbn = 978-0-8027-1348-3|url = https://archive.org/details/eniac00scot/page/16}} {{ref-en}}
+* {{cite book |last1=Dooley |first1=John F. |title=A Brief History of Cryptology and Cryptographic Algorithms |date=2013 |publisher=Springer Science & Business Media |isbn=9783319016283 |pages=12–3}} {{ref-en}}
+* {{cite book|last = Rochkind|first = Marc J.|title = Advanced Unix Programming, Second Edition|publisher = Addison-Wesley|year = 2004|page = 1.1.2}} {{ref-en}}
+* ''Donald E. Knuth'' The Art of Computer Programming, Volume 1, 3rd Edition. — Boston: Addison-Wesley, 1997. — [[ISBN]] 978-0-201-89683-1 {{ref-en}}
+* {{cite book|last = Tanenbaum|first = Andrew S.|title = Structured Computer Organization, Third Edition|publisher = Prentice Hall|year = 1990|page = [https://archive.org/details/structuredcomput00tane/page/15 15]|isbn = 978-0-13-854662-5|url = https://archive.org/details/structuredcomput00tane/page/15}} {{ref-en}}
+* {{cite book|last = Rosen|first = Kenneth H.|title = Discrete Mathematics and Its Applications|publisher = McGraw-Hill, Inc.|year = 1991|page = [https://archive.org/details/discretemathemat00rose/page/654 654]|isbn = 978-0-07-053744-6|url = https://archive.org/details/discretemathemat00rose/page/654}} {{ref-en}}
+* {{cite book|last = McCartney|first = Scott|title = ENIAC – The Triumphs and Tragedies of the World's First Computer|publisher = Walker and Company|year = 1999|page = [https://archive.org/details/eniac00scot/page/102 102]|isbn = 978-0-8027-1348-3|url = https://archive.org/details/eniac00scot/page/102}} {{ref-en}}
+* {{cite book|last=Bartik|first=Jean Jennings|title=Pioneer programmer: Jean Jennings Bartik and the computer that changed the world.|publisher=Truman State University Press|year=2013|editor-last1= Rickman|editor-first1=Jon|editor-last2=Todd|editor-first2=Kim D.}} {{ref-en}}
+* {{cite book|last=Tanenbaum|first=Andrew S.|title=Structured Computer Organization, Third Edition|publisher=Prentice Hall|year=1990|page=[https://archive.org/details/structuredcomput00tane/page/20 20]|isbn = 978-0-13-854662-5|url = https://archive.org/details/structuredcomput00tane/page/20}} {{ref-en}}
+* {{cite book|last=Tanenbaum|first=Andrew S.|title=Structured Computer Organization, Third Edition|publisher=Prentice Hall|year=1990|page=[https://archive.org/details/structuredcomput00tane/page/n42 21]|isbn=978-0-13-854662-5|url=https://archive.org/details/structuredcomput00tane}} {{ref-en}}
+* {{cite book|last = Wilson|first = Leslie B.|title = Comparative Programming Languages, Second Edition|publisher = Addison-Wesley|year = 1993|page = 75|isbn = 978-0-201-56885-1}} {{ref-en}}
+* {{cite book|last = Silberschatz|first = Abraham|title = Operating System Concepts, Fourth Edition|publisher = Addison-Wesley |year = 1994|page = 97|isbn = 978-0-201-50480-4}}} {{ref-en}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+{{commonscat|Software|Компьютеронь программась}}
+* {{cite book
+  | last = Knuth
+  | first = Donald E.
+  | title = The Art of Computer Programming, Volume 1, 3rd Edition
+  | year = 1997
+  | publisher = Addison-Wesley
+  | location = Boston
+  | isbn = 978-0-201-89683-1
+}}{{ref-en}}
+* {{cite book
+ |last=Knuth
+ |first=Donald E.
+ |title=The Art of Computer Programming, Volume 2, 3rd Edition
+ |year=1997
+ |publisher=Addison-Wesley
+ |location = Boston
+ |isbn=978-0-201-89684-8
+}}{{ref-en}}
+* {{cite book
+ |last=Knuth
+ |first=Donald E.
+ |title=The Art of Computer Programming, Volume 3, 3rd Edition
+ |year=1997
+ |publisher=Addison-Wesley
+ |location = Boston
+ |isbn=978-0-201-89685-5
+}}{{ref-en}}
+
+{{керф}}
+
+[[Категорие:Информацие]]
