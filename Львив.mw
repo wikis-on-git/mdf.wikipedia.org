@@ -1,0 +1,265 @@
+{{Эряма васта
+|статус                   = ош
+|мокшень лемтне           = Львив
+|васенце лем              = {{lang-uk|Львів}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = Латинський кафедральний собор (Львів) 16.jpg
+ |photo2a = Львівський національний академічний театр опери та балету імені Соломії Крушельницької 13.jpg
+ |photo2b = LvivOldTown1.jpg
+ |photo3a = Кропивницького пл., 1, церква св. Ольги і Єлизавети, 9109-HDR-Edit.jpg
+ |photo3b = Лвов Галиција.jpg
+ |photo4a = Палац Потоцьких. Львів 12.jpg
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = {{UKR}}
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg = 49 |lat_min = 50 |lat_sec = 30
+ |lon_dir = E|lon_deg = 24 |lon_min = 01 |lon_sec = 53 
+ |CoordScale = |display =
+|вид региона              = Аймак
+|регион                   = Львивонь аймак
+|регион в таблице         = 
+|вид района               = Район
+|район                    = Львивонь район
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = Мэр
+|оцюнас                    = Андрий Садовый
+|дата основания           = [[1256]]
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 148.9
+|вид высоты               = 
+|высота центра НП         = 296
+|климат                   = 
+|официальный язык         = украинонь кяль
+|эряйхне                  = 717 486
+|год переписи             = 2021
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +380-32
+|почтовый индекс          = 79000–79490
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Львив''' ({{lang-uk|Львів}} {{IPA2|ˈʎʋiu̯|МФА|Львів вимова.ogg}}) — [[ош]]сь [[Украина|Украинаса]]. {{iw|Львивонь аймак|Львивонь аймакть|uk|Львівська область}} [[пряошец]].
+
+== [[Географиясь]] ==
+
+== [[Климатсь]] ==
+{{Climate chart
+|Львив ошсь 
+| -5.6| -0.5| 47
+| -4.7| 1.2| 49
+| -1.3|	6.6| 55
+| 4.3| 13.9| 63
+| 9.4| 18.6| 96
+| 13.2| 21.7| 96
+| 15.2| 23.6| 118
+| 14.8| 23.3| 85
+| 10.4| 18.3| 77
+| 5.8| 12.6| 59
+| 1.8| 7| 54
+| -2.8| 1.6| 53
+|float= 
+|clear=
+|source= [https://en.climate-data.org/europe/ukraine/lviv-oblast/lviv-221/ Львив] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Ушетфоль 1256 кизоня.
+
+== Эряйхне ==
+{| align="ліворуч" rules="all" cellspacing="0" cellpadding="5" style="border: 1px solid #999"
+|-bgcolor="#afd6ff"
+! 1857 || 1869 || 1880 || 1890 || 1900 || 1910 || 1921 || 1931 || 1941 || 1943 || 1959 || 1970 || 1979 || 1989 || 2001 || 2010 || 2012 || 2015<ref>[http://database.ukrcensus.gov.ua/PXWEB2007/ukr/publ_new1/2015/zb_nas_14.pdf Статистичний збірник «Чисельність наявного населення України» на 1 січня 2015 року] {{ref-uk}}</ref> || 2021<ref>[http://ukrstat.gov.ua/druk/publicat/kat_u/2021/zb/05/zb_chuselnist%202021.pdf PDF Статистичний збірник «Чисельність наявного населення України» на 1 січня 2021 року] {{ref-uk}}</ref>
+|- bgcolor="#f5f8fc"
+| 70 384 || 87 109 || 109 746 || 127 943 || 159 877 || 206 113 || 219 388 || 312 231 || 215 646 || 254 291 || 410 678 || 553 452 || 667 243 || 818 780 || 758 526 || 758 351 || 717 486 || 755 994 || 729 429
+|-
+|}
+<center><timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:canvas value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+ImageSize = width:auto height:320 barincrement:30
+PlotArea = left:40 bottom:50 top:20 right:20
+DateFormat = yyyy
+Period = from:0 till:850
+TimeAxis = orientation:vertical
+AlignBars = late
+BackgroundColors = canvas:canvas
+ScaleMajor = gridcolor:darkgrey increment:100 start:0
+ScaleMinor = gridcolor:lightgrey increment:25 start:0
+BarData=
+  bar:1880 text:1880 
+  bar:1890 text:1890 
+  bar:1900 text:1900
+  bar:1905 text:1905
+  bar:1910 text:1910
+  bar:1915 text:1915
+  bar:1920 text:1920
+  bar:1925 text:1925
+  bar:1930 text:1930
+  bar:1935 text:1935
+  bar:1939 text:1939
+  bar:1940 text:1940
+  bar:1944 text:1944
+  bar:1950 text:1950
+  bar:1955 text:1955
+  bar:1959 text:1959
+  bar:1960 text:1960
+  bar:1964 text:1964
+  bar:1965 text:1965
+  bar:1970 text:1970
+  bar:1975 text:1975
+  bar:1980 text:1980
+  bar:1981 text:1981
+  bar:1985 text:1985
+  bar:1990 text:1990
+  bar:1995 text:1995
+  bar:2000 text:2000
+  bar:2005 text:2005
+  bar:2010 text:2010
+  bar:2015 text:2015
+  bar:2021 text:2021
+PlotData=
+  color:barra width:5 align:left
+  bar:1880 from:0 till:103
+  bar:1890 from:0 till:119
+  bar:1900 from:0 till:151
+  bar:1905 from:0 till:163
+  bar:1910 from:0 till:206
+  bar:1915 from:0 till:212
+  bar:1920 from:0 till:209
+  bar:1925 from:0 till:227
+  bar:1930 from:0 till:242
+  bar:1935 from:0 till:316
+  bar:1939 from:0 till:340
+  bar:1940 from:0 till:397
+  bar:1944 from:0 till:149
+  bar:1950 from:0 till:379
+  bar:1955 from:0 till:378
+  bar:1959 from:0 till:411
+  bar:1960 from:0 till:421
+  bar:1964 from:0 till:487
+  bar:1965 from:0 till:496
+  bar:1970 from:0 till:575
+  bar:1975 from:0 till:617
+  bar:1980 from:0 till:700
+  bar:1981 from:0 till:688
+  bar:1985 from:0 till:767
+  bar:1990 from:0 till:823
+  bar:1995 from:0 till:831
+  bar:2000 from:0 till:811
+  bar:2005 from:0 till:752
+  bar:2010 from:0 till:761
+  bar:2015 from:0 till:730
+  bar:2021 from:0 till:729
+TextData=
+  fontsize:S pos:(200,30)
+  text:
+</timeline></center>
+== [[Экономикась]] ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+{{div col|colwidth=30em}}
+* [[Няйф:Flag of Canada (Pantone).svg|25px|]] {{iw|Виннипэг|||Winnipeg}} (1973)
+* [[Няйф:Flag of Germany.svg|25px|]] {{iw|Фрайбург|||Freiburg im Breisgau}} (1989)
+* [[Няйф:Flag of the United Kingdom.svg|25px|]] {{iw|Рочдэйл|||Rochdale}} (1992)
+* [[Няйф:Flag of Poland.svg|25px|]] {{iw|Жэшув|||Rzeszów}} (1992)
+* [[Няйф:Flag of Hungary.svg|25px|]] [[Будапешт]] (1993)
+* [[Няйф:Flag of Israel.svg|25px|]] {{iw|Ришон-ле-Цион|||Rishon LeZion}} (1993)
+* [[Няйф:Flag of Poland.svg|25px|]] {{iw|Кракув|||Kraków}} (1995)
+* [[Няйф:Flag of Poland.svg|25px|]] {{iw|Пшэмысль|||Przemyśl}} (1995)
+* [[Няйф:Flag of Serbia.svg|25px|]] {{iw|Нови Сад|||Novi Sad}} (1999)
+* [[Няйф:Flag of Georgia.svg|25px|]] {{iw|Кутаиси|||Kutaisi}} (2002)
+* [[Няйф:Flag of Poland.svg|25px|]] {{iw|Вроцлав|||Wrocław}} (2003)
+* [[Няйф:Flag of Poland.svg|25px|]] {{iw|Лодзь|||Łódź}} (2003)
+* [[Няйф:Flag of Poland.svg|25px|]] {{iw|Люблин|||Lublin}} (2004)
+* [[Няйф:Flag of the United States.svg|25px|]] {{iw|Парма (Огайо)|Парма||Parma, Ohio}} (2013)
+* [[Няйф:Flag of Georgia.svg|25px|]] {{iw|Тбилиси|||Tbilisi}} (2013)
+* [[Няйф:Flag of Lithuania.svg|25px|]] [[Вильнюс]] (2014)
+* [[Няйф:Flag of Bulgaria.svg|25px|]] {{iw|Пловдив|||Plovdiv}} (2016)
+* [[Няйф:Flag of the People's Republic of China.svg|25px|]] {{iw|Чэнду|||Chengdu}} (2017)
+{{div col end}}
+== Галереясь ==
+<small><gallery mode="packed" heights=120px>
+File:Театр опери та балету (Вигляд з фронту).jpg|
+File:LvivEveningSummer2019.jpg|
+File:ProspektSvobodyLviv.jpg|
+File:LvivShevchenkoAve.JPG|
+File:Львів, Університетська 1, Головний навчальний корпус університету.jpg|
+File:StGeorgeCathedral Lviv.JPG|
+</gallery></small>
+<small><gallery mode="packed" heights=120px>
+File:2019.08.25.1442.04. Львів пл.Соборна Церква св.Андрія.jpg|
+File:Кропивницького пл., 1, церква св. Ольги і Єлизавети, 9109-HDR-Edit ed.jpg|
+File:Житловий будинок,Львів, Галицька пл., 7 ALX 1056.JPG|
+File:Town hall in Lviv2018.jpg|
+File:Lviv Railway Station.png|
+File:SykhivChurch.jpg|
+File:Arena lviv.jpg|
+File:Lviv northern part of the city.jpg|
+</gallery></small>
+[[Няйф:Rough 360-degree panoram of Lviv center. - panoramio.jpg|1400px|кенжешка|куншкасо]]
+
+== Кяльвалсь ==
+* {{cite book|title=Архітектура Львова: Час і стилі. XIII—XXI ст |location= Львів |publisher=Центр Європи|date=2008 |pages=720|isbn = 978-966-7022-77-8}} {{ref-uk}}
+* {{cite book|title=Architektura Lwowa ХІХ wieku|url=https://diasporiana.org.ua/mistetstvo/architektura-lwowa-hih-wieku-arhitektura-lvova-hih-stolittya/ |location=  Kraków |publisher= Międzynarodowe Centrum Kultury |date=1997  |pages=260 |isbn = 83-85739-43-2 }} {{ref-pl}}
+* {{cite book|title=Енциклопедія Львова&nbsp;: у 2 т. |location= Львів |publisher=Літопис|date=2007 |pages=653|isbn = 978-966-7007-69-0}} {{ref-uk}}
+* {{cite book|author= Івченко А. С. |title=Закохайся у Львів|url=http://www.ukrmap.com.ua/catalog/turistichna-tematika/putivniki/putivnik-zakohajsja-u-lviv/?id=434|location= Київ |publisher=ДНВП «Картографія»|date=2012|isbn=978-966-475-954-7}} {{ref-uk}}
+* {{cite book |title=Історія Львова. У трьох томах |location= Львів |publisher=Центр Європи|date=2006|isbn = 978-966-7022-58-7}} {{ref-uk}}
+* {{cite book|author= Мельник Б. В. |title= Вулицями старовинного Львова |location= Львів |publisher=Світ|date=2002 |pages=273|isbn = 966-603-197-3}} {{ref-uk}}
+* {{cite book|author= Назарук Микола  |title=Львів у XX столітті: соціально-екологічний аналіз |location= Львів |publisher= Видавничий центр ЛНУ ім. Івана Франка|date=2008 |pages=348|isbn = 978-966-322-108-3}} {{ref-uk}}
+* {{cite book|title=Таємниці міста Лева : книга для читання|location= Львів |publisher=Аверс|date=2004 |pages=356|isbn = 966-7466-90-6}} {{ref-uk}}
+* {{cite book|author= Orłowicz M.  |title=Ilustrowany przewodnik po Lwowie ze 102 ilustracjami i planem miasta|location= Lwów—Warszawa|date=1925 |pages=276}} {{ref-pl}}
+* {{cite book|title=Львов: справочник|url=http://elib.nlu.org.ua/object.html?id=11327 |location= Львів |publisher=Вільна Україна|date=1949 |pages=200}} {{ref-ru}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [http://city-adm.lviv.ua Официальной сайт] {{ref-uk}}
+
+{{Гео-керф}}
+
+[[Категорие:Украина|Львив]]
+[[Категорие:Украинонь ошне|Львив]]
+[[Категорие:ошне|Львив]]
+[[en:Lviv]]
+[[et:Lviv]]
+[[fi:Lviv]]
+[[hu:Lviv]]
+[[uk:Львів]]
