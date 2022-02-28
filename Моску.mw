@@ -1,29 +1,84 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Москва''
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Няйф: Coat of Arms of Moscow.svg|100px|Москунь содафксоц]]
-| align="center" width="140px" | [[Няйф: Flag of Moscow, Russia.svg|right|150px|Москунь котфоц]]
-|}
-|-
-| align=center colspan=2 | [[Няйф:Moscow In Europe.png|thumb|300px| Москунь вастоц Явропонь картаса]]
-|}
+{{Эряма васта
+|статус                   = [[Ош]]
+|изображение              = {{Photomontage|position=center
+ | photo1a = Красная площадь1.jpg|300px{{!}}
+ | photo2a = Cathedral of Christ the Saviour and Patriarshy bridge at night 03.jpg|300px{{!}}
+ | photo2b = Teatro Bolshói, Moscú, Rusia, 2016-10-03, DD 42-43 HDR.jpg|300px{{!}}
+ | photo3a = Moscow State University crop.jpg|300px{{!}}
+ | photo3b = Moscow International Business Center-1 Сrop.jpg|300px{{!}}
+ | photo4a = View to Moscow river from Bolshoy Moskvoretsky Bridge.jpg|300px{{!}}
+ | color = white
+ | color_border = white
+ | position = center
+ | spacing = 2
+ | size = 266
+ }}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = рузонь кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
 
 '''Моску Ош''' ({{lang-ru|Москва́}}) - [[Рузмастор|Рузмасторонь федерациеть]] [[пряошец]] ди ине оцю масторонь ошсь. Ащи Москва ляйса, Рузмасторонь Явропонь пяльксса. 
  
 == Эряйхне ==
-{| class="wikitable"
-|-
-!1989||2002||2012||2013
-|-
-|8 967 232||10 382 754||11 541 101||11 979 529
-
-|}
 [[File:Saint Basil's Cathedral and the Red Square.jpg|thumb|246px|]]
 [[File:Moscow-City (36211143494).jpg|thumb|246px|]]
-
+{{Эряйхне|Москва}}
+{{Wikidata/Population}}
 == Москунь аймак ==
 {{div col|colwidth=30em}}
 * Волоколамань район
@@ -63,6 +118,11 @@
 * Шаховскаянь район
 * Щелковань район
 {{div col end}}
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
 
 == Ушеширень сюлмафксне ==
 * [http://www.nomer.org/moskva Москунь Акша Лопанза]
