@@ -1,0 +1,188 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Люблин
+|васенце лем              = {{lang-pl|Lublin}}
+|изображение              = Collage of views of Lublin.jpg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = полень кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Люблин''' ({{lang-pl|Lublin}}) — [[ош]]сь [[Полень мастор|Полень масторсь]]. 
+
+== [[Географиясь]] ==
+
+== [[Климатсь]] ==
+{{Climate chart
+|Люблин ошсь 
+|-9|-3|24
+|-8|-1|26
+|-2|+5|28
+|+4|+14|37
+|+8|+19|56
+|+11|+22|74
+|+13|+24|77
+|+12|+23|66
+|+9|+19|48
+|+5|+13|35
+|0|+6|36
+|-5|0|33
+|float= 
+|clear=
+|source= [http://pl.climate-data.org/location/622/ Люблин] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Ушетфоль 1317 кизоня.
+
+== Эряйхне ==
+{{Wikidata/Population}}
+<timeline>
+ImageSize = width:720 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:360000
+ScaleMajor = unit:year increment:40000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:XVII from:0 till:5000
+  bar:1873 from:0 till:28900
+  bar:1897 from:0 till:50150
+  bar:1939 from:0 till:122000
+  bar:1946 from:0 till:99400
+  bar:1950 from:0 till:116629
+  bar:1955 from:0 till:132234
+  bar:1960 from:0 till:181304
+  bar:1965 from:0 till:204296
+  bar:1970 from:0 till:238500
+  bar:1975 from:0 till:271955
+  bar:1980 from:0 till:304424
+  bar:1985 from:0 till:326991
+  bar:1990 from:0 till:351353
+  bar:1995 from:0 till:354552
+  bar:1999 color:cobar2 from:0 till:359154
+  bar:2000 from:0 till:358933
+  bar:2005 from:0 till:354967
+  bar:2010 from:0 till:348450
+  bar:2016 from:0 till:340466
+  bar:2021 from:0 till:337788
+PlotData=
+  textcolor:black fontsize:S
+  bar:XVII at: 5000 text: 5,0 shift:(-8,5)
+  bar:1873 at: 28900 text: 28,9 shift:(-10,5)
+  bar:1897 at: 50150 text: 50,1 shift:(-8,5)
+  bar:1939 at: 122000 text: 122,0 shift:(-12,5)
+  bar:1946 at: 99400 text: 99,4 shift:(-8,5)
+  bar:1950 at: 116629 text: 116,6 shift:(-12,5)
+  bar:1955 at: 132234 text: 132,2 shift:(-12,5)
+  bar:1960 at: 181304 text: 181,3 shift:(-12,5)
+  bar:1965 at: 204296 text: 204,3 shift:(-12,5)
+  bar:1970 at: 238500 text: 238,5 shift:(-12,5)
+  bar:1975 at: 271955 text: 272,0 shift:(-12,5)
+  bar:1980 at: 304424 text: 304,4 shift:(-12,5)
+  bar:1985 at: 326991 text: 327,0 shift:(-12,5)
+  bar:1990 at: 351353 text: 351,4 shift:(-14,5)
+  bar:1995 at: 354552 text: 354,6 shift:(-12,5)
+  bar:1999 at: 359154 text: 359,2 shift:(-12,5)
+  bar:2000 at: 358933 text: 358,9 shift:(-12,5)
+  bar:2005 at: 354967 text: 355,0 shift:(-12,5)
+  bar:2010 at: 348450 text: 348,5 shift:(-12,5)
+  bar:2016 at: 348450 text: 340,6 shift:(-12,5)
+  bar:2021 at: 348450 text: 337,7 shift:(-12,5)
+</timeline>
+
+== [[Экономикась]] ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Кяльвалсь ==
+
+* {{cite book|title=Historia Lublina w zarysie 1317-1968 – praca zbiorowa pod redakcją Henryka Zinsa |location=Lublin |date =1972}}{{ref-pl}}
+* {{cite book|title=Historia miasta Lublina: informator do wystawy stałej w Muzeum Historii Miasta Lublina |author1 = Jadwiga Chmielak |author2 = Grażyna Jakimińska |author3 = Marta Polańska |location=Lublin |date =2000}}{{ref-pl}}
+* {{cite book|title=Materiały do historii miasta Lublina 1317-1792|author= Jan Riabinin|location=Lublin |date = 1938}}{{ref-pl}}
+* {{cite book|title=Lublin: dzieje miasta. T. 2, XIX i XX wiek |author = Tadeusz Radzik|location=Lublin |date =2000}}{{ref-pl}}
+* {{cite book|author1 = Andrzej Rozwałka|author2= Rafał Niedźwiadek|author3= Marek Stasiak |title = Lublin wczesnośredniowieczny |date = 2006 |isbn = 978-83-7436-054-8 |location= Warszawa |publisher= Fundacja na rzecz Nauki Polskiej |oclc = 169716254}}{{ref-pl}}
+* {{cite book|title=Lublin w dziejach najnowszych |date = 2002 |isbn = 83-227-1949-3 |author = Waldemar Kozyra |location= Lublin |publisher= Wyd. Uniwersytetu Marii Curie-Skłodowskiej |oclc = 55472660}}{{ref-pl}}
+* {{cite book|author= Dagmara Kociuba |title=Lublin. Rozwój przestrzenny i funkcjonalny od średniowiecza do współczesności |publisher=Adam Marszałek |location= Toruń |date=2011 |isbn=978-83-7780-203-8}}{{ref-pl}}
+* {{cite book|author1= Paweł Cal |author2= Krzysztof Kowalik |title=Społeczny audyt polityki rowerowej dla Lublina |date=2015 |location= Lublin|url=http://mirl.info.pl/s/audyt_polityki}}{{ref-pl}}
+* {{cite book|author= Mariusz Sagan |title=Lublin 2030 – europejska metropolia? Lublin 2030 – wyzwania rozwojowe |date = 2018 |isbn = 978-83-949126-3-5|publisher=Urząd Miasta Lublin |location= Lublin}}{{ref-pl}}
+* {{cite book|author= Małgorzata Sosnowska |title=Problemy przestrzeni komunikacyjnych powojennych osiedli mieszkaniowych Lublina|journal=Teka Komisji Architektury, Urbanistyki i Studiów Krajobrazowych |date=2009 |publisher=Polska Akademia Nauk |location= Lublin}}{{ref-pl}}
+* ''Żydzi w Lublinie: materiały do dziejów społeczności żydowskiej Lublina'' – praca zbiorowa pod redakcją Tadeusza Radzika; Lublin 1995{{ref-pl}}
+* ''Materiały źródłowe do dziejów Żydów, tom 3. W księgach grodzkich lubelskich z doby panowania Władysława IV i Jana Kazimierza Wazów 1633-1669'' – Henryk Gmiterek, Lublin 2006, [[ISBN]] 83-227-2485-3 {{ref-pl}}
+* ''Polska Lubelska 1944'' – Tadeusz Żenczykowski, 1987, [[ISBN]] 83-86225-45-9 {{ref-pl}}
+* ''Lublin. Pamięć i pamiątki. Przywileje królewskie miasta Lublina XIV-XVIII w. w zasobie Archiwum Państwowego w Lublinie'' – oprac. Justyna Kliszewska, Józef Kus; wydawca: Archiwum Państwowe; Lublin 1997{{ref-pl}}
+* ''[https://web.archive.org/web/20110720164732/http://bip.lublin.eu/um/index.php?t=200&id=31110 Trakt Kraków-Lublin-Wilno]'', Samorząd Miasta Lublin{{ref-pl}}
+* {{cite book|title=Hitlerowskie więzienie na Zamku w Lublinie 1939–1944|author = Zygmunt Mańkowski|location=Lublin |date =1988|isbn = 83-222-0446-9}} {{ref-pl}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://przemysl.pl/7/strona-glowna.html Официальной сайт] {{ref-pl}}
+
+{{Гео-керф}}
+
+[[Категорие:Полень мастор|Люблин]]
+[[Категорие:Полень мастор ошне|Люблин]]
+[[Категорие:ошне|Люблин]]
