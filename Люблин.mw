@@ -90,7 +90,7 @@
 == Эряйхне ==
 {{Wikidata/Population}}
 <timeline>
-ImageSize = width:720 height:300
+ImageSize = width:750 height:300
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -125,6 +125,7 @@ PlotData =
   bar:2005 from:0 till:354967
   bar:2010 from:0 till:348450
   bar:2016 from:0 till:340466
+  bar:2017 from:0 till:339850 
   bar:2021 from:0 till:337788
 PlotData=
   textcolor:black fontsize:S
@@ -148,6 +149,7 @@ PlotData=
   bar:2005 at: 354967 text: 355,0 shift:(-12,5)
   bar:2010 at: 348450 text: 348,5 shift:(-12,5)
   bar:2016 at: 348450 text: 340,6 shift:(-12,5)
+  bar:2017 at: 348450 text: 339,8 shift:(-12,5)
   bar:2021 at: 348450 text: 337,7 shift:(-12,5)
 </timeline>
 
