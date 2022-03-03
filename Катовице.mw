@@ -15,6 +15,60 @@
 Ошсь ушетфоль [[1598]] кизоня.
 
 == Эряйхне ==
+<timeline>
+ImageSize = width:750 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:400000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1783 from:0 till:294
+  bar:1845 from:0 till:1326
+  bar:1870 from:0 till:6780
+  bar:1897 from:0 till:25000
+  bar:1910 from:0 till:43173
+  bar:1924 from:0 till:112822
+  bar:1939 from:0 till:134000
+  bar:1945 from:0 till:107735
+  bar:1950 from:0 till:175496
+  bar:1960 from:0 till:269926
+  bar:1970 from:0 till:305000
+  bar:1980 from:0 till:355117
+  bar:1987 color:cobar2 from:0 till:368621
+  bar:1990 from:0 till:366798
+  bar:2000 from:0 till:330625
+  bar:2010 from:0 till:306826
+  bar:2020 from:0 till:291774
+PlotData=
+  textcolor:black fontsize:S
+  bar:1783 at: 294 text: 294 shift:(-8,5)
+  bar:1845 at: 1326 text: 1.326 shift:(-11,5)
+  bar:1870 at: 6780 text: 6.780 shift:(-11,5)
+  bar:1897 at: 25000 text: 25.000 shift:(-14,5)
+  bar:1910 at: 43173 text: 43.173 shift:(-14,5)
+  bar:1924 at: 112822 text: 112.822 shift:(-19,5)
+  bar:1939 at: 134000 text: 134.000 shift:(-19,5)
+  bar:1945 at: 107735 text: 107.735 shift:(-19,5)
+  bar:1950 at: 175496 text: 175.496 shift:(-19,5)
+  bar:1960 at: 269926 text: 269.926 shift:(-19,5)
+  bar:1970 at: 305000 text: 305.000 shift:(-19,5)
+  bar:1980 at: 355117 text: 355.117 shift:(-19,5)
+  bar:1987 at: 368621 text: 368.621 shift:(-17,5)
+  bar:1990 at: 366798 text: 366.798 shift:(-17,5)
+  bar:2000 at: 330625 text: 330.625 shift:(-17,5)
+  bar:2010 at: 306826 text: 306.826 shift:(-17,5)
+  bar:2020 at: 291774 text: 291.774 shift:(-17,5)
+</timeline>
+
 {{Wikidata/Population}}
 
 == [[Экономикась]] ==
