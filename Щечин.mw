@@ -1,4 +1,75 @@
-[[Няйф:POL Szczecin COA.svg|thumb|right|Щечин ошть содафксоц]]
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = 
+|васенце лем              = {{Lang-pl|Szczecin}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ | photo1a = Szczecin - panoramio (3).jpg{{!}}View of the Cathedral, Old Town and Ducal Castle
+ | photo2a = Szczecin Philharmonic Hall 3304 (cropped).jpg{{!}}Szczecin Philharmonic
+ | photo2b = Wały Chrobrego in Szczecin, winter 2021.jpg{{!}}National Museum and Voivodeship Office
+ | photo3a = Stare Miasto, Szczecin, Poland - panoramio (10).jpg{{!}}Old Town Hall in Stare Miasto
+| size = 260
+| spacing = 2
+| border = 0
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = полень кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
 '''Щечин''' ({{Lang-pl|Szczecin}}) — ошсь [[Шивалгомань Померания воеводши|Шивалгомань Померания воеводшиса]], пялевень-шивалгомань [[Полень мастор|Полень масторса]]. Щечинца 403 833 эряйда (2017). 
 
 == [[Географиясь]] ==
@@ -6,18 +77,87 @@
 == [[Климатсь]] ==
 
 == [[Историясь]] ==
-Ошсь ушетфоль 1865 кизоня.
 
 == Эряйхне ==
+<timeline>
+ImageSize = width:830 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:420000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:XII from:0 till:5000
+  bar:1720 from:0 till:6000
+  bar:1740 from:0 till:12300
+  bar:1810 from:0 till:20700
+  bar:1840 from:0 till:35300
+  bar:1861 from:0 till:58500
+  bar:1872 from:0 till:76000
+  bar:1890 from:0 till:116200
+  bar:1910 from:0 till:236000
+  bar:1939 from:0 till:383000
+  bar:1945 from:0 till:26000
+  bar:1946 from:0 till:72948
+  bar:1950 from:0 till:178907
+  bar:1955 from:0 till:229462
+  bar:1960 from:0 till:269318
+  bar:1965 from:0 till:312013
+  bar:1978 from:0 till:384900
+  bar:1988 from:0 till:410296
+  bar:1994 color:cobar2 from:0 till:419608
+  bar:2002 from:0 till:415117
+  bar:2009 from:0 till:406307
+  bar:2014 from:0 till:407180
+  bar:2020 from:0 till:400990
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:XII at: 5000 text: 5,0 shift:(0)
+  bar:1720 at: 6000 text: 6,0 shift:(0)
+  bar:1740 at: 12300 text: 12,3 shift:(0)
+  bar:1810 at: 20700 text: 20,7 shift:(0)
+  bar:1840 at: 35300 text: 35,3 shift:(0)
+  bar:1861 at: 58500 text: 58,5 shift:(0)
+  bar:1872 at: 76000 text: 76,0 shift:(0)
+  bar:1890 at: 116200 text: 116,2 shift:(0)
+  bar:1910 at: 236000 text: 236,0 shift:(0)
+  bar:1939 at: 383000 text: 383,0 shift:(0)
+  bar:1945 at: 26000 text: 26,0 shift:(0)
+  bar:1946 at: 72948 text: 72,9 shift:(0)
+  bar:1950 at: 178907 text: 178,9 shift:(0)
+  bar:1955 at: 229462 text: 229,4 shift:(0)
+  bar:1960 at: 269318 text: 269,3 shift:(0)
+  bar:1965 at: 312013 text: 312,0 shift:(0)
+  bar:1978 at: 384900 text: 384,9 shift:(0)
+  bar:1988 at: 410296 text: 410,3 shift:(0)
+  bar:1994 at: 419608 text: 419,6 shift:(0)
+  bar:2002 at: 415117 text: 415,1 shift:(0)
+  bar:2009 at: 406307 text: 406,3 shift:(0)
+  bar:2014 at: 407180 text: 407,2 shift:(0)
+  bar:2020 at: 400990 text: 401,0 shift:(0)
+</timeline>
 {{Wikidata/Population}}
 
-[[Няйф:1109 Szczecin Panorama.jpg|800px|center]]
+== [[Экономикась]] ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+[[Няйф:1109 Szczecin Panorama.jpg|1500px|center]]
 
 == Лятфтамат ==
 {{Лятфтамат}}
 
 {{Гео-керф}}
 
-[[Категорие:Полень мастор]]
-[[Категорие:Силезия]]
+[[Категорие:Полень мастор ошне|Щ]]
 [[Категорие:Силезиянь ошне]]
