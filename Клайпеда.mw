@@ -84,6 +84,53 @@
 Ушетфоль [[1252]] кизоня.
 
 == Эряйхне ==
+<timeline>
+ImageSize = width:650 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:250
+ScaleMajor = unit:year increment:50 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:25 align:left
+ bar:1989 from:0 till:202
+ bar:1992 from:0 till:207
+ bar:1999 from:0 till:203
+ bar:2003 from:0 till:190
+ bar:2004 from:0 till:189
+ bar:2005 from:0 till:188
+ bar:2006 from:0 till:187
+ bar:2007 from:0 till:185
+ bar:2011 from:0 till:177
+ bar:2014 from:0 till:157
+ bar:2017 from:0 till:151	
+ bar:2018 from:0 till:148
+ bar:2020 from:0 till:149
+ bar:2021 from:0 till:152
+PlotData=
+ textcolor:black fontsize:S
+ bar:1989 at: 227 text: 202,929 shift:(-17,5)
+ bar:1992 at: 227 text: 207,100 shift:(-17,5)
+ bar:1999 at: 223 text: 203,300 shift:(-17,5)
+ bar:2003 at: 210 text: 190,906 shift:(-17,5)
+ bar:2004 at: 209 text: 189,477 shift:(-17,5)
+ bar:2005 at: 208 text: 188,042 shift:(-17,5)
+ bar:2006 at: 207 text: 187,316 shift:(-17,5)
+ bar:2007 at: 205 text: 185,899 shift:(-17,5)
+ bar:2011 at: 197 text: 177,812 shift:(-17,5)
+ bar:2014 at: 177 text: 157,350 shift:(-17,5)
+ bar:2017 at: 177 text: 151,309	shift:(-17,5)
+ bar:2018 at: 177 text: 148,908	shift:(-17,5)
+ bar:2020 at: 177 text: 149,157	shift:(-17,5)
+ bar:2021 at: 177 text: 152,008	shift:(-17,5)
+</timeline>
 {{Wikidata/Population}}
 
 == [[Экономикась]] ==
