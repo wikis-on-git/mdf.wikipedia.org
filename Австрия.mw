@@ -1,18 +1,141 @@
-{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Republik Österreich''
-|-
-| style="background:#efefef;" align="center" colspan=2 |
-{| border="0" cellpadding="2" cellspacing="0"
-|-
-| align="center" width="140px" | [[Няйф: Austria Bundesadler.svg|100px]]
-| align="center" width="140px" | [[Няйф: Flag of Austria.svg|right|150px]]
-|}
-|-
-| align=center colspan=2 | [[Няйф: AU-map-en.jpg|thumb|260px| Австриеть картац]]
-|}
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Австриянь республикась
+|васенце лем              = {{lang-de|Republik Österreich}}
+|изображение              = EU-Austria.svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнясь                  = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
 
+'''Австрия''' ({{lang-de|Österreich}}) илань коряс '''Австриянь республикась''' ({{lang-de|Republik Österreich}}) — масторсь Кучка Явропса. 
 
-'''Австрие''' ({{lang-de|Österreich}}) илань коряс '''Австриень республик''' ({{lang-de|Republik Österreich}}) - масторсь Кучка Явропса. Сонь улихть масторкитькссна [[Германия мастор|Германия]], [[Чехмастор]] кельме ширеса, [[Словакие]] ди [[Венгеронь мастор]] шистяма ширеса, [[Словение]] ди [[Италие]] лямбе ширеса, [[Швайцарие]] ди [[Лихтенштайн]] шивалгом ширеса. Пряошец [[Вена]] [[Дунай (ляй)|Дунай]] ляйса.
+== [[Географиясь]] ==
+[[Няйф: AU-map-en.jpg|160px|кенжешка|керш_кедь|Австриять картац]]
+Сонь улихть масторкитькссна [[Германия мастор|Германия]], [[Чехмастор]] кельме ширеса, [[Словакия]] ди [[Венгеронь мастор]] шистяма ширеса, [[Словения]] ди [[Италия]] лямбе ширеса, [[Швайцария]] ди [[Лихтенштайн]] шивалгом ширеса. 
+
+Пряошец [[Вена]] [[Дунай (ляй)|Дунай]] ляйса.
+
+== [[Климатсь]] ==
+
+== [[Историясь]] ==
+Ушетфоль 12 ноябрьста 1918 кизоня.
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:700 height:330
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:9000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:200 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1870 from:0 till:4520
+  bar:1880 from:0 till:4941
+  bar:1890 from:0 till:5394
+  bar:1900 from:0 till:5973
+  bar:1910 from:0 till:6614
+  bar:1920 from:0 till:6455
+  bar:1930 from:0 till:6684
+  bar:1939 from:0 till:6653
+  bar:1950 from:0 till:6935
+  bar:1960 from:0 till:7047
+  bar:1970 from:0 till:7467
+  bar:1980 from:0 till:7549
+  bar:1990 from:0 till:7678
+  bar:2000 from:0 till:8012
+  bar:2005 from:0 till:8225
+  bar:2010 from:0 till:8363
+  bar:2015 from:0 till:8700
+  bar:2021 from:0 till:8979
+PlotData=
+  textcolor:black fontsize:S
+  bar:1870 at: 4520 text: 4.520 shift:(-14,5)
+  bar:1880 at: 4941 text: 4.941 shift:(-14,5)
+  bar:1890 at: 5394 text: 5.394 shift:(-14,5)
+  bar:1900 at: 5973 text: 5.973 shift:(-14,5)
+  bar:1910 at: 6614 text: 6.614 shift:(-14,5)
+  bar:1920 at: 6455 text: 6.455 shift:(-14,5)
+  bar:1930 at: 6684 text: 6.684 shift:(-14,5)
+  bar:1939 at: 6653 text: 6.653 shift:(-14,5)
+  bar:1950 at: 6935 text: 6.935 shift:(-14,5)
+  bar:1960 at: 7047 text: 7.047 shift:(-14,5)
+  bar:1970 at: 7467 text: 7.467 shift:(-14,5)
+  bar:1980 at: 7549 text: 7.549 shift:(-14,5)
+  bar:1990 at: 7678 text: 7.678 shift:(-14,5)
+  bar:2000 at: 8012 text: 8.012 shift:(-14,5)
+  bar:2005 at: 8225 text: 8.225 shift:(-14,5)
+  bar:2010 at: 8363 text: 8.363 shift:(-14,5)
+  bar:2015 at: 8700 text: 8.700 shift:(-14,5)
+  bar:2021 at: 8900 text: 8.979 shift:(-14,5)
+</timeline>
+
+== [[Экономикась]] ==
+
+== Лятфтамат ==
+{{Лятфтамат}}
 
 == Ушеширень кучфтемат ==
 * [http://www.rechtsfreund.at/law-austria.htm Австриень койхть] Австриень масторонь койхнень коряс информациесь
@@ -21,3 +144,4 @@
 {{Гео-керф}}
 
 [[Категорие:Явропонь масторхне]]
+[[Категорие:Австрия]]
