@@ -1,0 +1,215 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Крывый Риг
+|васенце лем              = {{lang-uk|Кривий Ріг}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = Kryvyi Rih Old Town (cropped).jpg
+ |photo1b = 1
+ |photo2a = Kryvyi Rih.jpg
+ |photo2b = № 137 Головпоштамп.jpg
+ |photo3a = 01 Инстит 2335.jpg
+ |photo3b = Театр імені Шевченка.jpg
+ |photo4a = Boat station in Kryvyi Rih.jpg
+ |photo4b = Південруда Кр Р.jpg
+ |photo5a = Стела при въезде в город на Кировоградском шоссе.jpg
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = {{UKR}}
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = Аймак
+|регион                   = Днипропэтровскоень аймак{{!}}Днипропэтровскоень
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = Мэр
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = украинонь кяль
+|эряйхне                  = 603 904<ref>[http://www.ukrstat.gov.ua/druk/publicat/kat_u/publ2_u.htm Регіональна статистика] {{ref-uk}}</ref>
+|год переписи             = 2022
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Крывый Риг''' ({{lang-uk|Кривий Ріг}} {{IPA2|krɪˈʋɪi̯ rʲiɦ|МФА|Uk-Кривий Ріг.ogg}}) — [[ош]]сь {{iw|Днипропэтровскоень аймак|Днипропэтровскоень аймакть|uk|Дніпропетровська область}} [[Украина|Украинонь масторсь]].
+
+== [[Географиясь]] ==
+
+== [[Климатсь]] ==
+{{Climate chart
+|Крывый Риг ошсь
+|-5.4|-0.2|42
+|-4.8|1.8|33
+|-1.5|7.7|45
+|5|15.5|44
+|11.2|22.1|57
+|15.4|25.4|64
+|18.3|28.1|50
+|17.9|28.3|42
+|12.6|21.8|48
+|6.3|14.1|38
+|1.6|7|40
+|-2.4|2.2|41
+|float=
+|clear=
+|source= [https://en.climate-data.org/europe/ukraine/dnipropetrovsk-oblast/krivoy-rog-6161/ Крывый Риг]«Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Ушетфоль 1775 кизоня.
+
+== Эряйхне ==
+{{Wikidata/Population}}
+
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:canvas value:rgb(1,1,1)
+  id:barra value:rgb(0.2,0.7,0.8)
+ImageSize = width:auto height:270 barincrement:35
+PlotArea = left:50 right:20 top:25 bottom:30
+DateFormat = yyyy
+Period = from:0 till:800000
+TimeAxis = orientation:vertical
+AlignBars = late
+BackgroundColors = canvas:canvas
+ScaleMajor = gridcolor:darkgrey increment:100000 start:0
+ScaleMinor = gridcolor:lightgrey increment:100000 start:0
+BarData=
+  bar:1781 text:1781
+  bar:1859 text:1859
+  bar:1887 text:1887
+  bar:1896 text:1896
+  bar:1916 text:1916
+  bar:1920 text:1920
+  bar:1923 text:1923
+  bar:1926 text:1926
+  bar:1939 text:1939
+  bar:1941 text:1941
+  bar:1956 text:1956
+  bar:1969 text:1969
+  bar:1989 text:1989
+  bar:2001 text:2001
+  bar:2006 text:2006
+  bar:2009 text:2009
+  bar:2014 text:2014
+  bar:2018 text:2018
+  bar:2019 text:2019
+  bar:2020 text:2020
+  bar:2021 text:2021
+  bar:2022 text:2022 
+PlotData=
+  color:barra width:5 align:left
+  bar:1781 from:0 till:2184
+  bar:1859 from:0 till:3644
+  bar:1887 from:0 till:6000
+  bar:1896 from:0 till:17000
+  bar:1916 from:0 till:26700
+  bar:1920 from:0 till:22700
+  bar:1923 from:0 till:19000
+  bar:1926 from:0 till:31194
+  bar:1939 from:0 till:197000
+  bar:1941 from:0 till:213000
+  bar:1956 from:0 till:322000
+  bar:1969 from:0 till:623000
+  bar:1989 from:0 till:769100
+  bar:2001 from:0 till:712500
+  bar:2006 from:0 till:692181
+  bar:2009 from:0 till:674866
+  bar:2014 from:0 till:654900
+  bar:2018 from:0 till:629695
+  bar:2019 from:0 till:624579
+  bar:2020 from:0 till:621587									
+  bar:2021 from:0 till:612750									
+  bar:2022 from:0 till:603904
+TextData=
+  fontsize: S pos:(180,30)
+  text:
+</timeline>
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== Тонадомась ==
+
+== Спортсь ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Фотоархтофкс ==
+<gallery mode="packed" heights=125px>
+Nativity of the Theotokos Church, Kryvyi Rih.jpeg
+Храм ікони Божої матері "Взискання загиблих ", парк Ювілейний м. Кривий Ріг.jpg
+Костел Успіння Пресвятої Діви Марії (Кривий Ріг) 01.jpg
+Кривий Ріг - Свято-Миколаївський храм.jpg
+Kryvyi Rih - building2.jpg
+Пам’ятник 66 річниці визволення України 04.JPG
+Храм Йоана Лествічника.JPG
+</gallery>
+
+<gallery mode="packed" heights=120px>
+Синагога - panoramio (5) (cropped).jpg
+Кривий Ріг музичне училище.jpg
+Kryvyi Rih - building3.jpg
+Фонтан Сказка.JPG
+Park Gazeta Prawda Krywyj Rih 1.JPG
+Квітковий годинник у Кривому Розі.jpg
+</gallery>
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [http://www.kr.gov.ua/  Официальной сайт] {{ref-uk}}
+
+{{Гео-керф}}
+
+[[Категорие:Украина|Крывый Риг]]
+[[Категорие:Украинонь ошне|Крывый Риг]]
+[[Категорие:ошне|Крывый Риг]]
