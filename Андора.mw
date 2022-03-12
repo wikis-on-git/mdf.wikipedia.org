@@ -73,6 +73,74 @@
 
 == Эряйхне ==
 {{Wikidata/Population}}
+<timeline>
+ImageSize = width:750 height:350
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:90000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1947 from:0 till:5385
+  bar:1950 from:0 till:6176
+  bar:1955 from:0 till:6189
+  bar:1960 from:0 till:8392
+  bar:1964 from:0 till:12200
+  bar:1968 from:0 till:17216
+  bar:1972 from:0 till:23092
+  bar:1976 from:0 till:26880
+  bar:1980 from:0 till:35460
+  bar:1984 from:0 till:42712
+  bar:1988 from:0 till:50528
+  bar:1992 from:0 till:61599
+  bar:1996 from:0 till:64479
+  bar:2000 from:0 till:65844
+  bar:2002 from:0 till:67159
+  bar:2004 from:0 till:76875
+  bar:2006 from:0 till:81222
+  bar:2008 from:0 till:84484
+  bar:2010 color:green from:0 till:85015
+  bar:2012 from:0 till:76246
+  bar:2014 from:0 till:76949
+  bar:2016 from:0 till:77312
+  bar:2018 from:0 till:76177
+PlotData=
+  textcolor:black fontsize:S
+  bar:1947 at: 5385 text: 5.385 shift:(-14,5)
+  bar:1950 at: 6176 text: 6.176 shift:(-14,5)
+  bar:1955 at: 6189 text: 6.189 shift:(-14,5)
+  bar:1960 at: 8392 text: 8.392 shift:(-14,5)
+  bar:1964 at: 12200 text: 12.200 shift:(-14,5)
+  bar:1968 at: 17216 text: 17.216 shift:(-14,5)
+  bar:1972 at: 23092 text: 23.092 shift:(-14,5)
+  bar:1976 at: 26880 text: 26.880 shift:(-14,5)
+  bar:1980 at: 35460 text: 35.460 shift:(-14,5)
+  bar:1984 at: 42712 text: 42.712 shift:(-14,5)
+  bar:1988 at: 50528 text: 50.528 shift:(-14,5)
+  bar:1992 at: 61599 text: 61.599 shift:(-14,5)
+  bar:1996 at: 64479 text: 64.479 shift:(-14,5)
+  bar:2000 at: 65844 text: 56.844 shift:(-14,5)
+  bar:2002 at: 67159 text: 67.159 shift:(-14,5)
+  bar:2004 at: 76875 text: 76.875 shift:(-14,5)
+  bar:2006 at: 81222 text: 81.222 shift:(-14,5)
+  bar:2008 at: 84484 text: 84.484 shift:(-14,5)
+  bar:2010 at: 85015 text: 85.015 shift:(-14,5)
+  bar:2012 at: 76246 text: 76.246 shift:(-14,5)
+  bar:2014 at: 76949 text: 76.949 shift:(-14,5)
+  bar:2016 at: 77312 text: 77.312 shift:(-14,5)
+  bar:2016 at: 76177 text: 76.177 shift:(-14,5)
+TextData=
+ fontsize:S pos:(20,20)
+ text: 
+</timeline>
 
 == [[Экономикась]] ==
 
