@@ -66,16 +66,15 @@
 
 == [[Географиясь]] ==
 
-
 == [[Климатсь]] ==
 
 == [[Историясь]] ==
-Ушетфоль 1964 [[киза|кизоня]].
+Ушетфоль 21 сентябрьста 1964 [[киза|кизоня]].
 
 == Эряйхне ==
 {{Wikidata/Population}}
 <timeline>
-ImageSize = width:750 height:300
+ImageSize = width:900 height:300
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -97,14 +96,20 @@ PlotData =
  bar:1931 from:0 till:241621
  bar:1948 from:0 till:306996
  bar:1957 from:0 till:319620
+ bar:1968 from:0 till:309700
+ bar:1975 from:0 till:301892
  bar:1980 from:0 till:325721
  bar:1985 from:0 till:345418
  bar:1990 from:0 till:355910
  bar:1995 from:0 till:372135
  bar:2005 from:0 till:404962
  bar:2006 from:0 till:405616
+ bar:2009 from:0 till:410926
  bar:2010 from:0 till:414989
+ bar:2012 from:0 till:417546
  bar:2014 from:0 till:445426
+ bar:2018 from:0 till:475701
+ bar:2019 from:0 till:493559
  bar:2020 from:0 till:514564
 PlotData=
  textcolor:black fontsize:S align:center
@@ -115,14 +120,20 @@ PlotData=
  bar:1931 at: 241621 text: 241_621 shift:(0,4)
  bar:1948 at: 306996 text: 306_996 shift:(0,4)
  bar:1957 at: 319620 text: 319_620 shift:(0,4)
+ bar:1968 at: 309700 text: 309_700 shift:(0,4)
+ bar:1975 at: 301892 text: 301_892 shift:(0,4)
  bar:1980 at: 325721 text: 325_721 shift:(0,4)
  bar:1985 at: 345418 text: 345_418 shift:(0,4)
  bar:1990 at: 355910 text: 355_910 shift:(0,4)
  bar:1995 at: 372135 text: 372_135 shift:(0,4)
  bar:2005 at: 404962 text: 404_962 shift:(0,4)
  bar:2006 at: 405616 text: 405_616 shift:(0,4)
+ bar:2009 at: 410926 text: 410_926 shift:(0,4)
  bar:2010 at: 414989 text: 414_989 shift:(0,4)
+ bar:2012 at: 417546 text: 417_546 shift:(0,4)
  bar:2014 at: 445426 text: 445_426 shift:(0,4)
+ bar:2018 at: 475701 text: 475_701 shift:(0,4)
+ bar:2019 at: 493559 text: 493_559 shift:(0,4)
  bar:2020 at: 514564 text: 514_564 shift:(0,4)
 </timeline>
 
