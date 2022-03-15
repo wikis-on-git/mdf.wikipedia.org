@@ -76,7 +76,85 @@
 
 == Эряйхне ==
 {{Wikidata/Population}}
-
+<timeline>
+ImageSize = width:1100 height:300
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:50000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:5000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:19 align:center
+ bar:1901 from:0 till:7500
+ bar:1905 from:0 till:7900
+ bar:1910 from:0 till:8500
+ bar:1915 from:0 till:8700
+ bar:1920 from:0 till:8800
+ bar:1925 from:0 till:9300
+ bar:1930 from:0 till:9900
+ bar:1935 from:0 till:10400
+ bar:1945 from:0 till:12000
+ bar:1950 from:0 till:13600
+ bar:1960 from:0 till:16500
+ bar:1970 from:0 till:21100
+ bar:1975 from:0 till:23800
+ bar:1980 from:0 till:25500
+ bar:1985 from:0 till:26900
+ bar:1990 from:0 till:28700
+ bar:1995 from:0 till:30800
+ bar:2000 from:0 till:32673
+ bar:2005 from:0 till:34734
+ bar:2006 from:0 till:35010
+ bar:2009 from:0 till:35789
+ bar:2010 from:0 till:36010
+ bar:2012 from:0 till:36636
+ bar:2014 from:0 till:37215
+ bar:2015 from:0 till:37468
+ bar:2016 from:0 till:37686
+ bar:2017 from:0 till:37877
+ bar:2018 from:0 till:38111
+ bar:2019 from:0 till:38378
+ bar:2020 from:0 till:39055
+PlotData=
+ textcolor:black fontsize:S align:center
+ bar:1901 at: 7500 text: 7,500 shift:(0,4)
+ bar:1905 at: 7900 text: 7,900 shift:(0,4)
+ bar:1910 at: 8500 text: 8,500 shift:(0,4)
+ bar:1915 at: 8700 text: 8,700 shift:(0,4)
+ bar:1920 at: 8800 text: 8,800 shift:(0,4)
+ bar:1925 at: 9300 text: 9,300 shift:(0,4)
+ bar:1930 at: 9900 text: 9,900 shift:(0,4)
+ bar:1935 at: 10400 text: 10,400 shift:(0,4)
+ bar:1945 at: 12000 text: 12,000 shift:(0,4)
+ bar:1950 at: 13600 text: 13,600 shift:(0,4)
+ bar:1960 at: 16500 text: 16,500 shift:(0,4)
+ bar:1970 at: 21100 text: 21,100 shift:(0,4)
+ bar:1975 at: 23800 text: 23,800 shift:(0,4)
+ bar:1980 at: 25500 text: 25,500 shift:(0,4)
+ bar:1985 at: 26900 text: 26,900 shift:(0,4)
+ bar:1990 at: 28700 text: 28,700 shift:(0,4)
+ bar:1995 at: 30800 text: 30,800 shift:(0,4)
+ bar:2000 at: 32673 text: 32,673 shift:(0,4)
+ bar:2005 at: 34734 text: 34,734 shift:(0,4)
+ bar:2006 at: 35010 text: 35,010 shift:(0,4)
+ bar:2009 at: 35789 text: 35,789 shift:(0,4)
+ bar:2010 at: 36010 text: 36,010 shift:(0,4)
+ bar:2012 at: 36636 text: 36,636 shift:(0,4)
+ bar:2014 at: 37215 text: 37,215 shift:(0,4)
+ bar:2015 at: 37468 text: 37,468 shift:(0,4)
+ bar:2016 at: 37686 text: 37,686 shift:(0,4)
+ bar:2017 at: 37877 text: 37,877 shift:(0,4)
+ bar:2018 at: 38111 text: 38,111 shift:(0,4)
+ bar:2019 at: 38378 text: 38,378 shift:(0,4)
+ bar:2020 at: 39055 text: 39,055 shift:(0,4)
+</timeline>
 == [[Экономикась]] ==
 
 == Культурась ==
