@@ -1,0 +1,206 @@
+{{Эряма васта
+|статус                   = [[Пряошец]]
+|мокшень лемтне           = София
+|васенце лем              = {{lang-bg|София}}
+|изображение              = Sofia 333.jpg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнясь                  = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''София''' ({{lang-bg|София}}) — [[пряошец]] ди ине оцю [[ош]]сь [[Болгария|Болгариянь масторонь]]<ref>{{cite book|last=Rogers|first=Clifford|title=The Oxford Encyclopedia of Medieval Warfare and Military Technology|publisher=Oxford University Press|year=2010|page=301|volume=1|isbn=9780195334036|url=https://web.archive.org/web/20200717164313/https://books.google.com/books?id=mzwpq6bLHhMC&pg=RA2-PA301}}{{ref-en}} </ref>.
+
+== [[Географиясь]] ==
+[[Няйф:Cathedral Saint Alexander Nevsky (23997168458).jpg|279px|кенжешка|вить_кедь]]
+[[Няйф:Independence Square (23997057638).jpg|279px|кенжешка|вить_кедь]]
+[[Няйф:Sofia (37536243674).jpg|279px|кенжешка|вить_кедь]]
+
+== [[Климатсь]] ==
+{{Climate chart 
+|София ошсь 
+| -5.6| 2.5| 44
+| -3.8| 5.1| 42
+| 0.2|	9.8| 58
+| 4.8| 14.9| 64
+| 9.7| 19.4| 77
+| 13.7| 23.1| 67
+| 15.8| 25.4| 55
+| 16.1| 25.9| 38			
+| 11.7| 21.1| 39
+| 6.6| 15.7| 48
+| 1.6| 10.2| 40
+| -3| 4.3| 51
+|float= 
+|clear=
+|source= [https://en.climate-data.org/europe/bulgaria/sofia/sofia-6424/ София] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Ушетфоль 1849 кизоня.
+
+== Эряйхне ==
+{{Wikidata/Population}}
+<timeline>
+ImageSize = width:750 height:280
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1500
+ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:50 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:19 align:left
+ bar:1700s from:0 till:70
+ bar:1870 from:0 till:19
+ bar:1880 from:0 till:20
+ bar:1887 from:0 till:30
+ bar:1892 from:0 till:46
+ bar:1900 from:0 till:68
+ bar:1905 from:0 till:82
+ bar:1910 from:0 till:102
+ bar:1920 from:0 till:154
+ bar:1926 from:0 till:213
+ bar:1934 from:0 till:287
+ bar:1939 from:0 till:401
+ bar:1946 from:0 till:435
+ bar:1956 from:0 till:639
+ bar:1965 from:0 till:802
+ bar:1975 from:0 till:965
+ bar:1985 from:0 till:1121
+ bar:1992 from:0 till:1114
+ bar:2001 from:0 till:1091
+ bar:2011 from:0 till:1202
+ bar:2015 from:0 till:1228
+ bar:2016 from:0 till:1236
+ bar:2018 from:0 till:1269
+PlotData=
+ textcolor:black fontsize:S
+ bar:1700s at: 70 text: 70,0 shift:(-8,5)
+ bar:1870 at: 19 text: 19,0 shift:(-8,5)
+ bar:1880 at: 20 text: 20,5 shift:(-8,5)
+ bar:1887 at: 30 text: 30,5 shift:(-11,5)
+ bar:1892 at: 46 text: 46,6 shift:(-11,5)
+ bar:1900 at: 68 text: 68,0 shift:(-11,5)
+ bar:1905 at: 82 text: 82,6 shift:(-11,5)
+ bar:1910 at: 102 text: 102,8 shift:(-14,5)
+ bar:1920 at: 154 text: 154,0 shift:(-14,5)
+ bar:1926 at: 213 text: 213,0 shift:(-11,5)
+ bar:1934 at: 287 text: 287,1 shift:(-14,5)
+ bar:1939 at: 401 text: 401,0 shift:(-14,5)
+ bar:1946 at: 435 text: 435,0 shift:(-14,5)
+ bar:1956 at: 639 text: 639,9 shift:(-14,5)
+ bar:1965 at: 802 text: 802,4 shift:(-14,5)
+ bar:1975 at: 965 text: 965,7 shift:(-14,5)
+ bar:1985 at: 1121 text: 1122 shift:(-14,5)
+ bar:1992 at: 1114 text: 1115 shift:(-14,5)
+ bar:2001 at: 1091 text: 1092 shift:(-14,5)
+ bar:2011 at: 1202 text: 1203 shift:(-14,5)
+ bar:2015 at: 1228 text: 1228 shift:(-14,5)
+ bar:2016 at: 1236 text: 1236 shift:(-14,5)
+ bar:2018 at: 1269 text: 1269 shift:(-14,5)
+</timeline>
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Галереясь ==
+<gallery mode="packed" heights="150" caption=>
+File:StSophiaChurch-Sofia-10.jpg|
+File:Sofia '17 (24614289157) ver 2.jpg|
+File:Mladost3.jpg|
+File:CentralMarketHall-Sofia-C.jpg|
+File:Sofia Hotel Rodina near Russki pametnik 2012 PD 2.jpg|
+File:BusinessParkSofia view3.jpg|
+File:Old house - Sofia - 2.jpg|
+File:Tsar Liberator blvd building - Sofia.jpg|
+File:Bulgaria Bulgaria-0546 - Church of St Nicholas the Miracle-Maker (7390227698).jpg|
+File:Banya Bashi Mosque (37849692391).jpg| 
+File:20140618 Sofia 04.jpg| 
+File:Sofia Synagogue 11c.jpg|
+File:Kvadrat 500.jpg|
+</gallery>
+
+== Кальвалсь ==
+{{refbegin|30em}}
+* {{cite book|title=Bulgaria, Hungary, Romania, the Czech Republic, and Slovakia|publisher=Britannica Educational Publishing|isbn=9781615309870|url=https://web.archive.org/web/20210221062712/https://books.google.com/books?id=Pf6cAAAAQBAJ&pg=PA9}}{{ref-en}}
+* {{cite book |last=Collective |title=Encyclopedia of Figurative Arts in Bulgaria, volume 1 |publisher=Bulgarian Academy of Sciences|year=1980 |location=Sofia |pages=209–210}} {{ref-en}}
+* {{cite book|title=2011 census, Sofia-capital|publisher=National Statistical Institute of Bulgaria|location=Sofia|page=37 40 43 68 71 74 99 117 132 190 193 196 |edition=23|year=2012|url=https://web.archive.org/web/20160215111319/http://statlib.nsi.bg:8181/isisbgstat/ssp/fulltext.asp?content=%2FFullT%2FFulltOpen%2FP_22_2011_T3_KN23.pdf }}{{ref-en}}
+* {{cite book |title = History of Medieval Bulgaria VII–XIV centuries |author1=Ivan Bozhilov|author2=Vasil Gyuzelev|year=1999|location =Sofia|isbn = 954-426-204-0}}
+* {{cite book|title = София – от древността до нови времена|last = Stancheva|first = Magdalina|year = 2010|publisher = New Bulgarian University|location =Sofia|isbn = 978-954-535-579-0}}
+{{refend}}
+ 
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://www.sofia.bg/en/web/sofia-municipality/ Официальной сайт]
+
+{{Гео-керф}}
+
+[[Категорие:Пряошне|София]]
+[[Категорие:Болгариянь ошне|София]]
