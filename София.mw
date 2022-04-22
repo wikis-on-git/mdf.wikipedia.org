@@ -67,6 +67,7 @@
 [[Няйф:Cathedral Saint Alexander Nevsky (23997168458).jpg|279px|кенжешка|вить_кедь]]
 [[Няйф:Independence Square (23997057638).jpg|279px|кенжешка|вить_кедь]]
 [[Няйф:Sofia (37536243674).jpg|279px|кенжешка|вить_кедь]]
+[[Няйф:Downtown Sofia Boby Dimitrov 1.jpg|279px|кенжешка|вить_кедь]]
 
 == [[Климатсь]] ==
 {{Climate chart 
@@ -131,6 +132,7 @@ PlotData =
  bar:2015 from:0 till:1228
  bar:2016 from:0 till:1236
  bar:2018 from:0 till:1269
+ bar:2022 from:0 till:1376
 PlotData=
  textcolor:black fontsize:S
  bar:1700s at: 70 text: 70,0 shift:(-8,5)
@@ -156,6 +158,7 @@ PlotData=
  bar:2015 at: 1228 text: 1228 shift:(-14,5)
  bar:2016 at: 1236 text: 1236 shift:(-14,5)
  bar:2018 at: 1269 text: 1269 shift:(-14,5)
+ bar:2022 at: 1376 text: 1376 shift:(-14,5)
 </timeline>
 == [[Экономикась]] ==
 
