@@ -101,7 +101,7 @@
 == Эряйхне ==
 {{Wikidata/Population}}
 <timeline>
-ImageSize = width:750 height:380
+ImageSize = width:850 height:380
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -157,6 +157,7 @@ PlotData=
   bar:2020 at: 471525 text: 471.525 shift:(-18,5)
   bar:2021 at: 470805 text: 470.805 shift:(-18,5)
 </timeline>
+
 == [[Экономикась]] ==
 
 == Культурась ==
