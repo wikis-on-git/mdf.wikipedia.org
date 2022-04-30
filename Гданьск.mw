@@ -1,0 +1,185 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Гданьск
+|васенце лем              = {{lang-pl|Gdańsk}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = Collage of views of Gdansk (cropped).jpg
+ |photo2a = Gdańsk, Długie Pobrzeże (HB1).jpg
+ |photo2b = Gdańsk, Brama Zielona (HB1).jpg
+ |photo3a = Capilla Real, Gdansk, Polonia, 2013-05-20, DD 01.jpg
+ |photo3b = Gdańsk, Brama Złota (HB1).jpg
+ |photo4a = Długi Targ w Gdańsku (2009).JPG
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = полень кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Гданьск''' ({{lang-pl|Gdańsk}}) — [[ош]]сь [[Полень мастор|Полень масторсь]]. 
+
+== [[Географиясь]] ==
+[[Няйф:635422 Gdańsk-k.Mariacki 01.JPG|275px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+{{Climate chart	
+|Гданьск ошсь 
+| -2.9| 0.9| 42
+| -2.6| 2.3| 36
+| -0.4|	6.4| 42
+| 3.5| 12.2| 45
+| 8.1| 17.3| 62
+| 12.1| 20.3| 71
+| 15| 22.5| 89
+| 14.7| 22.4| 74
+| 11.3| 18.2| 57
+| 6.9| 12.4| 51
+| 3.2| 7.1| 44
+| -0.4| 3.2| 46
+|float= 
+|clear=
+|source= [https://en.climate-data.org/europe/poland/pomeranian-voivodeship/gdansk-233/ Гданьск] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Ушетфоль 997 кизоня.
+
+== Эряйхне ==
+{{Wikidata/Population}}
+<timeline>
+ImageSize = width:750 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:500000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:left
+  bar:1939 from:0 till:250000
+  bar:1946 from:0 till:117894
+  bar:1950 from:0 till:194633
+  bar:1960 from:0 till:286940
+  bar:1970 from:0 till:365600
+  bar:1980 from:0 till:456707
+  bar:1987 from:0 till:469053
+  bar:1990 from:0 till:465143
+  bar:1995 from:0 till:463019
+  bar:2000 from:0 till:462995
+  bar:2005 from:0 till:458053
+  bar:2010 from:0 till:460509
+  bar:2015 from:0 till:461798
+  bar:2016 from:0 till:463754
+  bar:2017 from:0 till:464254
+  bar:2018 from:0 till:466631
+  bar:2019 from:0 till:470907
+  bar:2020 color:cobar2 from:0 till:471525
+  bar:2021 from:0 till:470805
+PlotData=
+  textcolor:black fontsize:S
+  bar:1939 at: 250000 text: 250.000 shift:(-18,5)
+  bar:1946 at: 117894 text: 117.894 shift:(-18,5)
+  bar:1950 at: 194633 text: 194.633 shift:(-18,5)
+  bar:1960 at: 286940 text: 286.940 shift:(-18,5)
+  bar:1970 at: 365600 text: 365.600 shift:(-18,5)
+  bar:1980 at: 456707 text: 456.707 shift:(-20,5)
+  bar:1987 at: 469053 text: 469.053 shift:(-19,5)
+  bar:1990 at: 465143 text: 465.143 shift:(-18,5)
+  bar:1995 at: 463019 text: 463.019 shift:(-16,5)
+  bar:2000 at: 462995 text: 462.995 shift:(-18,5)
+  bar:2005 at: 458053 text: 458.053 shift:(-18,5)
+  bar:2010 at: 460509 text: 460.509 shift:(-18,5)
+  bar:2015 at: 461798 text: 461.798 shift:(-16,5)
+  bar:2016 at: 463754 text: 463.754 shift:(-18,5)
+  bar:2017 at: 464254 text: 464.254 shift:(-18,5)
+  bar:2018 at: 466631 text: 466.631 shift:(-18,5)
+  bar:2019 at: 470907 text: 470.907 shift:(-18,5)
+  bar:2020 at: 471525 text: 471.525 shift:(-18,5)
+  bar:2021 at: 470805 text: 470.805 shift:(-18,5)
+</timeline>
+== [[Экономикась]] ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+[[Няйф:2012-08-30 pano gdansk sm2.jpg|900px|кенжешка|куншкасо]]
+
+== Кяльвалсь ==
+* {{cite book|author=Kazimierz Rymut|title=Nazwy miejscowe Polski, t. III, E-I, hasło „Gdańsk”|pages=110–111|publisher=Instytut Języka Polskiego PAN|location=Kraków|date=1999|isbn = 83-87795-45-3}} {{ref-pl}}
+* {{cite book|author=Zenon Klemensiewicz|title=Gramatyka historyczna języka polskiego|publisher=Państwowe Wydawnictwo Naukowe|location=Warszawa|date=1981|isbn=83-01-00995-0}} {{ref-pl}}
+* {{cite book|author=Praca zbiorowa|title=Słownik starożytności słowiańskich t. 2 F-K, cz. 1 F-H, hasło „Gaj”|publisher=Ossolineum|location=Warszawa|date=1964|pages=78}} {{ref-pl}}
+* {{Cite book|last=Kimmich|first=Christoph M|title=The free city: Danzig and German foreign policy, 1919–1934|url=https://books.google.com/books?id=-3VxQgAACAAJ|year=1968 |publisher=Yale University Press, New Haven, Connecticut|ref=Kimmich68}} {{ref-en}}
+* {{Cite book|last=Rudziński|first=Grzegorz|title=Gdańsk|publisher=Bonechi|isbn=978-88-476-0517-6|ref=Rudziński69|url=https://web.archive.org/web/20131011064134/http://books.google.com/books?id=9AKfPQAACAAJ}} {{ref-en}}
+* {{Cite book|last=Simson|first=Paul|title=Geschichte Der Stadt Danzig|publisher=BiblioBazaar, LLC|isbn=978-1-115-53256-3|ref=Simson70|url=https://web.archive.org/web/20131011050903/http://books.google.com/books?id=DSmxtiBx4CoC}} {{ref-en}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://www.gdansk.pl/ Официальной сайт] {{ref-pl}}
+
+{{Гео-керф}}
+
+[[Категорие:Полень мастор|Гданьск]]
+[[Категорие:Полень мастор ошне|Гданьск]]
+[[Категорие:Ошне|Гданьск]]
