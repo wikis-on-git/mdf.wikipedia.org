@@ -105,7 +105,7 @@
 
 == Эряйхне ==
 <timeline>
-ImageSize = width:900 height:320
+ImageSize = width:990 height:320
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -143,6 +143,10 @@ PlotData =
  bar:2010 from:0 till:1720
  bar:2012 from:0 till:1711
  bar:2014 from:0 till:1726
+ bar:2015 from:0 till:1744
+ bar:2016 from:0 till:1753
+ bar:2017 from:0 till:1764
+ bar:2018 from:0 till:1777
  bar:2019 from:0 till:1790
  bar:2020 from:0 till:1793
 PlotData=
@@ -170,9 +174,12 @@ PlotData=
  bar:2010 at: 1720 text: 1720,4 shift:(-14,5)
  bar:2012 at: 1711 text: 1711,3 shift:(-14,5)
  bar:2014 at: 1726 text: 1726,6 shift:(-14,5)
+ bar:2015 at: 1744 text: 1744,3 shift:(-14,5)
+ bar:2016 at: 1753 text: 1753,9 shift:(-14,5)
+ bar:2017 at: 1764 text: 1764,6 shift:(-14,5)
+ bar:2018 at: 1777 text: 1777,9 shift:(-14,5)
  bar:2019 at: 1790 text: 1790,6 shift:(-14,5)
  bar:2020 at: 1793 text: 1793,5 shift:(-14,5)
-
 </timeline>
 
 == [[Экономикась]] ==
