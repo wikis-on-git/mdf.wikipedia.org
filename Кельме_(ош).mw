@@ -86,7 +86,7 @@
 == Эряйхне ==
 {| align="ліворуч" rules="all" cellspacing="0" cellpadding="5" style="border: 1px solid #999"
 |-bgcolor="#afd6ff"
-! 1833  !! 1861 !! 1883 !! 1897 !! 1923 !! 1939 !! 1959 !! 1970 !! 1974 !! 1979 !! 1989 !! 2001 !! 2011 !! 2017 !! 2020<ref name="cit">{{cite web |url=http://osp.stat.gov.lt:80/temines-lenteles19|title=Teminės lentelės |publisher=Lietuvos statistikos departamentas }}</ref>
+! 1833  !! 1861 !! 1883 !! 1897 !! 1923 !! 1939 !! 1959 !! 1970 !! 1974 !! 1979 !! 1989 !! 2001 !! 2011 !! 2017 !! 2020<ref name="cit">{{cite web |url=http://osp.stat.gov.lt:80/temines-lenteles19|title=Teminės lentelės |publisher=Lietuvos statistikos departamentas }}</ref> !! 2022
 |- bgcolor="#f5f8fc"
 | align=center|385
 | align=center|1303
@@ -101,8 +101,9 @@
 | align=center|11557
 | align=center|10900
 | align=center|9190
-| align=center|8245
-| align=center|7505
+| align=center|8163
+| align=center|7499	
+| align=center|7544
 |}
 {{Wikidata/Population}}
 
