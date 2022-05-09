@@ -103,8 +103,107 @@
 == [[Историясь]] ==
 Ушетфоль XV сядокиза.
 
-== Эряйхне ==
+== Эряйхне<ref>{{Cite web|title=Cities & towns of Ukraine|url=http://pop-stat.mashke.org/ukraine-cities.htm|website=pop-stat.mashke.org}}</ref> ==
 {{Wikidata/Population}}
+<timeline>
+ImageSize = width:1400 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1200
+ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:50 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1813 from:0 till:35
+ bar:1844 from:0 till:77
+ bar:1858 from:0 till:114
+ bar:1873 from:0 till:193
+ bar:1897 from:0 till:403
+ bar:1907 from:0 till:449
+ bar:1915 from:0 till:504
+ bar:1920 from:0 till:454
+ bar:1923 from:0 till:314
+ bar:1926 from:0 till:411
+ bar:1939 from:0 till:604
+ bar:1946 from:0 till:479
+ bar:1959 from:0 till:667
+ bar:1966 from:0 till:753
+ bar:1970 from:0 till:891
+ bar:1979 from:0 till:1046
+ bar:1981 from:0 till:1072
+ bar:1989 from:0 till:1115
+ bar:1991 from:0 till:1100 
+ bar:1992 from:0 till:1095
+ bar:1998 from:0 till:1027
+ bar:2001 from:0 till:1029
+ bar:2003 from:0 till:1021
+ bar:2004 from:0 till:1012
+ bar:2005 from:0 till:1007
+ bar:2006 from:0 till:1002
+ bar:2007 from:0 till:1000
+ bar:2008 from:0 till:1005
+ bar:2009 from:0 till:1008
+ bar:2010 from:0 till:1010
+ bar:2012 from:0 till:1008
+ bar:2014 from:0 till:1017
+ bar:2015 from:0 till:1016
+ bar:2016 from:0 till:1010
+ bar:2017 from:0 till:1010
+ bar:2018 from:0 till:1011
+ bar:2019 from:0 till:1013
+ bar:2020 from:0 till:1017
+ bar:2021 from:0 till:1015
+ bar:2022 from:0 till:1010	
+PlotData=
+ textcolor:black fontsize:S
+ bar:1813 at: 35 text: 35 shift:(-8,5)
+ bar:1844 at: 77 text: 77,8 shift:(-11,5)
+ bar:1858 at: 114 text: 114,2 shift:(-11,5)
+ bar:1873 at: 193 text: 193,5 shift:(-11,5)
+ bar:1897 at: 403 text: 403,8 shift:(-11,5)
+ bar:1907 at: 449 text: 449,7 shift:(-11,5)
+ bar:1915 at: 504 text: 504,6 shift:(-11,5)
+ bar:1920 at: 454 text: 454,2 shift:(-14,5)
+ bar:1923 at: 314 text: 314,8 shift:(-14,5)
+ bar:1926 at: 411 text: 411,4 shift:(-14,5)
+ bar:1939 at: 604 text: 604,2 shift:(-14,5)
+ bar:1946 at: 479 text: 478,8 shift:(-11,5)
+ bar:1959 at: 667 text: 667,1 shift:(-14,5)
+ bar:1966 at: 753 text: 753,0 shift:(-14,5)
+ bar:1970 at: 891 text: 891,5 shift:(-14,5)
+ bar:1979 at: 1046 text: 1046,1 shift:(-14,5)
+ bar:1981 at: 1072 text: 1072,0 shift:(-14,5)
+ bar:1989 at: 1115 text: 1115,3 shift:(-14,5)
+ bar:1991 at: 1100 text: 1100,7 shift:(-14,5)
+ bar:1992 at: 1095 text: 1095,8 shift:(-14,5)
+ bar:1998 at: 1027 text: 1027,4 shift:(-14,5)
+ bar:2001 at: 1029 text: 1029,0 shift:(-14,5)
+ bar:2003 at: 1021 text: 1021,0 shift:(-14,5)
+ bar:2004 at: 1012 text: 1012,9 shift:(-14,5)
+ bar:2005 at: 1007 text: 1007,1 shift:(-14,5)
+ bar:2006 at: 1002 text: 1002,0 shift:(-14,5)
+ bar:2007 at: 1000 text: 1000,5 shift:(-14,5)
+ bar:2008 at: 1005 text: 1005,6 shift:(-14,5)
+ bar:2009 at: 1008 text: 1008,6 shift:(-14,5)
+ bar:2010 at: 1010 text: 1010,3 shift:(-14,5)
+ bar:2012 at: 1008 text: 1008,1 shift:(-14,5)
+ bar:2014 at: 1017 text: 1017,0 shift:(-14,5)
+ bar:2015 at: 1016 text: 1016,5 shift:(-14,5)
+ bar:2016 at: 1010 text: 1010,8 shift:(-14,5)
+ bar:2017 at: 1010 text: 1010,7 shift:(-14,5)
+ bar:2018 at: 1011 text: 1011,4 shift:(-14,5)
+ bar:2019 at: 1013 text: 1013,1 shift:(-14,5)
+ bar:2020 at: 1017 text: 1017,6 shift:(-14,5)
+ bar:2021 at: 1015 text: 1015,8 shift:(-14,5)
+ bar:2022 at: 1010 text: 1010,5 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
