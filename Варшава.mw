@@ -105,7 +105,7 @@
 
 == Эряйхне ==
 <timeline>
-ImageSize = width:790 height:320
+ImageSize = width:900 height:320
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -132,9 +132,13 @@ PlotData =
  bar:1955 from:0 till:1001
  bar:1965 from:0 till:1253
  bar:1975 from:0 till:1436
+ bar:1980 from:0 till:1596
  bar:1985 from:0 till:1659
+ bar:1990 from:0 till:1611
  bar:1995 from:0 till:1653
  bar:2000 from:0 till:1676
+ bar:2002 from:0 till:1707
+ bar:2004 from:0 till:1676
  bar:2005 from:0 till:1697
  bar:2010 from:0 till:1720
  bar:2012 from:0 till:1711
@@ -155,9 +159,13 @@ PlotData=
  bar:1955 at: 1001 text: 1000,6 shift:(-14,5)
  bar:1965 at: 1253 text: 1252,6 shift:(-14,5)
  bar:1975 at: 1436 text: 1436,4 shift:(-14,5)
+ bar:1980 at: 1596 text: 1596,1 shift:(-14,5)
  bar:1985 at: 1659 text: 1659,4 shift:(-14,5)
+ bar:1990 at: 1611 text: 1611,8 shift:(-14,5)
  bar:1995 at: 1653 text: 1653,1 shift:(-14,5)
  bar:2000 at: 1676 text: 1675,9 shift:(-14,5)
+ bar:2002 at: 1707 text: 1707,1 shift:(-14,5)
+ bar:2004 at: 1676 text: 1676,6 shift:(-14,5)
  bar:2005 at: 1697 text: 1697,5 shift:(-14,5)
  bar:2010 at: 1720 text: 1720,4 shift:(-14,5)
  bar:2012 at: 1711 text: 1711,3 shift:(-14,5)
