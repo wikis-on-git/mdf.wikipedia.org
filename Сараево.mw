@@ -104,6 +104,52 @@
 Ушетфоль 1462 кизоня.
 
 == Эряйхне ==
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey value:gray(0.7)
+  id:canvas value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:300 height:200
+PlotArea = left:50 bottom:20 top:25 right:30
+DateFormat = x.y
+Period = from:0 till:6000
+TimeAxis = orientation:vertical
+AlignBars = late
+
+ScaleMinor = gridcolor:lightgrey increment:1200 start:0
+BackgroundColors = canvas:canvas
+
+BarData=
+  bar:1851 text:1851	
+  bar:1879 text:1879
+  bar:1910 text:1910
+  bar:1948 text:1948
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2013 text:2013
+  bar:2019 text:2019	
+PlotData=
+  color:barra     width:15 anchor:till align:center shift:(0,5)
+  bar:1851     from:0 till:211 text:21	
+  bar:1879     from:0 till:213 text:21
+  bar:1910     from:0 till:519 text:52
+  bar:1948     from:0 till:1138 text:114
+  bar:1981     from:0 till:3037 text:304
+  bar:1991     from:0 till:5270 text:527
+  bar:2013     from:0 till:2755 text:275
+  bar:2019     from:0 till:4199 text:419
+TextData=
+  pos:(10,196) fontsize:XS text:
+  pos:(10,196) fontsize:XS text:
+  pos:(145,1) fontsize:XS text:
+  pos:(30,15) fontsize:S text:
+  pos:(25,49) fontsize:S text:
+  pos:(25,83) fontsize:S text:
+  pos:(25,148) fontsize:S text:
+  pos:(25,148) fontsize:S text:
+</timeline>
 {{Wikidata/Population}}
 
 == [[Экономикась]] ==
