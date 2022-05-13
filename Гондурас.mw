@@ -65,15 +65,81 @@
 '''Гондурас''' ({{lang-es|Honduras}}) ''илань коряс'': '''Республикась Гондурас''' ({{lang-es|República de Honduras}}) — масторсь [[Кельмеширень Америкась|Кельмеширень]] ди Кучка [[Америка]]сь. [[Пряошец]] — [[Тэгусигальпа]].
 
 == [[Географиясь]] ==
-[[Няйф:LocationHonduras.svg|кенжешка|керш_кедь|280px|]]
+[[Няйф:LocationHonduras.svg|кенжешка|вить_кедь|290px|]]
 == [[Климатсь]] ==
 
 == [[Историясь]] ==
 Уштефтоль 15 сентябрьста [[1821]] [[киза|кизоня]].
 
 == Эряйхне ==
-{{Wikidata/Population}}
-
+<timeline>
+ImageSize = width:800 height:330
+PlotArea = left:50 right:30 top:30 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.2,0.7,0.9) 
+DateFormat = yyyy
+Period = from:0 till:10000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:200 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1801 from:0 till:128
+  bar:1881 from:0 till:307
+  bar:1895 from:0 till:398
+  bar:1905 from:0 till:500
+  bar:1910 from:0 till:661
+  bar:1916 from:0 till:605
+  bar:1926 from:0 till:700
+  bar:1930 from:0 till:854
+  bar:1935 from:0 till:962
+  bar:1940 from:0 till:1107  
+  bar:1945 from:0 till:1200
+  bar:1950 from:0 till:1547
+  bar:1960 from:0 till:2039
+  bar:1970 from:0 till:2717
+  bar:1975 from:0 till:3108
+  bar:1980 from:0 till:3678
+  bar:1990 from:0 till:4955
+  bar:2000 from:0 till:6524
+  bar:2005 from:0 till:7459
+  bar:2010 from:0 till:8195
+  bar:2015 from:0 till:8700
+  bar:2017 from:0 till:9265
+  bar:2019 from:0 till:9587
+  bar:2020 from:0 till:9905
+PlotData=
+  textcolor:black fontsize:S
+  bar:1801 at: 128 text: 128.4 shift:(-14,5)
+  bar:1881 at: 307 text: 307.2 shift:(-14,5)
+  bar:1895 at: 398 text: 398.8 shift:(-14,5)
+  bar:1905 at: 500 text: 500.1 shift:(-14,5)
+  bar:1910 at: 661 text: 661 shift:(-14,5)
+  bar:1916 at: 605 text: 605.9 shift:(-14,5)
+  bar:1926 at: 700 text: 700.8 shift:(-14,5)
+  bar:1930 at: 854 text: 854.1 shift:(-14,5)
+  bar:1935 at: 962 text: 962.0 shift:(-14,5)
+  bar:1940 at: 1107 text: 1.107 shift:(-14,5)
+  bar:1945 at: 1200 text: 1.200 shift:(-14,5)
+  bar:1950 at: 1547 text: 1.547 shift:(-14,5)
+  bar:1960 at: 2039 text: 2.039 shift:(-14,5)
+  bar:1970 at: 2717 text: 2.717 shift:(-14,5)
+  bar:1975 at: 3108 text: 3.108 shift:(-14,5)
+  bar:1980 at: 3678 text: 3.678 shift:(-14,5)
+  bar:1990 at: 4955 text: 4.955 shift:(-14,5)
+  bar:2000 at: 6524 text: 6.524 shift:(-14,5)
+  bar:2005 at: 7459 text: 7.459 shift:(-14,5)
+  bar:2010 at: 8195 text: 8.195 shift:(-14,5)
+  bar:2015 at: 8700 text: 8.700 shift:(-14,5)
+  bar:2017 at: 9265 text: 9.265 shift:(-14,5)
+  bar:2019 at: 9587 text: 9.587 shift:(-14,5)
+  bar:2020 at: 9905 text: 9.905 shift:(-14,5)
+</timeline>
+		
 == [[Экономикась]] ==
 
 == Культурась ==
