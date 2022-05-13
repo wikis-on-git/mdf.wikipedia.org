@@ -1,0 +1,205 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Бад-Ишль
+|васенце лем              = {{lang-de|Bad Ischl}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = Bad Ischl and Traun River.jpg
+ |photo1b = S
+ |photo2a = Kaiservilla.jpg
+ |photo2b = Bad Ischl Kongress.jpg
+ |photo3a = Postfiliale Bad Ischl Austria - panoramio.jpg
+ |photo3b = Bad Ischl - Elisabethbrücke 1.jpg
+ |photo4a = Bad Ischl - Villa Blumental.JPG  
+ |photo4b = Haiden-Maria an der Strasse-1.JPG 
+ |photo5a = Kaiservilla 1491 pano 5 cut.jpg
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Бад-Ишль'''  ({{lang-de|Bad Ischl}}) — [[ош]]сь [[Австрия|Австрияса]].
+
+== [[Географиясь]] ==
+[[Няйф:Nikolauskirche Ischl 01.JPG|230px|кенжешка|вить_кедь]]
+[[Няйф:Die Evangelische Pfarrkirche Bad Ischl.jpg|230px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+{{Climate chart	
+|Бад-Ишль ошсь 
+| −4.2| 2.3| 119
+| -3.2| 4.5| 110
+| 0.2|	9.4| 151
+| 3.7| 15.1| 110
+| 8.3| 20.2| 148
+| 11.3| 22.4| 189
+| 13.2| 24.7| 223
+| 13.1| 24.1| 202
+| 9.8| 19.3| 164
+| 5.7| 14.9| 106
+| 0.8| 7.7| 124
+| -2.6| 3.0| 135
+|float= 
+|clear=
+|source= [https://www.zamg.ac.at/cms/de/klima/informationsportal-klimawandel/daten-download/klimamittel Бад-Ишль] «ZAMG Klimamittelwerte 1981 - 2010» {{ref-de}} 
+}}
+== [[Историясь]] ==
+
+== Эряйхне ==
+{{Wikidata/Population}}
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.7)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:650 height:350
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:5000 till:15000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:1000 start:5000
+ScaleMinor = gridcolor:lightgrey increment:250 start:5000
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1869 text: 1869
+  bar:1880 text: 1880
+  bar:1890 text: 1890
+  bar:1900 text: 1900
+  bar:1910 text: 1910
+  bar:1923 text: 1923
+  bar:1934 text: 1934
+  bar:1939 text: 1939
+  bar:1951 text: 1951
+  bar:1961 text: 1961
+  bar:1971 text: 1971
+  bar:1981 text: 1981
+  bar:1991 text: 1991
+  bar:2001 text: 2001
+  bar:2011 text: 2011
+  bar:2021 text: 2021
+
+PlotData=
+  color:barra width:25 align:left
+
+  bar:1869 from:5000 till: 6827 
+  bar:1880 from:5000 till: 7678 
+  bar:1890 from:5000 till: 8473 
+  bar:1900 from:5000 till: 9655 
+  bar:1910 from:5000 till: 10188 
+  bar:1923 from:5000 till: 10224 
+  bar:1934 from:5000 till: 10354 
+  bar:1939 from:5000 till: 10396 
+  bar:1951 from:5000 till: 13422 
+  bar:1961 from:5000 till: 12703 
+  bar:1971 from:5000 till: 12812 
+  bar:1981 from:5000 till: 12970 
+  bar:1991 from:5000 till: 13887 
+  bar:2001 from:5000 till: 14081 
+  bar:2011 from:5000 till: 13876
+  bar:2021 from:5000 till: 14109
+
+PlotData=
+  bar:1869 at: 6827 fontsize:S text: 6.827 shift:(-10,5)
+  bar:1880 at: 7678 fontsize:S text: 7.678 shift:(-10,5)
+  bar:1890 at: 8473 fontsize:S text: 8.473 shift:(-10,5)
+  bar:1900 at: 9655 fontsize:S text: 9.655 shift:(-10,5)
+  bar:1910 at: 10188 fontsize:S text: 10.188 shift:(-10,5)
+  bar:1923 at: 10224 fontsize:S text: 10.224 shift:(-10,5)
+  bar:1934 at: 10354 fontsize:S text: 10.354 shift:(-10,5)
+  bar:1939 at: 10396 fontsize:S text: 10.396 shift:(-10,5)
+  bar:1951 at: 13422 fontsize:S text: 13.422 shift:(-10,5)
+  bar:1961 at: 12703 fontsize:S text: 12.703 shift:(-10,5)
+  bar:1971 at: 12812 fontsize:S text: 12.812 shift:(-10,5)
+  bar:1981 at: 12970 fontsize:S text: 12..970 shift:(-10,5)
+  bar:1991 at: 13887 fontsize:S text: 13.887 shift:(-10,5)
+  bar:2001 at: 14081 fontsize:S text: 14.081 shift:(-10,5)
+  bar:2011 at: 13876 fontsize:S text: 13.876 shift:(-10,5)
+  bar:2021 at: 14109 fontsize:S text: 14.109 shift:(-10,5)
+
+TextData=
+  fontsize:S pos:(20,20)
+  text:
+
+</timeline>
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+[[Няйф:Bad Ischl Siriuskogel Panorama.jpg|1290px|кенжешка|куншкасо]]
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [http://www.bad-ischl.ooe.gv.at/ Официальной сайт] {{ref-de}}
+
+{{Гео-керф}}
+
+[[Категорие:Ошне|Бад-Ишль]]
+[[Категорие:Австриянь ошне|Бад-Ишль]]
