@@ -1,0 +1,192 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Республикась Гватэмала
+|васенце лем              = {{lang-es|República de Guatemala}}
+|изображение              = Guatemala (orthographic projection).svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = испаниянь кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +502
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернетсь-домен	
+|цифровой идентификатор   = .gt
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+
+'''Гватэмала''' ({{lang-es|Guatemala}}) ''илань коряс'': '''Республикась Гватэмала''' ({{lang-es|República de Guatemala}}) — масторсь [[Кельмеширень Америкась|Кельмеширень]] ди Кучка [[Америка]]сь. [[Пряошец]] — [[Тэгусигальпа]].
+
+== [[Географиясь]] ==
+[[Няйф:LocationGuatemala.svg|кенжешка|вить_кедь|290px|]]
+{{Location2|nw={{MEX}}|n={{MEX}}|ne={{BLZ}}|w={{MEX}}|e={{HND}}<br/>[[Карибиянь иневедь]]|sw=|s=[[Сетьме оцюведь]]|se={{SLV}}|sw=[[Сетьме оцюведь]]}}
+
+== [[Климатсь]] ==
+
+== [[Историясь]] ==
+Уштефтоль 15 сентябрьста [[1821]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:700 height:330
+PlotArea = left:50 right:30 top:30 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.2,0.7,0.9) 
+DateFormat = yyyy
+Period = from:0 till:18000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1778 from:0 till:355
+  bar:1795 from:0 till:769
+  bar:1880 from:0 till:1224
+  bar:1893 from:0 till:1364
+  bar:1921 from:0 till:2004
+  bar:1940 from:0 till:3283 
+  bar:1950 from:0 till:3115
+  bar:1960 from:0 till:4141
+  bar:1970 from:0 till:5416
+  bar:1980 from:0 till:7001
+  bar:1990 from:0 till:9264
+  bar:2000 from:0 till:11651
+  bar:2005 from:0 till:13096
+  bar:2010 from:0 till:14361
+  bar:2015 from:0 till:16176
+  bar:2017 from:0 till:16914
+  bar:2018 from:0 till:17247
+  bar:2020 from:0 till:17916
+PlotData=
+  textcolor:black fontsize:S
+  bar:1778 at: 355 text: 355 shift:(-14,5)
+  bar:1795 at: 769 text: 769 shift:(-14,5)
+  bar:1880 at: 1224 text: 1.224 shift:(-14,5)
+  bar:1893 at: 1364 text: 1.364 shift:(-14,5)
+  bar:1921 at: 2004 text: 2.004 shift:(-14,5)
+  bar:1940 at: 3283 text: 3283 shift:(-14,5)
+  bar:1950 at: 3115 text: 3.115 shift:(-14,5)
+  bar:1960 at: 4141 text: 4.141 shift:(-14,5)
+  bar:1970 at: 5416 text: 5.416 shift:(-14,5)
+  bar:1980 at: 7001 text: 7.001 shift:(-14,5)
+  bar:1990 at: 9264 text: 9.264 shift:(-14,5)
+  bar:2000 at: 11651 text: 11.651 shift:(-14,5)
+  bar:2005 at: 13096 text: 13.096 shift:(-14,5)
+  bar:2010 at: 14361 text: 14.361 shift:(-14,5)
+  bar:2015 at: 16176 text: 16.176 shift:(-14,5)
+  bar:2017 at: 16914 text: 16.914 shift:(-14,5)
+  bar:2018 at: 17247 text: 17.247 shift:(-14,5)
+  bar:2020 at: 17916 text: 17.916 shift:(-14,5)
+</timeline>
+	
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Кяльвалсь ==
+{{refbegin|40em}}
+* {{cite book |last=Aguirre |first=Lily |title=The land of eternal spring: Guatemala, my beautiful country |year=1949 |publisher=Patio Press |page=253 |url=https://books.google.com/books?id=LodnAAAAMAAJ}}{{ref-en}}
+* {{cite book|first=Rafael|last=Arévalo Martinez|title=¡Ecce Pericles!|publisher= Tipografía Nacional|location=Guatemala|year= 1945|url=https://www.scribd.com/doc/190285559/Arevalo-Martinez-Ecce-Pericles#scribd}}{{ref-es}}
+* {{cite book|url=https://archive.org/details/concordatoen00unseguat|author=Pedro de Aycinena|title=Concordato entre la Santa Sede y el presidente de la República de Guatemala|publisher=Imprenta La Paz|year=1854|location=Guatemala}}{{ref-es}}
+* {{cite web|author=Banco de Guatemala|title=Ilustraciones de Cada una de las 11 Denominaciones. Anverso y Reverso |website=Banguat.gob.gt|url=https://web.archive.org/web/20070607011018/http://www.banguat.gob.gt/inc/ver.asp?id=%2Fen%2Fcurrency+and+bills%2FMonedas+y+Billetes+Translation.htm&e=18108}}{{ref-es}}
+* {{Cite book|title=Guatemalan Journey|last=Benz|first=Stephen Connely|publisher=University of Texas Press|year=1996|isbn=978-0-292-70840-2}}{{ref-en}}
+* {{cite book|last=Blakeley|first=Ruth|date=2009 |title=State Terrorism and Neoliberalism: The North in the South|url=http://www.routledge.com/books/details/9780415462402/|publisher=Routledge|isbn=978-0415686174}}{{ref-en}}
+* {{cite book|last=Calvert|first=Peter|title=Guatemala: A Nation in Turmoil|location=Boulder|publisher=Westview Press|year=1985|isbn=978-0-86531-572-3|url=https://archive.org/details/guatemalanationi0000calv}}{{ref-en}}
+* {{cite book|last=Campbell|first=Lyle|year=1997|title=American Indian languages: The historical linguistics of Native America|location=New York|publisher=Oxford University Press|isbn=0-19-509427-1}}{{ref-en}}
+* {{cite book|last=Chapman|first=Peter|title=Bananas: How the United Fruit Company Shaped the World|publisher=Canongate|location=NY|year= 2007}}{{ref-en}}
+* {{cite book|title=Colonisation du district de Santo-Thomas de Guatemala par la Communauté de l'Union|author=Compagnie Belge de Colonisation|series=Collection de renseignements publiés ou recueillis par la Compagnie|publisher=Original held and digitised by the British Library|year=1844|url=https://commons.wikimedia.org/wiki/File:Baie_et_Port_de_Santo_Thomas.jpg}}{{ref-fr}}
+* {{cite book|first=Allan|last=Cooper|year=2008|title=The Geography of Genocide|publisher=University Press of America|isbn=978-0-7618-4097-8|url=https://books.google.com/books?id=Uyh8kdcuA1kC&pg=PA171 |page=171}}{{ref-en}}
+* {{Cite book|last=Cullather|first=Nicholas|title=Secret History: The CIA's Classified Account of its Operations in Guatemala 1952–54|publisher=Stanford University Press|isbn=978-0-8047-5468-2|edition=2nd|year=2006|url=https://books.google.com/books?id=sp3IGB4csCQC}}{{ref-en}}
+* {{cite book|last=de Aerenlund|first=C.|title=Voyage to an Unknown Land: The saga of an Italian Family from Lombardy to Guatemala |year= 2006|isbn= 1-4257-0187-6}}{{ref-en}}
+* {{Cite book|title=Ombres contra Hombres|last=De los Ríos|first=Efraín|publisher=Fondo para Cultura de la Universidad de México, México|year=1948}}{{ref-es}}
+* {{cite book|last=Dosal|first=Paul J.|title=Doing Business with the Dictators: A Political History of United Fruit in Guatemala|location= Wilmington, Delaware|publisher=Scholarly Resources Inc.|year=1993}}{{ref-en}}
+* {{Cite book|last=Forster|first=Cindy |title=The time of freedom: campesino workers in Guatemala's October Revolution|publisher=University of Pittsburgh Press|year=2001|url=https://books.google.com/books?id=5937zVXHZV8C|isbn=978-0-8229-4162-0}}{{ref-en}}
+* {{cite book|last=Foster|first=Lynn V.|year=2000|title=A Brief History of Central America|location=New York, NY|publisher=Facts on File, Inc.|isbn=0-8160-3962-3}}{{ref-en}}
+* {{cite book|author=Piero Gleijeses|title=Shattered hope: the Guatemalan revolution and the United States, 1944–1954 |publisher=Princeton University Press |location=United States|year=1991 |isbn=978-0-691-02556-8 |url=https://books.google.com/books?id=mS7ZVKa6i3AC&pg=PA134}}{{ref-en}}
+* {{cite book|last=González Davison|first=Fernando|year=2008|title=La montaña infinita; Carrera, caudillo de Guatemala|publisher=Artemis y Edinter|location=Guatemala|isbn=978-84-89452-81-7}}{{ref-es}}
+* {{Cite book|last=Grandin|first=Greg|title=The blood of Guatemala: a history of race and nation|url=https://archive.org/details/bloodofguatemala0000gran|url-access=registration|publisher=Duke University Press|year=2000|isbn=978-0-8223-2495-9}}{{ref-en}}
+* {{cite book|last=Hernández de León|first=Federico|title=El libro de las efemérides|volume=Tomo III|publisher=Tipografía Sánchez y de Guise|location=Guatemala|year=1930}}{{ref-es}}
+* {{Cite book|last=Immerman|first=Richard H.|url=https://archive.org/details/ciainguatemalafo0000imme|title=The CIA in Guatemala: The Foreign Policy of Intervention|publisher=University of Texas Press|year=1982|isbn=978-0-292-71083-2}}{{ref-en}}
+* {{Cite book|last=LaFeber|first=Walter|title=Inevitable revolutions: the United States in Central America|publisher=W. W. Norton & Company|year=1993|isbn=978-0-393-30964-5|url=https://archive.org/details/inevitablerevolu00laferich}}{{ref-en}}
+* {{Cite book|last1=Loveman|first1=Brian|last2=Davies|first2=Thomas M.|title=The Politics of antipolitics: the military in Latin America|publisher=Rowman & Littlefield|year=1997|url=https://books.google.com/books?id=U8MAN2Epwh0C|edition=3rd, revised|isbn=978-0-8420-2611-6}}{{ref-en}}
+* {{cite book|last=McCleary|first=Rachel|title=Dictating Democracy: Guatemala and the End of Violent Revolution|url=https://books.google.com/books?id=zEocngEACAAJ|edition=Illustrated|year=1999|publisher=University Press of Florida|isbn=978-0-8130-1726-6}}{{ref-en}}
+* {{cite book|last=Paterson|first=Thomas G.|year=2009|title=American Foreign Relations: A History, Volume 2: Since 1895|publisher=Cengage Learning|isbn=978-0-547-22569-2}}{{ref-en}}
+* {{cite book|last1=Schlesinger|first1=Stephen|last2=Kinzer|first2=Stephen|title=Bitter Fruit: The Story of the American Coup in Guatemala|year=1999|publisher=David Rockefeller Center series on Latin American studies, Harvard University|isbn=978-0-674-01930-0}}{{ref-en}}
+* {{Cite book|title=Grappling with atrocity: Guatemalan theater in the 1990s|last=Shillington|first=John|publisher=Fairleigh Dickinson University Press|year=2002|isbn=9780838639306|pages=38–39|url=https://books.google.com/books?id=KJyWMjI4pfgC&pg=PA38}}{{ref-en}}
+* {{cite book|url=http://www.albedrio.org/htm/documentos/EstudioFranjaTransversalNorteCEDFOG.pdf|last=Solano|first=Luis|title=Contextualización histórica de la Franja Transversal del Norte (FTN)|publisher=Centro de Estudios y Documentación de la Frontera Occidental de Guatemala, CEDFOG|year=2012}}{{ref-es}}
+* {{Cite book|last=Streeter|first=Stephen M.|title=Managing the counterrevolution: the United States and Guatemala, 1954–1961|publisher=Ohio University Press|year=2000|isbn=978-0-89680-215-5}}{{ref-en}}
+* {{cite book|last=Torres Espinoza|first=Enrique|title = Enrique Gómez Carrillo, el cronista errante|edition=2nd|publisher = Artemis-Edinter|location=Guatemala|year = 2007}}{{ref-es}}
+* {{cite book|last1=Trigger|first1=Bruce G.|last2=Washburn|first2=Wilcomb E.|last3=Adams|first3=Richard E. W.|title=The Cambridge History of the Native Peoples of the Americas|year=2000}}{{ref-en}}
+* {{cite book|first=Douglas R.|last=White|title=The Marriage Core of the Elite Network of Colonial Guatemala|year=2002|publisher=University of California, Irvine, School of Social Sciences|location=Irvine, CA|url=https://web.archive.org/web/20041210031143/http://eclectic.ss.uci.edu/~drwhite/pub/core11Casasola.pdf}}{{ref-en}}
+* {{cite book|last1=Woodward|first1=Ralph Lee|title=Rafael Carrera and the Emergence of the Republic of Guatemala, 1821–1871|location=Athens, GA|publisher=University of Georgia Press|year=1993|url=http://muse.jhu.edu/books/9780820343600|isbn=978-0-8203-1448-8}}{{ref-en}}
+{{refend}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* {{cite web|author=Rain Forest Wordpress|url=http://rainforestcentralamerica.wordpress.com/2013/04/04/guatemala-rainforest-fact/|title=Guatemala Rainforest Interesting fact &#124; rainforest facts |website=Rainforestcentralamerica.wordpress.com}}{{ref-en}}
+* {{cite web|author=Troika study abroad programs|title=Guatemala|website=Community colleges for international development|year=2006|url=https://web.archive.org/web/20100918111113/http://ccidinc.org/programs/countries.php?country_id_number=3}}{{ref-en}}
+* {{cite web|title=Biodiversity Hotspots-Mesoamerica-Overview|website=Conservation International|year=2007|url=https://web.archive.org/web/20080704190529/http://www.biodiversityhotspots.org/xp/hotspots/Mesoamerica}}{{ref-en}}
+* {{cite web|author=Instituto Nacional de Estadística|title=Poblacion de Guatemala (Demografía)|website=Instituto Nacional de Estadística (INE) |location=Guatemala|year=2014|url=https://web.archive.org/web/20140314175005/http://www.ine.gob.gt/index.php/estadisticas/tema-indicadores}}{{ref-es}}
+{{Гео-керф}}
+
+[[Категорие:Гватэмала]]
+[[Категорие:Кельмеширень Америка|Гватэмала]]
+[[Категорие:Америконь масторхне|Гватэмала]]
+[[Категорие:Масторхне|Гватэмала]]
+[[Категорие:Республикне|Гватэмала]]
