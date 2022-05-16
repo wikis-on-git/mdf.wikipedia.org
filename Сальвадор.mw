@@ -1,0 +1,201 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Республикась Эль-Сальвадор
+|васенце лем              = {{lang-en|República de El Salvador}}
+|изображение              = El Salvador (orthographic projection).svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = испаниянь кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +503
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернетсь-домен	
+|цифровой идентификатор   = .sv
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+
+'''Сальвадор''' ({{lang-en|El Salvador}}) ''илань коряс'': '''Республикась Эль-Сальвадор''' ({{lang-es|República de El Salvador}}) — масторсь [[Кельмеширень Америкась|Кельмеширень]] ди [[Кучкань Америкась|Кучкань]] [[Америка]]сь. [[Пряошец]] — [[Сан-Сальвадор]]<ref>{{cite book|url=https://www.cia.gov/the-world-factbook/countries/el-salvador/|publisher=CIA World Factbook|title=El Salvador|year=2008}}{{ref-en}}</ref>.
+
+== [[Географиясь]] ==
+[[Няйф:LocationElSalvador.svg|кенжешка|вить_кедь|295px|]]
+[[Няйф:El Salvador - Location Map (2013) - SLV - UNOCHA.svg|кенжешка|вить_кедь|295px|]]
+{{Location2|nw={{GUA}}|n={{GUA}}<br/>{{HND}}|ne={{HND}}|e={{HND}}|w={{GUA}}|sw=[[Сетьме оцюведь]]|s=[[Сетьме оцюведь]]|se=[[Сетьме оцюведь]]}}
+
+== [[Климатсь]] ==
+{{Climate chart	
+|Сальвадор масторсь 
+|22|29|114
+|22|30|66
+|24|31|48
+|24|31|43
+|24|30|101
+|23|28|218
+|23|29|205
+|23|28|177
+|23|28|241
+|22|27|254
+|22|28|177
+|22|28|170
+|source=[http://www.weather.com/weather/wxclimatology/monthly/BHXX0001 The Weather Channel]
+|float=
+|clear=
+}}
+== [[Историясь]] ==
+Уштефтоль 15 сентябрьста [[1821]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:800 height:330
+PlotArea = left:50 right:30 top:30 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.2,0.7,0.9) 
+DateFormat = yyyy
+Period = from:0 till:7000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:200 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:19 align:left
+  bar:1901 from:0 till:1070
+  bar:1920 from:0 till:1400
+  bar:1932 from:0 till:1700
+  bar:1950 from:0 till:2200
+  bar:1955 from:0 till:2433  
+  bar:1960 from:0 till:2773
+  bar:1962 from:0 till:2800
+  bar:1965 from:0 till:3244
+  bar:1970 from:0 till:3736
+  bar:1975 from:0 till:4232
+  bar:1980 from:0 till:4661
+  bar:1985 from:0 till:5004
+  bar:1988 from:0 till:5100
+  bar:1990 from:0 till:5344
+  bar:1995 from:0 till:5748
+  bar:2000 from:0 till:5888
+  bar:2001 from:0 till:5959
+  bar:2005 from:0 till:6052
+  bar:2009 from:0 till:6134
+  bar:2010 from:0 till:6184
+  bar:2015 from:0 till:6325
+  bar:2017 from:0 till:6369
+  bar:2018 from:0 till:6420
+  bar:2020 from:0 till:6486
+PlotData=
+  textcolor:black fontsize:S
+  bar:1901 at: 1070 text: 1.070 shift:(-14,5)
+  bar:1920 at: 1400 text: 1.400 shift:(-14,5)
+  bar:1932 at: 1700 text: 1.700 shift:(-14,5)
+  bar:1950 at: 2200 text: 2.200 shift:(-14,5)
+  bar:1955 at: 2433 text: 2.433 shift:(-14,5)
+  bar:1960 at: 2773 text: 2.773 shift:(-14,5)
+  bar:1962 at: 2800 text: 2.800 shift:(-14,5)
+  bar:1965 at: 3244 text: 3.244 shift:(-14,5)
+  bar:1970 at: 3736 text: 3.736 shift:(-14,5)
+  bar:1975 at: 4232 text: 4.232 shift:(-14,5)
+  bar:1980 at: 4661 text: 4.661 shift:(-14,5)
+  bar:1985 at: 5004 text: 5.004 shift:(-14,5)
+  bar:1988 at: 5100 text: 5.100 shift:(-14,5)
+  bar:1990 at: 5344 text: 5.344 shift:(-14,5)
+  bar:1995 at: 5748 text: 5.748 shift:(-14,5)
+  bar:2000 at: 5888 text: 5.888 shift:(-14,5)
+  bar:2001 at: 5959 text: 5.959 shift:(-14,5)
+  bar:2005 at: 6052 text: 6.052 shift:(-14,5)
+  bar:2009 at: 6134 text: 6.134 shift:(-14,5)
+  bar:2010 at: 6184 text: 6.184 shift:(-14,5)
+  bar:2015 at: 6325 text: 6.325 shift:(-14,5)
+  bar:2017 at: 6369 text: 6.369 shift:(-14,5)
+  bar:2018 at: 6420 text: 6.420 shift:(-14,5)
+  bar:2020 at: 6486 text: 6.486 shift:(-14,5)
+</timeline>		
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Кяльвалсь ==
+* {{Cite book|last=White|first=Christopher M.|title=The History of El Salvador|publisher=Greenwood Press|date=30 November 2008|location=Westport, Connecticut|pages=23}} {{ref-en}}
+* {{cite book|first=Lyle|last=Campbell|url=https://books.google.com/books?id=NUKKQacUsPwC&pg=PA924|title=The Pipil Language of El Salvador|publisher=Walter de Gruyter|year=1985|isbn=978-0-89925-040-3|pages=924–925}}{{ref-en}}
+* {{cite book|author=María de Baratta|title=Cuzcatlán típico: ensayo sobre etnofonía de El Savator, folklore, folkwisa y folkway|url=https://books.google.com/books?id=kqHYAAAAMAAJ|date=1951|publisher=Ministerio de Cultura|page=15}}{{ref-es}}
+* {{cite book|author=Jeb J. Card|title=The Ceramics of Colonial Ciudad Vieja, El Salvador: Culture Contact and Social Change in Mesoamerica|url=https://books.google.com/books?id=6pxnyUVB2cIC&pg=PA99|year=2007|isbn=978-0-549-26142-1|page=99}}{{ref-en}}
+* {{cite book|title=Explorer's Guide El Salvador: A Great Destination|url=https://books.google.com/books?id=b9Jm7PERatwC&pg=PA36|publisher=Countryman Press|isbn=978-1-58157-114-1|page=36}} {{ref-en}}
+* {{cite book|author=Thomas P. Anderson|title=Politics in Central America: Guatemala, El Salvador, Honduras, and Nicaragua|url=https://books.google.com/books?id=uar_iWVhSaIC|year=1988|via=Google Books|publisher=Greenwood Publishing Group|isbn=978-0-275-92883-4}} {{ref-en}}
+* {{cite book|author=Thomas P. Anderson|title=Matanza: The 1932 "Slaughter" That Traumatized a Nation, Shaping US-Salvadoran Policy to This Day |url=https://books.google.com/books?id=w5xqAAAAMAAJ|year=1992 |publisher=Curbstone Press|isbn=978-1-880684-04-7}} {{ref-en}}
+* {{cite book|author=Montgomery, Tommie Sue|title=Revolution in El Salvador: from civil strife to civil peace|publisher=Westview Press|location=Boulder, Colo|year= 1995|isbn=0-8133-0071-1}} {{ref-en}}
+* {{cite book|url=https://2009-2017.state.gov/r/pa/ei/bgn/2033.htm |publisher=Background Notes|title=Background Notes: El Salvador|year=2008}}{{ref-en}}
+* {{cite book|author=Raymond Bonner|title=Weakness and Deceit: U.S. Policy and El Salvador|location=New York|publisher=Times Books|year=1984}}{{ref-en}}
+* {{cite book|url=https://web.archive.org/web/20100510070619/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1109.html|title=Country Specific Information|publisher=U.S. State Department|year=2007}}{{ref-en}}
+* {{cite book|author=Mark Danner|title=The Massacre at El Mozote: A Parable of the Cold War|location=New York|publisher=Vintage Books|year=1994}}{{ref-en}}
+* {{cite book|author=Erin Foley|title=Cultures of the world, El Salvador|year=1995}}{{ref-en}}
+* {{cite book|author=Tommie Sue Montgomery|title=Revolution in El Salvador: From Civil Strife to Civil Peace|location=Boulder, Colorado|publisher=Westview Press|year=1995}}{{ref-en}}
+* {{cite book|author=Audrey Celeste Rosa|title=The courage to change: Salvadoran stories of personal and social transformation (El Salvador)|url=http://scholars.wlu.ca/etd/661/|publisher=Wilfrid Laurier University|year=1998}}{{ref-en}}
+* {{cite book|author=Sidney Stadler|title=It Started with an Oyster: The Memoirs of Sidney M. Stadler, CBE|publisher=Penna Press|year=1975}}{{ref-en}}
+* {{cite book|author=Carlos Vilas|title=Between Earthquakes and Volcanoes: Market, State, and the Revolution America|location=New York|publisher=Monthly Review Press|year=1995}}{{ref-en}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://www.asamblea.gob.sv/ Официальной сайт] {{ref-es}}
+
+{{Кучкань Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Сальвадор]]
+[[Категорие:Кельмеширень Америка|Сальвадор]]
+[[Категорие:Америконь масторхне|Сальвадор]]
+[[Категорие:Масторхне|Сальвадор]]
+[[Категорие:Республикне|Сальвадор]]
