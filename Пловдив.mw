@@ -72,7 +72,7 @@
 == Эряйхне ==
 {{Wikidata/Population}}
 <timeline>
-ImageSize = width:750 height:280
+ImageSize = width:850 height:320
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -87,9 +87,16 @@ ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
 ScaleMinor = unit:year increment:50 start:0 gridcolor:linegrey2
 PlotData =
  color:cobar width:19 align:left
+ bar:1880 from:0 till:24
+ bar:1884 from:0 till:33
  bar:1887 from:0 till:33
+ bar:1892 from:0 till:36
+ bar:1900 from:0 till:43
  bar:1910 from:0 till:48
+ bar:1920 from:0 till:64
+ bar:1926 from:0 till:84
  bar:1934 from:0 till:100
+ bar:1939 from:0 till:105
  bar:1946 from:0 till:126
  bar:1956 from:0 till:161
  bar:1965 from:0 till:225
@@ -99,15 +106,24 @@ PlotData =
  bar:1990 color:cobar2 from:0 till:379
  bar:1992 from:0 till:341
  bar:2001 from:0 till:338
+ bar:2005 from:0 till:341
+ bar:2009 from:0 till:338
  bar:2011 from:0 till:338
  bar:2013 from:0 till:341
  bar:2014 from:0 till:341
  bar:2015 from:0 till:341
 PlotData=
  textcolor:black fontsize:S
+ bar:1880 at: 24 text: 24,0 shift:(-8,5)  
+ bar:1884 at: 33 text: 33,4 shift:(-8,5) 
  bar:1887 at: 33 text: 33,0 shift:(-8,5)
+ bar:1892 at: 36 text: 36,0 shift:(-8,5) 
+ bar:1900 at: 43 text: 43,0 shift:(-8,5) 
  bar:1910 at: 48 text: 48,0 shift:(-11,5)
+ bar:1920 at: 64 text: 64,4 shift:(-11,5)
+ bar:1926 at: 84 text: 84,6 shift:(-11,5)
  bar:1934 at: 100 text: 99,9 shift:(-14,5)
+ bar:1939 at: 105 text: 105,6 shift:(-14,5)
  bar:1946 at: 126 text: 126,6 shift:(-14,5)
  bar:1956 at: 161 text: 161,8 shift:(-14,5)
  bar:1965 at: 225 text: 225,5 shift:(-14,5)
@@ -116,6 +132,8 @@ PlotData=
  bar:1990 at: 379 text: 379 shift:(-14,5)
  bar:1992 at: 341 text: 341,1 shift:(-14,5)
  bar:2001 at: 338 text: 338,2 shift:(-14,5)
+ bar:2005 at: 341 text: 341,9 shift:(-14,5)
+ bar:2009 at: 338 text: 338,2 shift:(-14,5)
  bar:2011 at: 338 text: 338,2 shift:(-14,5)
  bar:2013 at: 341 text: 341 shift:(-14,5)
  bar:2014 at: 341 text: 341,5 shift:(-14,5)
