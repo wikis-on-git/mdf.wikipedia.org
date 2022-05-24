@@ -101,7 +101,65 @@
 
 == Эряйхне ==
 {{Wikidata/Population}}
-
+<timeline>
+ImageSize = width:650 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:250
+ScaleMajor = unit:year increment:50 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:15 align:left
+ bar:1822 from:0 till:1
+ bar:1865 from:0 till:4
+ bar:1886 from:0 till:22
+ bar:1897 from:0 till:32
+ bar:1916 from:0 till:58
+ bar:1922 from:0 till:45
+ bar:1926 from:0 till:48
+ bar:1939 from:0 till:77
+ bar:1959 from:0 till:128
+ bar:1970 from:0 till:160
+ bar:1979 from:0 till:194
+ bar:1989 from:0 till:234
+ bar:2002 from:0 till:186
+ bar:2005 from:0 till:184
+ bar:2009 from:0 till:188
+ bar:2014 from:0 till:147
+ bar:2015 from:0 till:147
+ bar:2019 from:0 till:138
+ bar:2020 from:0 till:135
+ bar:2021 from:0 till:134
+PlotData=
+ textcolor:black fontsize:S
+ bar:1822 at: 1 text: 1.6 shift:(-14,5)
+ bar:1865 at: 4 text: 4.5 shift:(-14,5)
+ bar:1886 at: 22 text: 22.6 shift:(-14,5)
+ bar:1897 at: 32 text: 32.4 shift:(-14,5)
+ bar:1916 at: 58 text: 58.1 shift:(-14,5)
+ bar:1922 at: 45 text: 45.2 shift:(-14,5)
+ bar:1926 at: 48 text: 48.1 shift:(-14,5)
+ bar:1939 at: 77 text: 77.5 shift:(-14,5)
+ bar:1959 at: 128 text: 128.2 shift:(-14,5)
+ bar:1970 at: 160 text: 160.9 shift:(-14,5)
+ bar:1979 at: 194 text: 194.2 shift:(-14,5)
+ bar:1989 at: 234 text: 234.8 shift:(-14,5)
+ bar:2002 at: 186 text: 186 shift:(-14,5)
+ bar:2005 at: 184 text: 184.5 shift:(-14,5)
+ bar:2009 at: 188 text: 188.6 shift:(-14,5)
+ bar:2014 at: 147 text: 147 shift:(-14,5)
+ bar:2015 at: 147 text: 147.9 shift:(-14,5)
+ bar:2019 at: 138 text: 138.2 shift:(-14,5)
+ bar:2020 at: 135 text: 135.2 shift:(-14,5)
+ bar:2021 at: 134 text: 134.4 shift:(-14,5)
+</timeline>
 == [[Экономикась]] ==
 
 == Культурась ==
