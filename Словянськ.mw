@@ -103,7 +103,7 @@
 
 == Эряйхне ==
 <timeline>
-ImageSize = width:950 height:320
+ImageSize = width:970 height:350
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
