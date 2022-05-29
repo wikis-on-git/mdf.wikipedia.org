@@ -98,7 +98,7 @@
 
 == Эряйхне ==
 <timeline>
-ImageSize = width:900 height:280
+ImageSize = width:1000 height:280
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -113,6 +113,15 @@ ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
 ScaleMinor = unit:year increment:5 start:0 gridcolor:linegrey2
 PlotData =
  color:cobar width:27 align:left
+ bar:1945 from:0 till:9
+ bar:1950 from:0 till:10
+ bar:1955 from:0 till:13
+ bar:1960 from:0 till:15
+ bar:1965 from:0 till:22
+ bar:1970 from:0 till:24
+ bar:1975 from:0 till:37
+ bar:1981 from:0 till:36
+ bar:1986 from:0 till:33
  bar:1990 from:0 till:34
  bar:2000 from:0 till:32
  bar:2001 from:0 till:32
@@ -132,9 +141,19 @@ PlotData =
  bar:2017 from:0 till:37
  bar:2018 from:0 till:36
  bar:2019 from:0 till:37
+ bar:2020 from:0 till:37
  bar:2021 from:0 till:37
 PlotData=
  textcolor:black fontsize:S
+ bar:1945 at: 9 text: 9.2 shift:(-14,5)
+ bar:1950 at: 10 text: 10.2 shift:(-14,5)
+ bar:1955 at: 13 text: 13.5 shift:(-14,5)
+ bar:1960 at: 15 text: 15.8 shift:(-14,5)
+ bar:1965 at: 22 text: 22.5 shift:(-14,5)
+ bar:1970 at: 24 text: 24.4 shift:(-14,5)
+ bar:1975 at: 37 text: 37.2 shift:(-14,5)
+ bar:1981 at: 36 text: 36.0 shift:(-14,5)
+ bar:1986 at: 33 text: 33.9 shift:(-14,5)
  bar:1990 at: 34 text: 34.7 shift:(-14,5)
  bar:2000 at: 32 text: 32.4 shift:(-14,5)
  bar:2001 at: 32 text: 32.5 shift:(-14,5)
@@ -154,6 +173,7 @@ PlotData=
  bar:2017 at: 37 text: 37.7 shift:(-14,5)
  bar:2018 at: 36 text: 36.6 shift:(-14,5)
  bar:2019 at: 37 text: 37.0 shift:(-14,5)
+ bar:2020 at: 37 text: 37.4 shift:(-14,5)
  bar:2021 at: 37 text: 37.2 shift:(-14,5)
 </timeline>
 
