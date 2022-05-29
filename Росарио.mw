@@ -100,7 +100,61 @@
 Ушетфоль [[1852]] [[киза|кизоня]].
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:700 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1000
+ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:50 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1851 from:0 till:3
+ bar:1858 from:0 till:9
+ bar:1869 from:0 till:23
+ bar:1887 from:0 till:50
+ bar:1895 from:0 till:91
+ bar:1900 from:0 till:112
+ bar:1906 from:0 till:150
+ bar:1914 from:0 till:222
+ bar:1926 from:0 till:407
+ bar:1930 from:0 till:431
+ bar:1947 from:0 till:467
+ bar:1950 from:0 till:529
+ bar:1960 from:0 till:591
+ bar:1970 from:0 till:697
+ bar:1980 from:0 till:797
+ bar:1991 from:0 till:908 
+ bar:2001 from:0 till:909
+ bar:2010 from:0 till:948
+PlotData=
+ textcolor:black fontsize:S
+ bar:1851 at: 3 text: 3.0 shift:(-8,5)
+ bar:1858 at: 9 text: 9.7 shift:(-11,5)
+ bar:1869 at: 23 text: 23.1 shift:(-11,5)
+ bar:1887 at: 50 text: 50.9 shift:(-11,5)
+ bar:1895 at: 91 text: 91.6 shift:(-11,5)
+ bar:1900 at: 112 text: 112.4 shift:(-11,5)
+ bar:1906 at: 150 text: 150.6 shift:(-11,5)
+ bar:1914 at: 222 text: 222.5 shift:(-11,5)
+ bar:1926 at: 407 text: 407.0 shift:(-14,5)
+ bar:1930 at: 431 text: 431.9 shift:(-14,5)
+ bar:1947 at: 467 text: 467.9 shift:(-14,5)
+ bar:1950 at: 529 text: 529.3 shift:(-14,5)
+ bar:1960 at: 591 text: 591.4 shift:(-14,5)
+ bar:1970 at: 697 text: 697.2 shift:(-14,5)
+ bar:1980 at: 797 text: 797.3 shift:(-14,5)
+ bar:1991 at: 908 text: 908.8 shift:(-14,5)
+ bar:2001 at: 909 text: 909.3 shift:(-14,5)
+ bar:2010 at: 948 text: 948.3 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
