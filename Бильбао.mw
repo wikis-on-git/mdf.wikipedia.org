@@ -102,7 +102,79 @@
 == [[Историясь]] ==
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:1100 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:450
+ScaleMajor = unit:year increment:50 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1842 from:0 till:10
+ bar:1857 from:0 till:18
+ bar:1877 from:0 till:33
+ bar:1887 from:0 till:51
+ bar:1897 from:0 till:74
+ bar:1900 from:0 till:83
+ bar:1910 from:0 till:94
+ bar:1920 from:0 till:112
+ bar:1930 from:0 till:161
+ bar:1940 from:0 till:195
+ bar:1950 from:0 till:229
+ bar:1960 from:0 till:297
+ bar:1970 from:0 till:410
+ bar:1981 from:0 till:433
+ bar:1991 from:0 till:372 
+ bar:2000 from:0 till:354
+ bar:2005 from:0 till:353
+ bar:2009 from:0 till:354
+ bar:2010 from:0 till:353
+ bar:2011 from:0 till:352
+ bar:2012 from:0 till:359
+ bar:2016 from:0 till:345
+ bar:2017 from:0 till:345
+ bar:2018 from:0 till:345
+ bar:2019 from:0 till:346
+ bar:2020 from:0 till:350
+ bar:2021 from:0 till:346
+PlotData=
+ textcolor:black fontsize:S
+ bar:1842 at: 10 text: 10.0 shift:(-8,5)
+ bar:1857 at: 18 text: 18.0 shift:(-11,5)
+ bar:1877 at: 33 text: 33.0 shift:(-11,5)
+ bar:1887 at: 51 text: 51.0 shift:(-11,5)
+ bar:1897 at: 74 text: 74.0 shift:(-11,5)
+ bar:1900 at: 83 text: 83.0 shift:(-11,5)
+ bar:1910 at: 94 text: 94.1 shift:(-11,5)
+ bar:1920 at: 112 text: 112.8 shift:(-14,5)
+ bar:1930 at: 161 text: 161.9 shift:(-14,5)
+ bar:1940 at: 195 text: 195.1 shift:(-14,5)
+ bar:1950 at: 229 text: 229.3 shift:(-14,5)
+ bar:1960 at: 297 text: 297.9 shift:(-14,5)
+ bar:1970 at: 410 text: 410.4 shift:(-14,5)
+ bar:1981 at: 433 text: 433.0 shift:(-14,5)
+ bar:1991 at: 372 text: 372.0 shift:(-14,5)
+ bar:2000 at: 354 text: 354.2 shift:(-14,5)
+ bar:2005 at: 353 text: 353.2 shift:(-14,5)
+ bar:2009 at: 354 text: 354.8 shift:(-14,5)
+ bar:2010 at: 353 text: 353.1 shift:(-14,5)
+ bar:2011 at: 352 text: 352.7 shift:(-14,5)
+ bar:2012 at: 359 text: 359.5 shift:(-14,5)
+ bar:2016 at: 345 text: 345.1 shift:(-14,5)
+ bar:2017 at: 345 text: 345.7 shift:(-14,5)
+ bar:2018 at: 345 text: 345.8 shift:(-14,5)
+ bar:2019 at: 346 text: 346.8 shift:(-14,5)
+ bar:2020 at: 350 text: 350.1 shift:(-14,5)
+ bar:2021 at: 346 text: 346.4 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
