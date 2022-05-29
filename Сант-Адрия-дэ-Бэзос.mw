@@ -1,0 +1,195 @@
+{{Эряма васта
+|статус                   = [[ош]]
+|мокшень лемтне           = Сант-Адрия-дэ-Бэзос
+|васенце лем              = {{lang-es|Sant Adrià de Besòs}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = BCN-ParcForum-4923.jpg
+ |photo2a = SantAdria 03.jpg
+ |photo2b = SantAdria 01.jpg
+ |photo3a = Casal de la Dona de Sant Adrià-2.JPG
+ |photo3b = 075 EEBE, campus Diagonal Besòs de la UPC, c. Eduard Maristany (Sant Adrià de Besòs).jpg 
+ |photo4a = Sant Adrià de Besòs, Barcelona.jpg
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнясь                  = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Сант-Адрия-дэ-Бэзос''' ({{lang-es|Sant Adrià de Besòs}}) — [[ош]]сь ди муниципалитетсь [[Испания|Испаниянь масторонь]].
+
+== [[Географиясь]] ==
+== [[Климатсь]] ==
+{{Climate chart
+|Сант-Адрия-дэ-Бэзос ошсь
+| 6.3| 12.3| 39
+| 5.9| 12.9| 39 
+| 7.3| 15.5| 43
+| 8.8| 17.6| 54
+| 11.3| 20.9| 48
+| 14.2| 25.3| 37
+| 16.3| 27.6| 27
+| 16.5| 27.5| 43
+| 15.7| 24.7| 82	
+| 13.2| 20.7| 94
+| 9.4| 15.8| 64
+| 7.1| 12.9| 44
+|float= 
+|clear=
+|source= [https://en.climate-data.org/europe/spain/catalonia/sant-adria-de-besos-57171/ Сант-Адрия-дэ-Бэзос] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:900 height:280
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:40
+ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:5 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1990 from:0 till:34
+ bar:2000 from:0 till:32
+ bar:2001 from:0 till:32
+ bar:2002 from:0 till:32
+ bar:2003 from:0 till:32
+ bar:2004 from:0 till:32
+ bar:2005 from:0 till:32
+ bar:2006 from:0 till:32
+ bar:2007 from:0 till:32
+ bar:2008 from:0 till:33
+ bar:2009 from:0 till:33
+ bar:2010 from:0 till:34
+ bar:2011 from:0 till:34
+ bar:2012 from:0 till:34
+ bar:2015 from:0 till:35
+ bar:2016 from:0 till:36
+ bar:2017 from:0 till:37
+ bar:2018 from:0 till:36
+ bar:2019 from:0 till:37
+ bar:2021 from:0 till:37
+PlotData=
+ textcolor:black fontsize:S
+ bar:1990 at: 34 text: 34.7 shift:(-14,5)
+ bar:2000 at: 32 text: 32.4 shift:(-14,5)
+ bar:2001 at: 32 text: 32.5 shift:(-14,5)
+ bar:2002 at: 32 text: 32.6 shift:(-14,5)
+ bar:2003 at: 32 text: 32.8 shift:(-14,5)
+ bar:2004 at: 32 text: 32.9 shift:(-14,5)
+ bar:2005 at: 32 text: 32.8 shift:(-14,5)
+ bar:2006 at: 32 text: 32.5 shift:(-14,5)
+ bar:2007 at: 32 text: 32.7 shift:(-14,5)
+ bar:2008 at: 33 text: 33.2 shift:(-14,5)
+ bar:2009 at: 33 text: 33.7 shift:(-14,5)
+ bar:2010 at: 34 text: 34.0 shift:(-14,5)
+ bar:2011 at: 34 text: 34.1 shift:(-14,5)
+ bar:2012 at: 34 text: 34.4 shift:(-14,5)
+ bar:2015 at: 35 text: 35.8 shift:(-14,5)
+ bar:2016 at: 36 text: 36.4 shift:(-14,5)
+ bar:2017 at: 37 text: 37.7 shift:(-14,5)
+ bar:2018 at: 36 text: 36.6 shift:(-14,5)
+ bar:2019 at: 37 text: 37.0 shift:(-14,5)
+ bar:2021 at: 37 text: 37.2 shift:(-14,5)
+</timeline>
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Галереясь ==
+<gallery mode="packed" heights="150" caption=>
+Sant Adrià de Besòs - visto desde el puerto de Badalona - panoramio.jpg
+Estany i font placeta Macià-1.JPG
+San Adrián de Besós 322DSC 0052.jpg
+San Adrián de Besós 322DSC 0054.jpg
+Sant Adrià de Besòs 66.jpg
+Sant Adrià de Besòs - Poliesportiu Ricart 2.jpg
+</gallery>
+
+== Кальвалсь ==
+* Manuel Márquez Berrocal. ''Historia Social de San Adrián de Besós. Volum III. La transformación del territorio: La producción del espacio urbano en San Adrián de Besós, 1910-40'', Ayuntamiento de San Adrián de Besós, Barcelona, 2001. 222 pp.{{ref-es}}
+* Just Casas Soriano, Manuel Márquez Berrocal. ''Historia Social de San Adrián de Besós. Volum I. La población: siglos XVIII-XX'', Ayuntamiento de San Adrián de Besós, Editorial Hacer, Barcelona, 1996. 256 pp.{{ref-es}}
+* Manuel Márquez Berrocal. ''Historia social de la población de San Adrián de Besós, durante el siglo XX'', comunicación al “2 ° Congreso de la Asociación de Historia Contemporánea de España”, Barcelona, junio-julio de 1994, 51 pp.{{ref-es}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://www.sant-adria.cat/ Официалонь лопа]{{ref-es}}
+
+{{Гео-керф}}
+
+[[Категорие:ошне|Сант-Адрия-дэ-Бэзос]]
+[[Категорие:Испанонь ошне|Сант-Адрия-дэ-Бэзос]]
