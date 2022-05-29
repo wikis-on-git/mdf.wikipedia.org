@@ -113,6 +113,7 @@ ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
 ScaleMinor = unit:year increment:5 start:0 gridcolor:linegrey2
 PlotData =
  color:cobar width:27 align:left
+ bar:1940 from:0 till:8
  bar:1945 from:0 till:9
  bar:1950 from:0 till:10
  bar:1955 from:0 till:13
@@ -145,6 +146,7 @@ PlotData =
  bar:2021 from:0 till:37
 PlotData=
  textcolor:black fontsize:S
+ bar:1940 at: 8 text: 8.3 shift:(-14,5)
  bar:1945 at: 9 text: 9.2 shift:(-14,5)
  bar:1950 at: 10 text: 10.2 shift:(-14,5)
  bar:1955 at: 13 text: 13.5 shift:(-14,5)
