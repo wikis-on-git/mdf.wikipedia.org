@@ -1,0 +1,173 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Республикась Панама
+|васенце лем              = {{lang-es|República de Panamá}}
+|изображение              = PAN orthographic.svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = испанонь кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +507
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернетсь-домен	
+|цифровой идентификатор   = .pa
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+
+'''Панама''' ({{lang-es|Panamá}}) ''илань коряс'': '''Республикась Панама''' ({{lang-es|República de Panamá}}) — масторсь [[Кельмеширень Америкась|Кельмеширень]] ди [[Кучкань Америкась|Кучкань]] [[Америка]]сь. [[Пряошец]] — [[Панама (ошсь)|Панама]].
+
+== [[Географиясь]] ==
+[[Няйф:LocationPanama.svg|кенжешка|вить_кедь|290px|]]
+[[Няйф:Pm-map.png|кенжешка|вить_кедь|290px|]]
+{{Location2|nw=[[Карибонь иневедь]]|n=[[Карибонь иневедь]]|ne=[[Карибонь иневедь]]|w={{CRI}}|e={{COL}}|sw=[[Сетьме оцюведь]]|s=[[Сетьме оцюведь]]|se=[[Сетьме оцюведь]]}}
+== [[Климатсь]] ==
+
+== [[Историясь]] ==
+Уштефтоль 15 сентябрьста [[1821]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:900 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:4500
+ScaleMajor = unit:year increment:500 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1955 from:0 till:981
+  bar:1960 from:0 till:1133
+  bar:1965 from:0 till:1315
+  bar:1970 from:0 till:1519
+  bar:1975 from:0 till:1745
+  bar:1980 from:0 till:1979
+  bar:1985 from:0 till:2219
+  bar:1990 from:0 till:2471
+  bar:1995 from:0 till:2740
+  bar:2000 from:0 till:3030
+  bar:2005 from:0 till:3330
+  bar:2010 from:0 till:3405
+  bar:2011 from:0 till:3643
+  bar:2013 from:0 till:3795
+  bar:2015 from:0 till:3929
+  bar:2016 from:0 till:4080	
+  bar:2017 from:0 till:4153
+  bar:2018 from:0 till:4176
+  bar:2020 from:0 till:4315
+  bar:2021 from:0 till:4379
+PlotData=
+ textcolor:black fontsize:S
+  bar:1955 at: 981 text: 981.0 shift:(-14,5)
+  bar:1960 at: 1133 text: 1.133 shift:(-14,5)
+  bar:1965 at: 1315 text: 1.315 shift:(-14,5)
+  bar:1970 at: 1519 text: 1.519 shift:(-14,5)
+  bar:1975 at: 1745 text: 1.745 shift:(-14,5)
+  bar:1980 at: 1979 text: 1.979 shift:(-14,5)
+  bar:1985 at: 2219 text: 2.219 shift:(-14,5)
+  bar:1990 at: 2471 text: 2.471 shift:(-14,5)
+  bar:1995 at: 2740 text: 2.740 shift:(-14,5)
+  bar:2000 at: 3030 text: 3.030 shift:(-14,5)
+  bar:2005 at: 3330 text: 3.330 shift:(-14,5)
+  bar:2010 at: 3405 text: 3.405 shift:(-14,5)
+  bar:2011 at: 3643 text: 3.643 shift:(-14,5)
+  bar:2013 at: 3795 text: 3.795 shift:(-14,5)
+  bar:2015 at: 3929 text: 3.929 shift:(-14,5)
+  bar:2016 at: 4080 text: 4.080 shift:(-14,5)
+  bar:2017 at: 4153 text: 4.153 shift:(-14,5)
+  bar:2018 at: 4176 text: 4.176 shift:(-14,5)
+  bar:2020 at: 4315 text: 4.315 shift:(-14,5)
+  bar:2021 at: 4379 text: 4.379 shift:(-14,5)
+</timeline>
+	 
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Кяльвалсь ==
+{{refbegin}}
+* {{cite book|author=Kevin Buckley|title=Panama|publisher=Touchstone|year=1992|isbn=0-671-77876-5}}{{ref-en}}
+* {{cite book|author=Ovidio Diaz Espino|title=How Wall Street Created a Nation|publisher=Four Walls Eight Windows|year=2001|isbn=1-56858-196-3}}{{ref-en}}
+* {{cite book|author=Robert C. Harding|title=The History of Panama|publisher=Greenwood Publishing|year=2006}}{{ref-en}}
+* {{cite book|author1=Robert C. Harding|title=Military Foundations of Panamanian Politics|publisher=Transaction Publishers|year=2001|isbn=0-393-02696-5}}{{ref-en}}
+* {{cite book|author=R.M. Joster|author2=Sanchez, Guillermo|title=In the Time of the Tyrants, Panama: 1968–1990|publisher=W.W. Norton & Company|year=1990}}{{ref-en}}
+* {{cite book|author=Ana Elena Porras|title=Cultura de la Interoceanidad: Narrativas de Identidad Nacional de Panama (1990–2002)|publisher=Editorial Carlos Manuel Gasteazoro|year=2005|isbn=9962-53-131-4}}{{ref-en}}
+* {{cite book|author=Damaris Serrano|title=La Nación Panamena en sus Espacios: Cultura Popular, Resistencia y Globalización|publisher=Editorial Mariano Arosemena|year=2005|isbn=9962-659-01-9}}{{ref-en}}
+* {{cite book|author=Melquiades Villarreal|title=Esperanza o Realidad: Fronteras de la Identidad Panamena|publisher=Editorial Mariano Arosemena|year=2004|isbn=9962-601-80-0}}{{ref-en}}
+* {{cite book|author1=John Weeks|author2=Phil Gunson|title=Panama. Made in the USA|year=1992|isbn=978-0-906156-55-1}}{{ref-en}}
+{{refend}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://curlie.org/Regional/Central_America/Panama Панама] «Curlie»{{ref-en}}
+* [https://web.archive.org/web/20090125100526/http://ucblibraries.colorado.edu/govpubs/for/panama.htm Панама] «UCB Libraries GovPubs»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/panama/ Панама] «Central Intelligence Agency»{{ref-en}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1229332.stm Панама] «BBC News»{{ref-en}}
+
+{{Кучкань Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Панама]]
+[[Категорие:Кельмеширень Америка|Панама]]
+[[Категорие:Америконь масторхне|Панама]]
+[[Категорие:Масторхне|Панама]]
+[[Категорие:Республикне|Панама]]
