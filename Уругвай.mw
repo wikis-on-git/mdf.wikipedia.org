@@ -74,7 +74,93 @@
 Ушетфоль 25 августста [[1825]] [[киза|кизоня]].
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:1180 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:4000
+ScaleMajor = unit:year increment:500 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1800 from:0 till:30
+  bar:1811 from:0 till:60
+  bar:1820 from:0 till:50
+  bar:1828 from:0 till:70
+  bar:1829 from:0 till:74
+  bar:1835 from:0 till:128
+  bar:1840 from:0 till:200
+  bar:1852 from:0 till:131
+  bar:1860 from:0 till:223
+  bar:1879 from:0 till:438
+  bar:1882 from:0 till:505
+  bar:1892 from:0 till:728
+  bar:1900 from:0 till:915
+  bar:1908 from:0 till:1042
+  bar:1915 from:0 till:1327
+  bar:1920 from:0 till:1473
+  bar:1930 from:0 till:1875
+  bar:1940 from:0 till:2155
+  bar:1950 from:0 till:2239
+  bar:1955 from:0 till:2373
+  bar:1963 from:0 till:2595
+  bar:1975 from:0 till:2788
+  bar:1985 from:0 till:2955
+  bar:1990 from:0 till:3110
+  bar:1996 from:0 till:3248
+  bar:2000 from:0 till:3321
+  bar:2005 from:0 till:3325
+  bar:2010 from:0 till:3372
+  bar:2014 from:0 till:3453
+  bar:2015 from:0 till:3467
+  bar:2016 from:0 till:3479
+  bar:2017 from:0 till:3493
+  bar:2018 from:0 till:3506
+  bar:2019 from:0 till:3518
+PlotData=
+ textcolor:black fontsize:S
+  bar:1800 at: 30 text: 30.6 shift:(-14,5)
+  bar:1811 at: 60 text: 60.0 shift:(-14,5)
+  bar:1820 at: 50 text: 50.0 shift:(-14,5)
+  bar:1828 at: 70 text: 70.0 shift:(-14,5)
+  bar:1829 at: 74 text: 74.0 shift:(-14,5)
+  bar:1835 at: 128 text: 128.3 shift:(-14,5)
+  bar:1840 at: 200 text: 200.0 shift:(-14,5)
+  bar:1852 at: 131 text: 131.9 shift:(-14,5)
+  bar:1860 at: 223 text: 223.2 shift:(-14,5)
+  bar:1879 at: 438 text: 438.2 shift:(-14,5)
+  bar:1882 at: 505 text: 505.2 shift:(-14,5)
+  bar:1892 at: 728 text: 728.4 shift:(-14,5)
+  bar:1900 at: 915 text: 915.0 shift:(-14,5)
+  bar:1908 at: 1042 text: 1.042 shift:(-14,5)
+  bar:1915 at: 1327 text: 1.327 shift:(-14,5)
+  bar:1920 at: 1473 text: 1.473 shift:(-14,5)
+  bar:1930 at: 1875 text: 1.875 shift:(-14,5)
+  bar:1940 at: 2155 text: 2.155 shift:(-14,5)
+  bar:1950 at: 2239 text: 2.239 shift:(-14,5)
+  bar:1955 at: 2373 text: 2.373 shift:(-14,5)
+  bar:1963 at: 2595 text: 2.595 shift:(-14,5)
+  bar:1975 at: 2788 text: 2.788 shift:(-14,5)
+  bar:1985 at: 2955 text: 2.955 shift:(-14,5)
+  bar:1990 at: 3110 text: 3.110 shift:(-14,5)
+  bar:1996 at: 3248 text: 3.248 shift:(-14,5)
+  bar:2000 at: 3321 text: 3.321 shift:(-14,5)
+  bar:2005 at: 3325 text: 3.325 shift:(-14,5)
+  bar:2010 at: 3372 text: 3.372 shift:(-14,5)
+  bar:2014 at: 3453 text: 3.453 shift:(-14,5)
+  bar:2015 at: 3467 text: 3.467 shift:(-14,5)
+  bar:2016 at: 3479 text: 3.479 shift:(-14,5)
+  bar:2017 at: 3493 text: 3.493 shift:(-14,5)
+  bar:2018 at: 3506 text: 3.506 shift:(-14,5)
+  bar:2019 at: 3518 text: 3.518 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
