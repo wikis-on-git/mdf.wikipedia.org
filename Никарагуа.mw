@@ -1,0 +1,184 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Республикась Никарагуа
+|васенце лем              = {{lang-es|República de Nicaragua}}
+|изображение              = NIC orthographic.svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = испанонь кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +505
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернетсь-домен	
+|цифровой идентификатор   = .ni
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+
+'''Никарагуа''' ({{lang-es|Nicaragua}}) ''илань коряс'': '''Республикась Никарагуа''' ({{lang-es|Republica de Nicaragua}}) — масторсь [[Кельмеширень Америкась|Кельмеширень]] ди [[Кучкань Америкась|Кучкань]] [[Америка]]сь. [[Пряошец]] — {{iw|Манагуа||es|Managua}}.
+
+== [[Географиясь]] ==
+[[Няйф:LocationNicaragua.svg|кенжешка|вить_кедь|290px|]]
+[[Няйф:Un-nicaragua.png|кенжешка|вить_кедь|290px|]]
+{{Location2||nw={{HND}}|n={{HND}}|ne=[[Карибонь иневедь]]|w=[[Сетьме оцюведь]]|e=[[Карибонь иневедь]]|sw=[[Сетьме оцюведь]]|s={{CRI}}|se=[[Карибонь иневедь]]}}
+== [[Климатсь]] ==
+
+== [[Историясь]] ==
+Уштефтоль 28 сентябрьста [[1821]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:1000 height:350
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:7000
+ScaleMajor = unit:year increment:500 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1906 from:0 till:501
+  bar:1920 from:0 till:633
+  bar:1940 from:0 till:829
+  bar:1950 from:0 till:1295
+  bar:1955 from:0 till:1508
+  bar:1960 from:0 till:1775
+  bar:1970 from:0 till:2398
+  bar:1975 from:0 till:2798
+  bar:1980 from:0 till:3250
+  bar:1985 from:0 till:3710
+  bar:1990 from:0 till:4145
+  bar:1995 from:0 till:4357
+  bar:2000 from:0 till:5027
+  bar:2002 from:0 till:5142
+  bar:2005 from:0 till:5439
+  bar:2009 from:0 till:5738
+  bar:2010 from:0 till:5742
+  bar:2012 from:0 till:6025
+  bar:2014 from:0 till:6217
+  bar:2015 from:0 till:6223
+  bar:2018 from:0 till:6465
+  bar:2019 from:0 till:6546
+  bar:2020 from:0 till:6595 
+  bar:2021 from:0 till:6625
+  bar:2022 from:0 till:6751
+PlotData=
+ textcolor:black fontsize:S
+  bar:1906 at: 501 text: 501.8 shift:(-14,5)
+  bar:1920 at: 633 text: 633.6 shift:(-14,5)
+  bar:1940 at: 829 text: 829.8 shift:(-14,5)
+  bar:1950 at: 1295 text: 1.295 shift:(-14,5)
+  bar:1955 at: 1508 text: 1.508 shift:(-14,5)
+  bar:1960 at: 1775 text: 1.775 shift:(-14,5)
+  bar:1970 at: 2398 text: 2.398 shift:(-14,5)
+  bar:1975 at: 2798 text: 2.798 shift:(-14,5)
+  bar:1980 at: 3250 text: 3.250 shift:(-14,5)
+  bar:1985 at: 3710 text: 3.710 shift:(-14,5)
+  bar:1990 at: 4145 text: 4.145 shift:(-14,5)
+  bar:1995 at: 4357 text: 4.357 shift:(-14,5)
+  bar:2000 at: 5027 text: 5.027 shift:(-14,5)
+  bar:2002 at: 5142 text: 5.142 shift:(-14,5)
+  bar:2005 at: 5439 text: 5.439 shift:(-14,5)
+  bar:2009 at: 5738 text: 5.738 shift:(-14,5)
+  bar:2010 at: 5742 text: 5.742 shift:(-14,5)
+  bar:2012 at: 6025 text: 6.025 shift:(-14,5)
+  bar:2014 at: 6217 text: 6.217 shift:(-14,5)
+  bar:2015 at: 6223 text: 6.223 shift:(-14,5)
+  bar:2018 at: 6465 text: 6.465 shift:(-14,5)
+  bar:2019 at: 6546 text: 6.546 shift:(-14,5)
+  bar:2020 at: 6595 text: 6.595 shift:(-14,5)
+  bar:2021 at: 6625 text: 6.625 shift:(-14,5)
+  bar:2022 at: 6751 text: 6.751 shift:(-14,5)
+</timeline>
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Кяльвалсь ==
+{{refbegin}}
+* {{cite book|author=Christopher Dall|title=Nicaragua in Pictures|url=https://books.google.com/books?id=vUP3hLbq6DEC&pg=PA66|date=October 1, 2005|publisher=Twenty-First Century Books|isbn=978-0-8225-2671-1|pages=66–67}}{{ref-en}}
+* {{cite book|author=Linda A. Newson|title=Indian survival in colonial Nicaragua|date=1987|publisher=University of Oklahoma Press|location=Norman|isbn=978-0806120089|edition=1st}}{{ref-es}}
+* {{cite book|author=W. Walker|title= The War in Nicaragua|publisher= S.H. Goetzel & Company|place=New York|year=1860|url=https://archive.org/stream/warinnicaragua00walkgoog#page/n6/mode/2up}}{{ref-en}}
+* {{cite book|author=AR Colquhoun|title=The key of the Pacific: the Nicaragua canal|publisher=Archibald Constable and Company|place=Westminster|year=1895|url=https://archive.org/stream/keypacificnicar02colqgoog#page/n6/mode/2up}}{{ref-en}}
+* {{cite book|author=Néfer Muñoz|title=An 'Eco-Canal' across Nicaragua|work=Accents|publisher=Tierramérica|location=Granada, Nicaragua |year=2001|url=http://www.tierramerica.net/2001/0506/iacentos.shtml}}{{ref-es}}
+* {{cite book|title=Nicaragua|author=Tim Merrill|publisher=Federal Research Division, U.S. Library of Congress|url=https://archive.org/details/nicaraguacountry00merr|location=Washington, DC|date=1994 |website=lcweb2.loc.gov|isbn=978-0-8444-0831-6|oclc=30623751}}{{ref-en}}
+* {{cite book|author=L.Baracco|year=2005|title=Nicaragua: The Imagining of a Nation. From Nineteenth-Century Liberals to Twentieth-Century Sandinistas|place=New York|publisher=Algora Publishing}}{{ref-en}}
+* {{Cite book|author=Charles F. Gritzner|url=https://books.google.com/books?id=gpEjzy6njwwC&q=nicaragua+guinea+pig|title=Nicaragua|date=2010|publisher=Infobase Publishing|isbn=9781604136197}}{{ref-en}}
+
+* {{cite book|author1=Lara Sylvia|author2=Tom Barry|author3=Peter Simonson|title=Inside Costa Rica: The Essential Guide to Its Politics, Economy, Society and Environment|location=London|publisher=Latin America Bureau|year=1995}}{{ref-en}}
+{{refend}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://curlie.org/Regional/Central_America/Nicaragua Никарагуа] «Curlie»{{ref-en}}
+* [https://web.archive.org/web/20080607085335/http://ucblibraries.colorado.edu/govpubs/for/nicaragua.htm Никарагуа] «UCB Libraries GovPubs»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/nicaragua/ Никарагуа] «Central Intelligence Agency»{{ref-en}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1225218.stm Никарагуа] «BBC News»{{ref-en}}
+
+{{Кучкань Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Никарагуа]]
+[[Категорие:Кельмеширень Америка|Никарагуа]]
+[[Категорие:Америконь масторхне|Никарагуа]]
+[[Категорие:Масторхне|Никарагуа]]
+[[Категорие:Республикне|Никарагуа]]
