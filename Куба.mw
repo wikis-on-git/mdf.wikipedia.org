@@ -1,0 +1,219 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Республикась Куба
+|васенце лем              = {{lang-es|República de Cuba}}
+|изображение              = Cuba (orthographic projection).svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = испанонь кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +53
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернетсь-домен	
+|цифровой идентификатор   = .cu
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+
+'''Куба''' ({{lang-es|Cuba}}) ''илань коряс'': '''Республикась Куба''' ({{lang-es|Republica de Cuba}}) — масторсь [[Кельмеширень Америкась|Кельмеширень]] [[Америка]]сь. [[Пряошец]] — {{iw|Гавана||es|La Habana}}.
+
+== [[Географиясь]] ==
+[[Няйф:LocationCuba.svg|кенжешка|вить_кедь|290px|]]
+[[Няйф:Cuba - Location Map (2013) - CUB - UNOCHA.svg|кенжешка|вить_кедь|290px|]]
+[[Няйф:El Capitolio Havana Cuba.jpg|кенжешка|вить_кедь|290px|]]
+== [[Климатсь]] ==
+
+== [[Историясь]] ==
+Уштефтоль 10 декабрьста [[1898]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:1190 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:12000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1827 from:0 till:704
+  bar:1841 from:0 till:1007
+  bar:1877 from:0 till:1509
+  bar:1899 from:0 till:1572
+  bar:1907 from:0 till:2048
+  bar:1919 from:0 till:2889
+  bar:1931 from:0 till:3962
+  bar:1943 from:0 till:4778
+  bar:1950 from:0 till:5920
+  bar:1955 from:0 till:6539
+  bar:1960 from:0 till:7141
+  bar:1965 from:0 till:7952
+  bar:1970 from:0 till:8715
+  bar:1975 from:0 till:9438
+  bar:1980 from:0 till:9835
+  bar:1985 from:0 till:10097
+  bar:1990 from:0 till:10662
+  bar:1995 from:0 till:10947
+  bar:2000 from:0 till:11146
+  bar:2005 from:0 till:11218
+  bar:2010 from:0 till:11167
+  bar:2011 from:0 till:11175
+  bar:2012 from:0 till:11173
+  bar:2013 from:0 till:11210
+  bar:2014 from:0 till:11238
+  bar:2015 from:0 till:11239
+  bar:2016 from:0 till:11239
+  bar:2017 from:0 till:11221
+  bar:2018 from:0 till:11209
+  bar:2019 from:0 till:11193
+  bar:2020 from:0 till:11181
+  bar:2021 from:0 till:11113
+PlotData=
+ textcolor:black fontsize:S
+  bar:1827 at: 704 text: 704,4 shift:(-14,5)
+  bar:1841 at: 1007 text: 1,007 shift:(-14,5)
+  bar:1877 at: 1509 text: 1,509 shift:(-14,5)
+  bar:1899 at: 1572 text: 1,572 shift:(-14,5)
+  bar:1907 at: 2048 text: 2,048 shift:(-14,5)
+  bar:1919 at: 2889 text: 2,889 shift:(-14,5)
+  bar:1931 at: 3962 text: 3,962 shift:(-14,5)
+  bar:1943 at: 4778 text: 4,778 shift:(-14,5)
+  bar:1950 at: 5920 text: 5,920 shift:(-14,5)
+  bar:1955 at: 6539 text: 6,539 shift:(-14,5)
+  bar:1960 at: 7141 text: 7,141 shift:(-14,5)
+  bar:1965 at: 7952 text: 7,952 shift:(-14,5)
+  bar:1970 at: 8715 text: 8,715 shift:(-14,5)
+  bar:1975 at: 9438 text: 9,438 shift:(-14,5)
+  bar:1980 at: 9835 text: 9,835 shift:(-14,5)
+  bar:1985 at: 10097 text: 10,097 shift:(-14,5)
+  bar:1990 at: 10662 text: 10,662 shift:(-14,5)
+  bar:1995 at: 10947 text: 10,947 shift:(-14,5)
+  bar:2000 at: 11146 text: 11,146 shift:(-14,5)
+  bar:2005 at: 11218 text: 11,218 shift:(-14,5)
+  bar:2010 at: 11167 text: 11,167 shift:(-14,5)
+  bar:2011 at: 11175 text: 11,175 shift:(-14,5)
+  bar:2012 at: 11173 text: 11,173 shift:(-14,5)
+  bar:2013 at: 11210 text: 11,210 shift:(-14,5)
+  bar:2014 at: 11238 text: 11,238 shift:(-14,5)
+  bar:2015 at: 11239 text: 11,239 shift:(-14,5)
+  bar:2016 at: 11239 text: 11,239 shift:(-14,5)
+  bar:2017 at: 11221 text: 11,221 shift:(-14,5)
+  bar:2018 at: 11209 text: 11,209 shift:(-14,5)
+  bar:2019 at: 11193 text: 11,193 shift:(-14,5)
+  bar:2020 at: 11181 text: 11,181 shift:(-14,5)
+  bar:2021 at: 11113 text: 11,113 shift:(-14,5)
+</timeline>
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Кяльвалсь ==
+{{refbegin}}
+*{{Cite book|last=Alvarez |first=José |year=2001|title=Cuba in Transition, Volume&nbsp;11|url=http://www.ascecuba.org/publications/annual-proceedings/cuba-in-transition-volume-11/|location=Silver Spring|publisher=ASCE|pages=305–322|isbn=978-0-9649082-0-8}}{{ref-en}}
+*{{Cite book|last=Alvarez|first=José|year=2004|title= Cuban Agriculture Before 1959: The Social Situation|url= http://edis.ifas.ufl.edu/pdffiles/FE/FE48000.pdf|location=Gainesville,&nbsp;FL |publisher= Department of Food and Resource Economics, University of Florida}}{{ref-en}}
+*{{Cite book|last=Baklanoff|first= Eric N.|year=1998|title=Cuba in Transition, Volume&nbsp;8|url= http://www.ascecuba.org/publications/annual-proceedings/cuba-in-transition-volume-08/|location=Silver Spring,&nbsp;MD|publisher=ASCE|pages=260–272|isbn= 978-0-9649082-7-7}}{{ref-en}}
+*{{Cite book|last1=Breier|first1=Mignonne|last2=Wildschut|first2=Angelique|year=2007|title=Doctors in a Divided Society: The Profession and Education of Medical Practitioners in South Africa|publisher=HSRC Press|isbn=978-0-7969-2153-6|url=https://books.google.com/books?id=WtuiTYThR7sC&pg=PP1}}{{ref-en}}
+*{{Cite book|editor1= Aviva Chomsky|editor2-last= Carr|editor2-first= Barry|editor3-last= Smorkaloff|editor3-first=Pamela Maria|year=2004|title=The Cuba Reader: History, Culture, Politics|location=Durham,&nbsp;NC|publisher=Duke University Press|isbn=978-0-8223-3197-1|url=https://archive.org/details/cubareaderhistor0000unse}}{{ref-en}}
+*{{cite book|last1=Clodfelter|first1=Micheal|date=2017|title=Warfare and Armed Conflicts: A Statistical Encyclopedia of Casualty and Other Figures, 1492–2015|edition=4th|publisher=McFarland|isbn=978-0786474707}}{{ref-en}}
+*{{Cite book|last=Corbett|first=Ben|year=2002|title= This Is Cuba: An Outlaw Culture Survives|publisher=Westview Press|isbn=978-0-8133-3826-2|url=https://archive.org/details/thisiscubaoutlaw00benc}}{{ref-en}}
+*{{Cite book|last1=Crespo|first1=Nicolás|last2=Negrón Díaz|first2=Santos|year=1997|title=Cuba in Transition, Volume&nbsp;7|url=http://www.ascecuba.org/publications/annual-proceedings/cuba-in-transition-volume-07/|location=Silver Spring,&nbsp;MD|publisher=ASCE|pages=150–161|isbn=978-0-9649082-6-0}}{{ref-en}}
+*{{Cite book|author=Jorge I. Domínguez|year=1978|title=Cuba: Order and Revolution|location=Cambridge,&nbsp;MA|publisher=Belknap Press|isbn= 978-0-674-17925-7}}{{ref-en}}
+*{{Cite book|author=Jorge I. Domínguez|year=1989|title=To Make a World Safe for Revolution: Cuba's Foreign Policy|location=Cambridge,&nbsp;MA|publisher=Harvard University Press|isbn=978-0-674-89325-2}}{{ref-en}}
+*{{Cite book|author=Jorge I. Domínguez|year=2003|title=A Constitution for Cuba's Political Transition: The Utility of Retaining (and Amending) the 1992 Constitution|url=http://www.people.fas.harvard.edu/~jidoming/images/jid_constitution.PDF|location= Coral Gables,&nbsp;FL|publisher=Institute for Cuban and Cuban-American Studies, University of Miami|isbn=978-1-932385-04-5}}{{ref-en}}
+*{{Cite book|last= Espino|first= María Dolores |year= 2000|title= Cuba in Transition, Volume&nbsp;10|url= http://www.ascecuba.org/publications/annual-proceedings/cuba-in-transition-volume-10/|location= Silver Spring,&nbsp;MD|publisher=ASCE|isbn= 978-0-9649082-8-4 |access-date= 25 March 2013}}{{ref-en}}
+*{{Cite book|author=Gebru Tareke|year=2009|title=The Ethiopian Revolution: War in the Horn of Africa|location=New Haven,&nbsp;CT|publisher=Yale University Press|isbn= 978-0-300-14163-4}}{{ref-en}}
+*{{Cite book|last=Gleijeses|first=Piero|year=2002|title=Conflicting Missions: Havana, Washington, and Africa, 1959–1976|location=Chapel Hill, NC|publisher=University of North Carolina Press|isbn=978-0-8078-2647-8}}{{ref-en}}
+*{{Cite book|last=Gleijeses|first=Piero|year=2010|chapter=Cuba and the Cold War, 1959–1980|title=In Melvyn P. Leffler & Odd Arne Westad, eds., The Cambridge History of the Cold War, Volume&nbsp;II: Crises and Détente|location=Cambridge|publisher=Cambridge University Press|pages= 327–348|isbn=978-0-521-83720-0}}{{ref-en}}
+*{{Cite book|last=Gleijeses|first=Piero|year=2013|title=Visions of Freedom: Havana, Washington, Pretoria, and the Struggle for Southern Africa, 1976–1991|location=Chapel Hill, NC|publisher=University of North Carolina Press|isbn=978-1-4696-0968-3}}{{ref-en}}
+*{{Cite book|author=Richard Gott|year=2004|title=Cuba: A New History|location=New Haven, CT|publisher=Yale University Press|isbn= 978-0-300-10411-0|url=https://archive.org/details/cubanewhistory0000gott}}{{ref-en}}
+*{{Cite book|author=Irving Louis Horowitz|year=1988|title=Cuban Communism|location=New Brunswick,&nbsp;NJ|publisher=Transaction Books|isbn=978-0-88738-672-5}}{{ref-en}}
+*{{Cite book|author=Gabriel Kolko|year=1994|title=Century of War: Politics, Conflicts, and Society since 1914|location=New York,&nbsp;NY|publisher=The New Press|isbn= 978-1-56584-191-8|url= https://archive.org/details/centuryofwarpoli00kolk}}{{ref-en}}
+*{{Cite book|last= McAlister|first= Lyle N.|year=1984|title=Spain and Portugal in the New World, 1492–1700|location=Minneapolis,&nbsp;MN|publisher=University of Minnesota Press|isbn=978-0-8166-1216-1|url=https://archive.org/details/spainportugalinn0000mcal}}{{ref-en}}
+*{{Cite book|last=Pedraza|first= Silvia|year=2007|title=Political Disaffection in Cuba's Revolution and Exodus|location=New York,&nbsp;NY|publisher=Cambridge University Press|isbn= 978-0-521-86787-0}}{{ref-en}}
+*{{Cite book|last=Pérez-López|first=Jorge F.|year=1996|title=Cuba in Transition, Volume&nbsp;6|url=http://www.ascecuba.org/publications/annual-proceedings/cuba-in-transition-volume-06/|location=Washington,&nbsp;DC|publisher=ASCE|pages=124–144|isbn=978-0-9649082-5-3}}{{ref-en}}
+*{{Cite book|last= Ramazani |first= Rouhollah K. |year= 1975|title= The Persian Gulf and the Strait of Hormuz|location= Alphen aan den Rijn |publisher= Sijthoff & Noordhoff|isbn= 978-90-286-0069-0}}{{ref-en}}
+*{{Cite book|last= Roy|first= Joaquín|year= 2000|title= Cuba, the United States, and the Helms-Burton Doctrine: International Reactions|location= Gainesville,&nbsp;FL |publisher=University of Florida Press|isbn= 978-0-8130-1760-0}}{{ref-en}}
+*{{Cite book|last=Scheina|first=Robert L.|year=2003|title=Latin America's Wars, Volume I: The Age of the Caudillo, 1791–1899|location=Dulles,&nbsp;VA|publisher=Brassey's|isbn=978-1-57488-449-4}}{{ref-en}}
+*{{cite book|last1=Scheina|first=Robert L.|year=2003b |title=Latin America's Wars Volume II: The Age of the Professional Soldier, 1900-2001}}{{ref-en}}
+*{{Cite book|author=Rebecca J. Scott|year=2000|title=Slave Emancipation in Cuba: The Transition to Free Labor, 1860–1899|location=Pittsburgh,&nbsp;PA|publisher=University of Pittsburgh Press|isbn=978-0-8229-5735-5}}{{ref-en}}
+*{{Cite book|last1=Smith|first1=Kirby|last2=Llorens|first2=Hugo|year=1998|title=Cuba in Transition, Volume&nbsp;8|url=http://www.ascecuba.org/publications/annual-proceedings/cuba-in-transition-volume-08/|location=Silver Spring,&nbsp;MD|publisher=ASCE|pages=247–259|isbn=978-0-9649082-7-7}}{{ref-en}}
+*{{Cite book|author=Julia E. Sweig|year=2004|title=Inside the Cuban Revolution: Fidel Castro and the Urban Underground|location=Cambridge,&nbsp;MA|publisher=Harvard University Press|isbn=978-0-674-01612-5|url= https://archive.org/details/insidecubanrevol00juli}}{{ref-en}}
+*{{Cite book|author=Hugh Thomas|year=1997|title=The Slave Trade: The Story of the Atlantic Slave Trade, 1440–1870|location=New York|publisher=Simon & Schuster|isbn= 978-0-684-81063-8|url= https://archive.org/details/slavetradestoryo00thom}}{{ref-en}}
+*{{Cite book|last=Thomas|first=Hugh|year=1998|title=Cuba; or, The Pursuit of Freedom|location=Cambridge,&nbsp;MA|publisher=Da Capo Press|isbn=978-0-306-80827-2}}{{ref-en}}
+*{{Cite book|author=Odd Arne Westad|year=2012|title=Restless Empire: China and the World Since 1750|location=London|publisher=The Bodley Head|isbn=978-1-84792-197-0}}{{ref-en}}
+*{{Cite book|last1=Whiteford|first1=Linda M.|last2= Branch|first2=Laurence G.|year=2008|title=Primary Health Care in Cuba: The Other Revolution|location=Lanham, MD|publisher=Rowman & Littlefield|isbn=978-0-7425-5994-3}}{{ref-en}}
+*{{Cite book|last=Wright|first=Irene Aloha|year=1916|title=The Early History of Cuba, 1492–1586|url=https://openlibrary.org/works/OL143127W/The_early_history_of_Cuba_1492-1586|location= New York,&nbsp;NY|publisher=The Macmillan Company}}{{ref-en}}
+{{Refend}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://web.archive.org/web/20110209123658/http://www.cubagob.cu/ Официалонь лопа]{{ref-es}}
+* [https://curlie.org/Regional/Caribbean/Cuba Куба] «Curlie»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/cuba/ Куба] «Central Intelligence Agency»{{ref-en}}
+
+{{Гео-керф}}
+
+[[Категорие:Куба]]
+[[Категорие:Кельмеширень Америка|Куба]]
+[[Категорие:Америконь масторхне|Куба]]
+[[Категорие:Масторхне|Куба]]
+[[Категорие:Республикне|Куба]]
