@@ -1,0 +1,216 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Антигуа ди Барбуда
+|васенце лем              = {{lang-en|Antigua and Barbuda}}
+|изображение              = ATG orthographic.svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = Пряошец
+|община                   = Сэнт-Джонс (Антигуа ди Барбуда){{!}}Сэнт-Джонс
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = англань кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +1268
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернет доменсь
+|цифровой идентификатор   = .ag
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Антигуа ди Барбуда''' ({{lang-en|Antigua and Barbuda}}) — [[Кельмеширень Америк|Кельмеширень Америкась]] масторсь. [[Пряошец]] — [[Сэнт-Джонс (Антигуа ди Барбуда)|Сэнт-Джонс]].
+
+== [[Географиясь]] ==
+[[Няйф:Antigua and Barbuda in its region (zoomed).svg|295px|кенжешка|вить_кедь]]
+[[Няйф:Antigua and Barbuda - Location Map (2013) - ATG - UNOCHA.svg|295px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+{{Climate chart
+|Антигуа ди Барбуда мастор
+|22|28|81
+|22.1|29|53
+|22.5|29.7|54
+|23.3|30.1|81
+|24|30.6|104
+|25.1|31.9|99
+|24.3|31.2|117
+|24.4|31.3|125
+|24.3|31.4|155
+|24.1|31.1|147
+|23.5|30.3|150
+|22|29.4|99
+|float= 
+|clear=
+|source= Антигуа ди Барбуда «Climatestotravel» {{ref-en}} 
+}}
+== [[Эрямопингоц]] ==
+Уштефоль 1 ноябрьста [[1981]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:1000 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:100
+ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:5 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1871 from:0 till:35
+  bar:1881 from:0 till:34
+  bar:1891 from:0 till:36
+  bar:1901 from:0 till:42
+  bar:1911 from:0 till:32
+  bar:1921 from:0 till:29
+  bar:1946 from:0 till:41
+  bar:1950 from:0 till:46
+  bar:1960 from:0 till:54
+  bar:1965 from:0 till:60
+  bar:1970 from:0 till:64
+  bar:1975 from:0 till:65
+  bar:1980 from:0 till:70
+  bar:1990 from:0 till:70
+  bar:2000 from:0 till:72
+  bar:2001 from:0 till:76
+  bar:2005 from:0 till:80
+  bar:2010 from:0 till:84
+  bar:2011 from:0 till:86
+  bar:2012 from:0 till:86
+  bar:2013 from:0 till:88
+  bar:2014 from:0 till:89
+  bar:2015 from:0 till:90
+  bar:2016 from:0 till:92
+  bar:2017 from:0 till:93
+  bar:2018 from:0 till:95
+  bar:2021 from:0 till:99
+PlotData=
+ textcolor:black fontsize:S
+  bar:1871 at: 35 text: 35,157 shift:(-14,5)
+  bar:1881 at: 34 text: 34,964 shift:(-14,5)
+  bar:1891 at: 36 text: 36,819 shift:(-14,5)
+  bar:1901 at: 42 text: 42,6 shift:(-14,5)
+  bar:1911 at: 32 text: 32,269 shift:(-14,5)
+  bar:1921 at: 29 text: 29,767 shift:(-14,5)
+  bar:1946 at: 41 text: 41,757 shift:(-14,5)
+  bar:1950 at: 46 text: 46.0 shift:(-14,5)
+  bar:1960 at: 54 text: 54,060 shift:(-14,5)
+  bar:1965 at: 60 text: 60.2 shift:(-14,5)
+  bar:1970 at: 64 text: 64,794 shift:(-14,5)
+  bar:1975 at: 65 text: 65,4 shift:(-14,5)
+  bar:1980 at: 70 text: 72.200 shift:(-14,5)
+  bar:1990 at: 70 text: 70,840 shift:(-14,5)
+  bar:2000 at: 72 text: 72.310 shift:(-14,5)
+  bar:2001 at: 76 text: 76,886 shift:(-14,5)
+  bar:2005 at: 80 text: 80.007 shift:(-14,5)
+  bar:2010 at: 84 text: 84,622 shift:(-14,5)
+  bar:2011 at: 86 text: 86,295 shift:(-14,5) 
+  bar:2012 at: 86 text: 86,793 shift:(-14,5) 
+  bar:2013 at: 88 text: 88,069 shift:(-14,5) 
+  bar:2014 at: 89 text: 89,391 shift:(-14,5) 
+  bar:2015 at: 90 text: 90,755 shift:(-14,5)
+  bar:2016 at: 92 text: 92,157 shift:(-14,5)
+  bar:2017 at: 93 text: 93.581 shift:(-14,5)
+  bar:2018 at: 95 text: 95.014 shift:(-14,5)
+  bar:2021 at: 99 text: 99,337 shift:(-14,5)
+</timeline>
+
+{{Wikidata/Population}}
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Галереясь ==
+<small><gallery mode="packed" heights=130px>
+File:Antigue 34622.jpg
+File:Caribs - panoramio (23).jpg
+File:Unnamed Road, Antigua and Barbuda - panoramio (5).jpg
+File:Antigua and Barbuda, English Harbour (18).jpg
+File:TurnerBeachAntigua.JPG
+File:Tiny island next to Antigua - Flickr - Stiller Beobachter.jpg
+</gallery></small>
+[[Няйф:Wv English Harbour banner.jpg|1480px|кенжешка|куншкасо]]
+== Кяльвалсь ==
+* {{cite book|chapter=Antigua and Barbuda|author=Lorna McDaniel|title=Garland Encyclopedia of World Music|pages=[https://archive.org/details/garlandencyclope0001unse/page/798 798–800]|isbn=0-8153-1865-0|year=1999|publisher=Routledge|chapter-url=https://archive.org/details/garlandencyclope0001unse/page/798}}{{ref-en}}
+* {{Cite book|author=Sara Louise Kras|url=https://books.google.com/books?id=TnItHSAgevMC&pg=PA79|title=Antigua and Barbuda|date=2008|publisher=Marshall Cavendish|isbn=978-0-7614-2570-0}}{{ref-en}}
+* {{cite book|title=Antigua and Barbuda 2018 Human Rights Report|date=2018|publisher=United States Department of State|pages=1–13|url=https://www.state.gov/wp-content/uploads/2019/03/ANTIGUA-AND-BARBUDA-2018.pdf}}{{ref-en}}
+* {{cite book|url=https://books.google.com/books?id=TnItHSAgevMC&pg=PA18|title=The History of Redonda|page=18|work=Antigua and Barbuda|first=Sara Louise|last=Kras|publisher=Marshall Cavendish|year=2008|isbn=9780761425700|series=Cultures of the World}}{{ref-en}}
+* {{Cite book|author=Mindie Lazarus-Black|title=Legitimate Acts and Illegal Encounters: Law and Society in Antigua and Barbuda|location=Washington, D.C.|publisher=Smithsonian Institution Press|year=1994}}{{ref-en}}
+* {{Cite book|author=Joseph Harvey Riley|year=1905|title=Catalogue of a collection of birds from Barbuda and Antigua, British West Indies|publisher=Smithsonian Miscellaneous Collections|pages=277–291|url=https://repository.si.edu/bitstream/handle/10088/23261/SMC_47_Riley_1905_16_277-291.pdf?sequence=1&isAllowed=y}}{{ref-en}}
+* {{cite book|last1=Cobley|first1=Alan Gregor|last2=Department|first2=University of the West Indies (Cave Hill, Barbados). History|title=Crossroads of Empire: The European-Caribbean Connection, 1492–1992|url=https://books.google.com/books?id=IalxKZ_YBMQC|year=1994|publisher=Department of History, University of the West Indies|isbn=978-976-621-031-1}}{{ref-en}}
+* {{cite book|editor-first=Patrick|editor-last=Taylor|date=2010|title=The Encyclopedia of Caribbean Religions, Volume 1 A-L|location=Chicago|publisher=University of Illinois Press|page=886}}{{ref-en}}
+* {{cite book|last=Jonnard|first=Claude M.|date=2010|title=Islands in the Wind: The Political Economy of the English East Caribbean|location=Bloomington, IN|publisher=iUniverse}}{{ref-en}}
+* {{Cite book|author=Nicholas J. Saunders|title=Peoples of the Caribbean: an encyclopedia of archeology and traditional culture|date=2005|publisher=ABC-CLIO|isbn=1576077012|location=Santa Barbara|pages=260–261|oclc = 62090786}}{{ref-en}}
+* {{Cite book|author=Desmond V. Nicholson|title=Antigua, Barbuda, and Redonda: A Historical Sketch|location=St. Johns|publisher=Antigua and Barbuda Museum|year=1991}}{{ref-en}}
+* {{Cite book|author=Brian Dyde|title=A History of Antigua: The Unsuspected Isle|location=London|publisher=Macmillan Caribbean|year=2000}}{{ref-en}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://ab.gov.ag/ Официалонь лопа]{{ref-en}}
+* [https://curlie.org/Regional/Caribbean/Antigua_and_Barbuda Антигуа ди Барбуда] «Curlie»{{ref-en}}
+* [https://www.bbc.co.uk/news/world-latin-america-18706079 Антигуа ди Барбуда] «BBC News»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/antigua-and-barbuda/ Антигуа ди Барбуда] «The World Factbook. Central Intelligence Agency»{{ref-en}}
+* [https://web.archive.org/web/20080704133113/http://ucblibraries.colorado.edu/govpubs/for/antiguabarbuda.htm Антигуа ди Барбуда] «UCB Libraries GovPubs»{{ref-en}}
+
+{{Кельмеширень Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Антигуа ди Барбуда]]
+[[Категорие:Масторхне|Антигуа ди Барбуда]]
+[[Категорие:Америконь масторхне|Антигуа ди Барбуда]]
+[[Категорие:Кельмеширень Америка|Антигуа ди Барбуда]]
