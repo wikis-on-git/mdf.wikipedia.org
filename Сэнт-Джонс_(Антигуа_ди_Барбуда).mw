@@ -101,7 +101,34 @@
 == [[Историясь]] ==
 
 == Эряйхне ==
-{{Wikidata/Population}}
+== Эряйхне ==
+<timeline>
+ImageSize = width:270 height:220
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:25
+ScaleMajor = unit:year increment:5 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:2001 from:0 till:24
+  bar:2010 from:0 till:22
+  bar:2011 from:0 till:22
+  bar:2013 from:0 till:21
+PlotData=
+ textcolor:black fontsize:S
+  bar:2001 at: 24 text: 24,451 shift:(-14,5)
+  bar:2010 at: 22 text: 22.215 shift:(-14,5)
+  bar:2011 at: 22 text: 22.219 shift:(-14,5)  
+  bar:2013 at: 21 text: 21.926 shift:(-14,5) 
+</timeline>
 
 == [[Экономикась]] ==
 
