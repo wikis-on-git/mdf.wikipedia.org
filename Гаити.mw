@@ -1,0 +1,186 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Республикась Гаити
+|васенце лем              = {{lang-fr|République d'Haïti}}
+|изображение              = Haiti (orthographic projection).svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = Пряошец
+|община                   = Порт-о-Прэнс
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +509
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернет доменсь
+|цифровой идентификатор   = ‍.ht
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Гаити''' ({{lang-fr|Haïti}}) ''илань коряс'': '''Республикась Гаити''' ({{lang-fr|République d'Haïti}}) — [[Кельмеширень Америк|Кельмеширень Америкась]] масторсь. [[Пряошец]] — [[Порт-о-Прэнс]].
+
+== [[Географиясь]] ==
+[[Няйф:Haiti in its region.svg|295px|кенжешка|вить_кедь]]
+[[Няйф:Haiti - Location Map (2013) - HTI - UNOCHA.svg|295px|кенжешка|вить_кедь]]
+[[Няйф:Citadelle Laferrière 2006.jpg|295px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+
+== [[Эрямопингоц]] ==
+Уштефоль 1 январьста [[1804]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:1000 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:12000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1894 from:0 till:1210
+  bar:1899 from:0 till:1347
+  bar:1909 from:0 till:1613
+  bar:1919 from:0 till:2029
+  bar:1930 from:0 till:2380
+  bar:1940 from:0 till:2751
+  bar:1950 from:0 till:3221
+  bar:1955 from:0 till:3516
+  bar:1960 from:0 till:3869
+  bar:1965 from:0 till:4275
+  bar:1970 from:0 till:4713
+  bar:1975 from:0 till:5144
+  bar:1980 from:0 till:5692
+  bar:1985 from:0 till:6389
+  bar:1990 from:0 till:7110
+  bar:1995 from:0 till:7838
+  bar:2000 from:0 till:8578
+  bar:2005 from:0 till:9261
+  bar:2010 from:0 till:10085
+  bar:2012 from:0 till:10210
+  bar:2015 from:0 till:10413
+  bar:2016 from:0 till:10814
+  bar:2018 from:0 till:11123
+  bar:2020 from:0 till:11403
+  bar:2021 from:0 till:11508
+PlotData=
+  textcolor:black fontsize:S
+  bar:1894 at: 1210 text: 1.210 shift:(-14,5)
+  bar:1899 at: 1347 text: 1.347 shift:(-14,5)
+  bar:1909 at: 1613 text: 1.613 shift:(-14,5)
+  bar:1919 at: 2029 text: 2.029 shift:(-14,5)
+  bar:1930 at: 2380 text: 2.380 shift:(-14,5)
+  bar:1940 at: 2751 text: 2.751 shift:(-14,5)
+  bar:1950 at: 3221 text: 3.221 shift:(-14,5)
+  bar:1955 at: 3516 text: 3.516 shift:(-14,5)
+  bar:1960 at: 3869 text: 3.869 shift:(-14,5)
+  bar:1965 at: 4275 text: 4.275 shift:(-14,5)
+  bar:1970 at: 4713 text: 4.713 shift:(-14,5)
+  bar:1975 at: 5144 text: 5.144 shift:(-14,5)
+  bar:1980 at: 5692 text: 5.692 shift:(-14,5)
+  bar:1985 at: 6389 text: 6.389 shift:(-14,5)
+  bar:1990 at: 7110 text: 7.110 shift:(-14,5)
+  bar:1995 at: 7838 text: 7.838 shift:(-14,5)
+  bar:2000 at: 8578 text: 8.578 shift:(-14,5)
+  bar:2005 at: 9261 text: 9.261 shift:(-14,5)
+  bar:2010 at: 10085 text: 10.085 shift:(-14,5)
+  bar:2012 at: 10210 text: 10.210 shift:(-14,5)
+  bar:2015 at: 10413 text: 10.413 shift:(-14,5)
+  bar:2016 at: 10814 text: 10,814 shift:(-14,5)
+  bar:2018 at: 11123 text: 11.123 shift:(-14,5)
+  bar:2020 at: 11403 text: 11.403 shift:(-14,5)
+  bar:2021 at: 11508 text: 11.508 shift:(-14,5)
+</timeline>
+
+{{Wikidata/Population}}
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Кяльвалсь ==
+* {{Cite book|last=Farmer|first=Paul|title=AIDS and Accusation: Haiti and the Geography of Blame, Updated with a New Preface|url=http://books.google.com/books?id=9TctWjHHOeEC|year=2006|publisher= University of California Press|isbn=978-0-520-24839-7|pages=180-181}}{{ref-en}}
+* {{Cite book|last=Wilson|first=Samuel M.|title=Hispaniola: Caribbean Chiefdoms in the Age of Columbus|url=http://books.google.com/books?id=5hVWFl8GSC0C|year=1990|publisher=University of Alabama Press|isbn=978-0-8173-0462-1|p=110}}{{ref-en}}
+* {{Cite book|last=Hunt|first=Alfred N.|title=Haiti's Influence on Antebellum America: Slumbering Volcano in the Caribbean|url=http://books.google.com/books?id=tQSEP4_Dj1QC|year=2006|publisher=LSU Press|isbn=978-0-8071-3197-8}}{{ref-en}}
+* {{Cite book|last=Bryan|first=Patrick E.|title=The Haitian Revolution and Its Effects|url=http://books.google.com/books?id=q9owdkOc0wgC|year=1984|publisher=Heinemann|isbn=978-0-435-98301-7}}{{ref-en}}
+* {{Cite book|title=The uses of Haiti|author=Paul Farmer and Jonathan Kozol|publisher=Common Courage Press|year=2006|isbn=978-1-56751-344-8|pages=74}}{{ref-en}}
+* {{Cite book|author=Carole Boyce Davies|title=Encyclopedia of the African Diaspora: Origins, Experiences, and Culture. A-C. Volume 1|url=http://books.google.com/books?id=mb6SDKfWftYC&pg=PA380|year=2008|publisher=ABC-CLIO|isbn=978-1-85109-700-5}}{{ref-en}}
+* {{Cite book|title=Monthly Magazine and British Register|url=http://books.google.com/books?id=YVEoAAAAYAAJ&pg=PA335|volume=XLVIII|year=1819|publisher=R. Phillips}}{{ref-en}}
+* {{Cite book|last=Koplow|first=David A.|title=Smallpox: The Fight to Eradicate a Global Scourge| url = http://books.google.com/books?id=nlQpbYPuTX0C|year=2004|publisher=University of California Press|isbn=978-0-520-24220-3}}{{ref-en}}
+* {{Cite book|last=Cassá|first=Roberto|title=Los Indios de Las Antillas|url=http://books.google.com/books?id=oJ-wJ49cNwAC&pg=PA126|year=1992|publisher=Editorial Abya Yala|isbn=978-84-7100-375-1|pages=126-}}{{ref-en}}
+* {{Cite book|title=Encyclopedia of Canada's peoples|last=Magocsi|first=Paul R.|publisher=University of Toronto Press|year=1999|url=http://books.google.com/?id=dbUuX0mnvQMC&pg=PA649|isbn=978-0-8020-2938-6|pages=649}}{{ref-en}}
+* {{Cite book|first=Kenneth F.|last=Kiple|title=The Caribbean Slave: A Biological History|url=http://books.google.com/books?id=veMLoyrX0BEC&pg=&dq#v=onepage&q=&f|publisher=Cambridge University Press|year=2002|isbn=978-0-521-52470-4}}{{ref-en}}
+* {{Cite book|last=Cassá|first=Roberto|title=Los Indios de Las Antillas|url=http://books.google.com/books?id=oJ-wJ49cNwAC&pg=PA126|year=1992|publisher=Editorial Abya Yala|isbn=978-84-7100-375-1|pages=126-}}{{ref-en}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://curlie.org/Regional/Caribbean/Haiti Гаити] «Curlie»{{ref-en}}
+* [http://news.bbc.co.uk/1/hi/world/americas/country_profiles/1202772.stm Гаити] «BBC News»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/haiti/ Гаити] «The World Factbook. Central Intelligence Agency»{{ref-en}}
+* [https://web.archive.org/web/20080607084933/http://ucblibraries.colorado.edu/govpubs/for/haiti.htm Гаити] «UCB Libraries GovPubs»{{ref-en}}
+* [https://web.archive.org/web/20060621022610/http://www.britannica.com/nations/Haiti Гаити] «Encyclopædia Britannica»{{ref-en}}
+
+{{Кельмеширень Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Гаити]]
+[[Категорие:Масторхне|Гаити]]
+[[Категорие:Америконь масторхне|Гаити]]
+[[Категорие:Кельмеширень Америка|Гаити]]
+[[Категорие:Республикне|Гаити]]
