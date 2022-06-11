@@ -1,0 +1,207 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Доминиканонь Республикась
+|васенце лем              = {{lang-es|República Dominicana}}
+|изображение              = Dominican Republic (orthographic projection).svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = Пряошец
+|община                   = Санто-Доминго
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = испанонь кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернетсь-домен	
+|цифровой идентификатор   = .do
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Доминиканонь Республикась''' ({{lang-es|República Dominicana}}) — масторсь [[Кельмеширень Америкась|Кельмеширень]] [[Америка]]сь. [[Пряошец]] — {{iw|Санто-Доминго||es|Santo Domingo}}.
+
+== [[Географиясь]] ==
+[[Няйф:LocationDominicanRepublic.svg|кенжешка|вить_кедь|295px|]]
+[[Няйф:Dominican Republic - Location Map (2013) - DOM - UNOCHA.svg|кенжешка|вить_кедь|295px|]]
+[[Няйф:Dominikanische Republik Nationalpalast Santo Domingo.jpg|кенжешка|вить_кедь|295px|]]
+== [[Климатсь]] ==
+{{Climate chart 
+|Доминиканонь Республикась мастор
+|20.1|30|72
+|20.1|30|81
+|20.5|30.1|56
+|21.3|31.1|86
+|22.7|31.6|172
+|23.1|31.9|155
+|23.3|32.2|153
+|23.4|32.3|192
+|23.3|32.4|201
+|23.1|31.1|192
+|22.5|31.3|150
+|21.1|30.4|97
+|float= 
+|clear=
+|source= Доминиканонь Республикась «Climatestotravel» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Уштефтоль 27 феварьста [[1844]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:990 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:12000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1919 from:0 till:894
+  bar:1935 from:0 till:1479
+  bar:1943 from:0 till:2135
+  bar:1950 from:0 till:2380
+  bar:1955 from:0 till:2796
+  bar:1960 from:0 till:3047
+  bar:1965 from:0 till:3902
+  bar:1970 from:0 till:4503
+  bar:1975 from:0 till:5169
+  bar:1980 from:0 till:5809
+  bar:1985 from:0 till:6524
+  bar:1990 from:0 till:7184
+  bar:1995 from:0 till:7978
+  bar:2000 from:0 till:8563
+  bar:2005 from:0 till:9343
+  bar:2007 from:0 till:9445
+  bar:2009 from:0 till:9898
+  bar:2010 from:0 till:10017
+  bar:2011 from:0 till:10075
+  bar:2014 from:0 till:10478
+  bar:2015 from:0 till:10528
+  bar:2017 from:0 till:10801
+  bar:2018 from:0 till:10878
+  bar:2020 from:0 till:10848
+  bar:2022 from:0 till:10694
+PlotData=
+ textcolor:black fontsize:S
+  bar:1919 at: 894 text: 894,6 shift:(-14,5)
+  bar:1935 at: 1479 text: 1,479 shift:(-14,5)
+  bar:1943 at: 2135 text: 2,135 shift:(-14,5)
+  bar:1950 at: 2380 text: 2.380 shift:(-14,5)
+  bar:1955 at: 2796 text: 2.796 shift:(-14,5)
+  bar:1960 at: 3047 text: 3,047 shift:(-14,5)
+  bar:1965 at: 3902 text: 3.902 shift:(-14,5)
+  bar:1970 at: 4503 text: 4.503 shift:(-14,5)
+  bar:1975 at: 5169 text: 5.169 shift:(-14,5)
+  bar:1980 at: 5809 text: 5.809 shift:(-14,5)
+  bar:1985 at: 6524 text: 6.524 shift:(-14,5)
+  bar:1990 at: 7184 text: 7.184 shift:(-14,5)
+  bar:1995 at: 7978 text: 7.978 shift:(-14,5)
+  bar:2000 at: 8563 text: 8.563 shift:(-14,5)
+  bar:2005 at: 9343 text: 9.343 shift:(-14,5)
+  bar:2007 at: 9445 text: 9,445 shift:(-14,5)
+  bar:2009 at: 9898 text: 9.898 shift:(-14,5)
+  bar:2010 at: 10017 text: 10.017 shift:(-14,5)
+  bar:2011 at: 10075 text: 10.075 shift:(-14,5)
+  bar:2014 at: 10478 text: 10,478 shift:(-14,5)
+  bar:2015 at: 10528 text: 10.528 shift:(-14,5)
+  bar:2017 at: 10801 text: 10,8001 shift:(-14,5)
+  bar:2018 at: 10878 text: 10.878 shift:(-14,5)
+  bar:2020 at: 10848 text: 10.848 shift:(-14,5)
+  bar:2022 at: 10694 text: 10,694 shift:(-14,5)
+</timeline>
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Кяльвалсь ==
+{{refbegin}}
+* {{cite book|last=Harvey|first=Sean|title=The Rough Guide to The Dominican Republic|publisher=Rough Guides|year=2006|isbn=978-1-84353-497-6|url=https://archive.org/details/roughguidetodo00sean}}{{ref-en}}
+* {{cite book|last=Matibag|first=Eugenio|title=Haitian-Dominican Counterpoint: Nation, State, and Race on Hispaniola|year=2003|publisher=Macmillan|isbn=978-0-312-29432-8}}{{ref-en}}
+* {{cite book|url=https://web.archive.org/web/20090603233719/http://www2.dominicantoday.com/dr/economy/2009/6/1/32173/Dominican-Government-hints-at-blackout-to-justify-electricity-hike|newspaper=Dominican Today|title=Dominican Government hints at blackout to justify electricity hike|date=2006}} {{ref-en}}
+* {{cite book|author1=Irma Nicasio Rodríguez|author2=Jesús de la Rosa|location=Santo Domingo|title=Historia, Metodología y Organización de los Censos en República Dominicana: 1920–1993|publisher=Oficinal Nacional de Estadística|pages=44, 131|date=1998}} {{ref-es}}
+* {{cite book|author=Pedro Henríquez Ureña|title=El Español en Santo Domingo|date=1940|publisher=Instituto de Filología de la Universidad de Buenos Aires|location=Buenos Aires}} {{ref-es}}
+* {{cite book|title=Dominican Republic - A Country Study|publisher=Library of Congress|url=https://web.archive.org/web/19991111062126/http://lcweb2.loc.gov/frd/cs/dotoc.html}} {{ref-en}}
+* {{cite book|title=Dominican Republic and Haiti : country studies|date=December 1999|publisher=Federal Research Division, Library of Congress|location=Washington, DC|isbn=978-0-8444-1044-9 |editor=Helen Chapin Metz}} {{ref-en}}
+* {{cite book|author=G. Pope Atkins|title=The Dominican Republic and the United States: From Imperialism to Transnationalism|page=205}} {{ref-en}}
+* {{cite book|author=Michael R. Hall|title=Sugar and Power in the Dominican Republic|publisher=Greenwood Press|year=2000|isbn=978-0-313-31127-7|url=https://archive.org/details/sugarpowerindo00mich}} {{ref-en}}
+* {{cite book|author1=G. Pope Atkins|author2=Larman Curtis Wilson|title=The Dominican Republic and the United States: From Imperialism to Transnationalism|url=https://books.google.com/books?id=MkBlfCf8I-YC&pg=PA27|publisher=University of Georgia Press|year=1998|isbn=978-0-8203-1931-5|page=27}} {{ref-en}}
+* {{cite book|author=David Howard|title=Coloring the Nation: Race and Ethnicity in the Dominican Republic|page=28}} {{ref-en}}
+* {{cite book|author=Julio A. Cross Beras|title= Sociedad y desarrollo en República Dominicana, 1844–1899|date=1984|publisher=CENAPEC|isbn=978-84-89525-17-7}} {{ref-es}}
+* {{cite book|author=Samuel Hazard|title=Santo Domingo, Past And Present; With A Glance At Haytl|url=https://archive.org/details/santodomingopast00haza_0|date=1873}} {{ref-en}}
+* {{cite book|author=Leslie Bethell|title=The Cambridge History of Latin America: Volume 3|url=https://archive.org/details/cambridgehistory0000beth|url-access=registration|date=1984|publisher=Cambridge University Press|pages=[https://archive.org/details/cambridgehistory0000beth/page/267 267–69]}} {{ref-en}}
+* {{cite book|author=Frank Moya Pons|title=The Dominican Republic: A National History|page=543|publisher=Markus Wiener Publishers; 2nd edition|isbn=978-1-55876-191-9|year=1998}} {{ref-en}}
+* {{cite book|author=Milagros Ricourt|title=The Dominican Racial Imaginary: Surveying the Landscape of Race and Nation in Hispaniola|date=2016|publisher=Rutgers University Press|page=57}} {{ref-en}}
+* {{cite book|author=Christopher P. Baker|author2=Gilles Mingasson|title=Dominican Republic|publisher=National Geographic Books|year=2008|page=190|url=https://books.google.com/books?id=toEFe48MD1IC&pg=PA190|isbn=978-1-4262-0232-2}} {{ref-en}}
+* {{cite book|author=Frank Pons|title=The Dominican Republic, A National History|url=https://archive.org/details/dominicanrepubli00fran|date=1995|publisher=Hispaniola Books|location=New Rochelle|isbn=978-1885509017|pages=[https://archive.org/details/dominicanrepubli00fran/page/33 33–37]}} {{ref-en}}
+{{Refend}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [http://www.dominicanrepublic.com/ Официалонь лопа]{{ref-es}}
+* [https://www.cia.gov/the-world-factbook/countries/dominican-republic/ Доминиканонь Республикась] «The World Factbook. Central Intelligence Agency»{{ref-en}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1216926.stm Доминиканонь Республикась] «BBC News»{{ref-en}}
+* [https://web.archive.org/web/20080705060056/http://ucblibraries.colorado.edu/govpubs/for/dominicanrepublic.htm Доминиканонь Республикась] «UCB Libraries GovPubs»{{ref-en}}
+
+{{Кельмеширень Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Доминиканонь Республикась]]
+[[Категорие:Кельмеширень Америка|Доминиканонь Республикась]]
+[[Категорие:Америконь масторхне|Доминиканонь Республикась]]
+[[Категорие:Масторхне|Доминиканонь Республикась]]
+[[Категорие:Республикне|Доминиканонь Республикась]]
