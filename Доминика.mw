@@ -1,0 +1,186 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Доминика
+|васенце лем              = {{lang-en|Dominica}}
+|изображение              = Dominica on the globe (Americas centered).svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = Пряошец
+|община                   = Розо
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернет доменсь
+|цифровой идентификатор   = ‍.dm
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Доминика''' ({{lang-en|Dominica}}) — [[Кельмеширень Америк|Кельмеширень Америкась]] [[цёнга]] масторсь. [[Пряошец]] — [[Розо]].
+
+== [[Географиясь]] ==
+[[Няйф:Dominica in its region.svg|295px|кенжешка|вить_кедь]]
+[[Няйф:Dominica - Location Map (2013) - DMA - UNOCHA.svg|295px|кенжешка|вить_кедь]]
+[[Няйф:Dominica-CIA WFB Map.png|295px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+
+== [[Эрямопингоц]] ==
+Уштефоль 3 ноябрьста [[1978]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:1000 height:350
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:80
+ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:5 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1871 from:0 till:27 
+  bar:1881 from:0 till:28
+  bar:1891 from:0 till:26
+  bar:1901 from:0 till:28
+  bar:1911 from:0 till:33
+  bar:1921 from:0 till:37
+  bar:1946 from:0 till:47
+  bar:1950 from:0 till:51
+  bar:1955 from:0 till:55
+  bar:1960 from:0 till:59
+  bar:1965 from:0 till:65
+  bar:1970 from:0 till:69
+  bar:1975 from:0 till:70
+  bar:1981 from:0 till:73
+  bar:1985 from:0 till:74
+  bar:1991 from:0 till:71
+  bar:1995 from:0 till:71
+  bar:2000 from:0 till:71
+  bar:2001 from:0 till:71
+  bar:2010 from:0 till:71
+  bar:2011 from:0 till:71
+  bar:2015 from:0 till:71
+  bar:2016 from:0 till:71
+  bar:2018 from:0 till:71
+  bar:2020 from:0 till:69
+PlotData=
+  textcolor:black fontsize:S
+  bar:1871 at: 27 text: 27,178  shift:(-14,5)
+  bar:1881 at: 28 text: 28,211  shift:(-14,5)
+  bar:1891 at: 26 text: 26,841 shift:(-14,5)
+  bar:1901 at: 28 text: 28,894 shift:(-14,5)
+  bar:1911 at: 33 text: 33,863 shift:(-14,5)
+  bar:1921 at: 37 text: 37,059 shift:(-14,5)
+  bar:1946 at: 47 text: 47,624 shift:(-14,5)
+  bar:1950 at: 51 text: 51.221 shift:(-14,5)
+  bar:1955 at: 55 text: 55.516 shift:(-14,5)
+  bar:1960 at: 59 text: 59,916 shift:(-14,5)
+  bar:1965 at: 65 text: 65.275 shift:(-14,5)
+  bar:1970 at: 69 text: 69,549 shift:(-14,5)
+  bar:1975 at: 70 text: 70.633 shift:(-14,5)
+  bar:1981 at: 73 text: 73,795 shift:(-14,5)
+  bar:1985 at: 74 text: 74.389 shift:(-14,5)
+  bar:1991 at: 71 text: 71,883 shift:(-14,5)
+  bar:1995 at: 71 text: 71.438 shift:(-14,5)
+  bar:2000 at: 71 text: 71.089 shift:(-14,5)
+  bar:2001 at: 71 text: 71,242 shift:(-14,5)
+  bar:2010 at: 71 text: 71.281 shift:(-14,5)
+  bar:2011 at: 71 text: 71,293 shift:(-14,5)
+  bar:2015 at: 71 text: 71.089 shift:(-14,5)
+  bar:2016 at: 71 text: 71.379 shift:(-14,5)
+  bar:2018 at: 71 text: 71,625 shift:(-14,5)
+  bar:2020 at: 69 text:	69.940 shift:(-14,5)
+</timeline>
+{{Wikidata/Population}}
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Фотоархтофкс ==
+<small><gallery mode="packed" heights=170px>
+Няйф:Roseau (Dominica).jpg|
+Няйф:Portsmouth (Dominica).jpg|
+Няйф:Woodford Hill Bay (Dominica).jpg|
+Няйф:Carib Territory (Dominica).jpg|
+</gallery>
+
+== Кяльвалсь ==
+* {{cite book|author1=Carlyle L. Mitchell|author2=Edgar Gold|author3=Dalhousie Ocean Studies Programme|title=Fisheries Development in Dominica: An Assessment of the New Law of the Sea Implications and Strategies|url=https://books.google.com/books?id=-1ARAAAAYAAJ|year=1983|publisher=Dalhousie Ocean Studies Programme, Dalhousie University|isbn=978-0-7703-0280-1| page =41}}{{ref-en}}
+* {{cite book|author=Keith Thompson|title=Life in the Caribbean|year=2010|publisher=New Africa Press|isbn=978-9987160150|page=288}} {{ref-en}}
+* {{Cite book|author=David Holahan|title=Rugged Dominica worth the ruined sneakers|publisher=Boston Globe|date=2009}} {{ref-en}}
+* {{Cite book|author=Carole Boyce Davies|title=Encyclopedia of the African Diaspora: Origins, Experiences, and Culture. A-C. Volume 1|url=http://books.google.com/books?id=mb6SDKfWftYC&pg=PA380|year=2008|publisher=ABC-CLIO|isbn=978-1-85109-700-5}}{{ref-en}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://dominica.gov.dm/ Официалонь лопа]{{ref-en}}
+* [https://curlie.org/Regional/Caribbean/Dominica/ Доминика] «Curlie»{{ref-en}}
+* [http://news.bbc.co.uk/1/hi/world/americas/country_profiles/1166435.stm Доминика] «BBC News»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/dominica/ Доминика] «The World Factbook. Central Intelligence Agency»{{ref-en}}
+* [https://web.archive.org/web/20100611172421/http://ucblibraries.colorado.edu/govpubs/for/dominica.htm Доминика] «UCB Libraries GovPubs»{{ref-en}}
+* [https://www.britannica.com/place/Dominica Доминика] «Encyclopædia Britannica»{{ref-en}}
+* [https://thecommonwealth.org/our-member-countries/dominica Доминика] «Commonwealth»{{ref-en}}
+{{Кельмеширень Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Доминика]]
+[[Категорие:Масторхне|Доминика]]
+[[Категорие:Америконь масторхне|Доминика]]
+[[Категорие:Кельмеширень Америка|Доминика]]
+[[Категорие:Республикне|Доминика]]
