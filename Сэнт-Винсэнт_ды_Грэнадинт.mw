@@ -1,0 +1,207 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Сэнт-Винсэнт ды Грэнадинт
+|васенце лем              = {{lang-en|Saint Vincent and the Grenadines}}
+|изображение              = VCT orthographic.svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = Пряошец
+|община                   = Кингставн
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = англань кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = +1784
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернет доменсь
+|цифровой идентификатор   = .vc
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Сэнт-Винсэнт ды Грэнадинт''' ({{lang-en|Saint Vincent and the Grenadines}}) — [[Кельмеширень Америк|Кельмеширень Америкась]] масторсь. [[Пряошец]] — [[Кингставн]].
+
+== [[Географиясь]] ==
+[[Няйф:Saint Vincent and the Grenadines in its region.svg|295px|кенжешка|вить_кедь]]
+[[Няйф:Vc-map.png|295px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+{{Climate chart
+|Сэнт-Винсэнт ды Грэнадинт мастор 
+|21|28|25
+|21.1|29|12
+|23.5|31|30
+|25.3|31.9|106
+|25|32.6|101
+|26.1|32.9|121
+|27.3|33.2|125
+|26.4|33.3|148
+|26.3|32.4|136
+|24.1|30.1|136
+|23.5|29.3|116
+|22|28.4|70
+|float= 
+|clear=
+|source= Сэнт-Винсэнт ды Грэнадинт «Climatestotravel» {{ref-en}} 
+}}
+== [[Эрямопингоц]] ==
+Уштефоль 27 октябрьста [[1979]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:1100 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:120
+ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:5 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1871 from:0 till:35
+  bar:1881 from:0 till:40
+  bar:1891 from:0 till:41
+  bar:1911 from:0 till:41
+  bar:1921 from:0 till:44
+  bar:1946 from:0 till:61
+  bar:1950 from:0 till:66
+  bar:1960 from:0 till:80
+  bar:1970 from:0 till:90
+  bar:1975 from:0 till:95
+  bar:1980 from:0 till:100
+  bar:1990 from:0 till:107
+  bar:2000 from:0 till:108
+  bar:2001 from:0 till:108
+  bar:2005 from:0 till:109
+  bar:2009 from:0 till:109
+  bar:2010 from:0 till:109
+  bar:2011 from:0 till:109
+  bar:2012 from:0 till:109
+  bar:2013 from:0 till:110
+  bar:2014 from:0 till:110
+  bar:2015 from:0 till:110
+  bar:2016 from:0 till:110
+  bar:2017 from:0 till:110
+  bar:2018 from:0 till:110
+  bar:2020 from:0 till:110
+  bar:2021 from:0 till:110
+PlotData=
+ textcolor:black fontsize:S
+  bar:1871 at: 35 text: 35,6 shift:(-14,5)
+  bar:1881 at: 40 text: 40,5 shift:(-14,5)
+  bar:1891 at: 41 text: 41,0 shift:(-14,5)
+  bar:1911 at: 41 text: 41,8 shift:(-14,5)
+  bar:1921 at: 44 text: 44,4 shift:(-14,5)
+  bar:1946 at: 61 text: 61,6 shift:(-14,5)
+  bar:1950 at: 66 text: 66.9 shift:(-14,5)
+  bar:1960 at: 80 text: 80.9 shift:(-14,5)
+  bar:1970 at: 90 text: 90.4 shift:(-14,5)
+  bar:1975 at: 96 text: 96,4 shift:(-14,5)
+  bar:1980 at: 100 text: 100.5 shift:(-14,5)
+  bar:1990 at: 107 text: 107.5 shift:(-14,5)
+  bar:2000 at: 108 text: 108.6 shift:(-14,5)
+  bar:2001 at: 108 text: 108,8 shift:(-14,5)
+  bar:2005 at: 109 text: 109.3 shift:(-14,5)
+  bar:2009 at: 109 text: 109.7 shift:(-14,5)
+  bar:2010 at: 109 text: 109.8 shift:(-14,5)
+  bar:2011 at: 109 text: 109.9 shift:(-14,5) 
+  bar:2012 at: 109 text: 109.9 shift:(-14,5) 
+  bar:2013 at: 110 text: 110.0 shift:(-14,5) 
+  bar:2014 at: 110 text: 110.1 shift:(-14,5) 
+  bar:2015 at: 110 text: 110.2 shift:(-14,5)
+  bar:2016 at: 110 text: 110.3 shift:(-14,5)
+  bar:2017 at: 110 text: 110.4 shift:(-14,5)
+  bar:2018 at: 110 text: 110.5 shift:(-14,5)
+  bar:2020 at: 110 text: 110.6 shift:(-14,5)
+  bar:2021 at: 110 text: 110.7 shift:(-14,5)
+</timeline>
+{{Wikidata/Population}}
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Галереясь ==
+<small><gallery mode="packed" heights=130px>
+File:Clifton beach 2018.jpg
+File:Tobago Cays (49988711817).jpg
+Admiralty Bay on Bequia, Saint Vincent and the Grenadines (49804087672).jpg
+File:St Vincent-Indian Bay 2090.jpg
+Saint-Vincent, near Wallilabou.jpg
+</gallery></small>
+
+== Кяльвалсь ==
+* Bobrow, Jill & Jinkins, Dana. 1985. ''St. Vincent and the Grenadines''. 4th Edition Revised and Updated, Concepts Publishing Co., Waitsfield, Vermont, 1993{{ref-en}}
+* {{Cite book|author=Cosover, Mary Jo. 1989. "St. Vincent and the Grenadines." In ''Islands of the Commonwealth Caribbean: A Regional Study'', edited by Sandra W. Meditz and Dennis M. Hanratty. US Government Printing Office, Washington, D.C.
+* {{Cite book|author=Ralph E. Gonsalves|year=1994|title=History and the Future: A Caribbean Perspective|publisher=Quik-Print|location=Kingstown, St Vincent}}{{ref-en}}
+* {{Cite book|author=Nicholas J. Saunders|title=Peoples of the Caribbean: an encyclopedia of archeology and traditional culture|date=2005|publisher=ABC-CLIO|isbn=1576077012|location=Santa Barbara|pages=260–261|oclc = 62090786}}{{ref-en}}
+* {{cite book|editor-first=Patrick|editor-last=Taylor|date=2010|title=The Encyclopedia of Caribbean Religions, Volume 1 A-L|location=Chicago|publisher=University of Illinois Press|page=886}}{{ref-en}}
+* {{cite book|last=Jonnard|first=Claude M.|date=2010|title=Islands in the Wind: The Political Economy of the English East Caribbean|location=Bloomington, IN|publisher=iUniverse}}{{ref-en}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [https://www.gov.vc/ Официалонь лопа]{{ref-en}}
+* [https://curlie.org/Regional/Caribbean/Saint_Vincent_and_the_Grenadines Сэнт-Винсэнт ды Грэнадинт] «Curlie»{{ref-en}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1210689.stm Сэнт-Винсэнт ды Грэнадинт] «BBC News»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/saint-vincent-and-the-grenadines/ Сэнт-Винсэнт ды Грэнадинт] «The World Factbook. Central Intelligence Agency»{{ref-en}}
+* [https://web.archive.org/web/20090423081159/http://ucblibraries.colorado.edu/govpubs/for/saintvincent.htm Сэнт-Винсэнт ды Грэнадинт] «UCB Libraries GovPubs»{{ref-en}}
+
+{{Кельмеширень Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Сэнт-Винсэнт ды Грэнадинт]]
+[[Категорие:Масторхне|Сэнт-Винсэнт ды Грэнадинт]]
+[[Категорие:Америконь масторхне|Сэнт-Винсэнт ды Грэнадинт]]
+[[Категорие:Кельмеширень Америка|Сэнт-Винсэнт ды Грэнадинт]]
