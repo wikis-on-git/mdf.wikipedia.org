@@ -98,9 +98,82 @@
 }}
 == [[Историясь]] ==
 
-== Эряйхне ==
-{{Wikidata/Population}}
-
+== Эряйхне<ref>[http://pop-stat.mashke.org/ukraine-cities.htm Україна / Ukrajina]</ref><ref name="nas">[http://pop-stat.mashke.org/ukraine-census-perm/lvivska.htm Эряйхне]{{ref-uk}}</ref> ==
+<timeline>
+ImageSize = width:1170 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:45
+ScaleMajor = unit:year increment:5 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1897 from:0 till:9
+ bar:1939 from:0 till:26
+ bar:1959 from:0 till:20
+ bar:1970 from:0 till:28
+ bar:1979 from:0 till:33
+ bar:1989 from:0 till:38
+ bar:1992 from:0 till:41
+ bar:1998 from:0 till:40
+ bar:2001 from:0 till:38
+ bar:2003 from:0 till:38
+ bar:2004 from:0 till:35
+ bar:2005 from:0 till:38
+ bar:2006 from:0 till:38
+ bar:2007 from:0 till:37
+ bar:2008 from:0 till:38
+ bar:2009 from:0 till:38
+ bar:2010 from:0 till:38
+ bar:2011 from:0 till:38
+ bar:2012 from:0 till:38
+ bar:2013 from:0 till:38
+ bar:2014 from:0 till:38
+ bar:2015 from:0 till:39
+ bar:2016 from:0 till:39
+ bar:2017 from:0 till:39
+ bar:2018 from:0 till:38
+ bar:2019 from:0 till:38
+ bar:2020 from:0 till:38
+ bar:2021 from:0 till:38
+PlotData=
+ textcolor:black fontsize:S
+ bar:1897 at: 9 text: 9,8 shift:(-14,5)
+ bar:1939 at: 26 text: 26,8 shift:(-14,5)
+ bar:1959 at: 20 text: 20,9 shift:(-14,5)
+ bar:1970 at: 28 text: 28,4 shift:(-14,5)
+ bar:1979 at: 33 text: 33.7 shift:(-14,5)
+ bar:1989 at: 38 text: 38,2 shift:(-14,5)
+ bar:1992 at: 41 text: 41,2 shift:(-14,5)
+ bar:1998 at: 40 text: 40,2 shift:(-14,5)
+ bar:2001 at: 38 text: 38,2 shift:(-14,5)
+ bar:2003 at: 38 text: 38,0 shift:(-14,5)
+ bar:2004 at: 37 text: 37,9 shift:(-14,5)
+ bar:2005 at: 38 text: 38,1 shift:(-14,5)
+ bar:2006 at: 38 text: 38,1 shift:(-14,5)
+ bar:2007 at: 37 text: 37,9 shift:(-14,5)
+ bar:2008 at: 38 text: 38,2 shift:(-14,5)
+ bar:2009 at: 38 text: 38,4 shift:(-14,5)
+ bar:2010 at: 38 text: 38,5 shift:(-14,5)
+ bar:2011 at: 38 text: 38,6 shift:(-14,5)
+ bar:2012 at: 38 text: 38,7 shift:(-14,5)
+ bar:2013 at: 38 text: 38,8 shift:(-14,5)
+ bar:2014 at: 38 text: 38,9 shift:(-14,5)
+ bar:2015 at: 39 text: 39,1 shift:(-14,5)
+ bar:2016 at: 39 text: 39,3 shift:(-14,5)
+ bar:2017 at: 39 text: 39,1 shift:(-14,5)
+ bar:2018 at: 38 text: 38.9 shift:(-14,5)
+ bar:2019 at: 38 text: 38,5 shift:(-14,5)
+ bar:2020 at: 38 text: 38,3 shift:(-14,5)
+ bar:2021 at: 38 text: 38,1 shift:(-14,5)
+</timeline>
 == [[Экономикась]] ==
 
 == Культурась ==
