@@ -1,0 +1,242 @@
+{{Эряма васта
+|статус                   = [[Кирдемастор]]
+|мокшень лемтне           = Багамась Цёнгат
+|васенце лем              = {{lang-en|The Bahamas}}
+|изображение              = The Bahamas on the globe (Americas centered).svg
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = Пряошец
+|община                   = Нассау
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = Премьер-министр
+|глава                    = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = Интернет доменсь
+|цифровой идентификатор   = ‍.bs
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Багама, Багамась Цёнгат''' ({{lang-en|The Bahamas}}) — [[Кельмеширень Америк|Кельмеширень Америкась]] масторсь. [[Пряошец]] — [[Нассау]].
+
+== [[Географиясь]] ==
+[[Няйф:LocationBahamas.svg|295px|кенжешка|вить_кедь]]
+[[Няйф:The Bahamas - Location Map (2013) - BHS - UNOCHA.svg|295px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+{{Climate chart
+|Багама мастор 
+|17.4|25.9|47
+|17.8|26|40
+|18.5|27.7|39
+|19.3|28.1|53
+|21.6|30.6|116
+|23.1|31.9|232
+|24.3|32.2|157
+|24.4|32.3|215
+|24.3|32.4|171
+|23.1|30.1|175
+|20.8|28.3|56
+|18.7|26.4|51
+|float= 
+|clear=
+|source= Багама «Climatestotravel» {{ref-en}} 
+}}
+
+== [[Эрямопингоц]] ==
+Уштефоль 10 июльста [[1973]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:1110 height:350
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:410
+ScaleMajor = unit:year increment:50 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1871 from:0 till:39 
+  bar:1881 from:0 till:43
+  bar:1891 from:0 till:47
+  bar:1901 from:0 till:53
+  bar:1911 from:0 till:55
+  bar:1921 from:0 till:53
+  bar:1931 from:0 till:59
+  bar:1943 from:0 till:68
+  bar:1950 from:0 till:79
+  bar:1953 from:0 till:84
+  bar:1960 from:0 till:110
+  bar:1965 from:0 till:140
+  bar:1970 from:0 till:168
+  bar:1975 from:0 till:189
+  bar:1980 from:0 till:209
+  bar:1985 from:0 till:235
+  bar:1990 from:0 till:255
+  bar:1995 from:0 till:280
+  bar:2000 from:0 till:298
+  bar:2001 from:0 till:303
+  bar:2005 from:0 till:328
+  bar:2007 from:0 till:337
+  bar:2008 from:0 till:342
+  bar:2009 from:0 till:347
+  bar:2010 from:0 till:351
+  bar:2011 from:0 till:357
+  bar:2013 from:0 till:367
+  bar:2014 from:0 till:372
+  bar:2015 from:0 till:374
+  bar:2018 from:0 till:385
+  bar:2022 from:0 till:400
+PlotData=
+  textcolor:black fontsize:S
+  bar:1871 at: 39 text: 39.1 shift:(-14,5)
+  bar:1881 at: 43 text: 43.5 shift:(-14,5)
+  bar:1891 at: 47 text: 47.5 shift:(-14,5)
+  bar:1901 at: 53 text: 53.7 shift:(-14,5)
+  bar:1911 at: 55 text: 55.9 shift:(-14,5)
+  bar:1921 at: 53 text: 53.0 shift:(-14,5)
+  bar:1931 at: 59 text: 59.8 shift:(-14,5)
+  bar:1943 at: 68 text: 68.8 shift:(-14,5)
+  bar:1950 at: 79 text: 79.2 shift:(-14,5)
+  bar:1953 at: 84 text: 84.8 shift:(-14,5)
+  bar:1960 at: 110 text: 110,9 shift:(-14,5)
+  bar:1965 at: 140 text: 140.2 shift:(-14,5)
+  bar:1970 at: 168 text: 168.8 shift:(-14,5)
+  bar:1975 at: 189 text: 189.6 shift:(-14,5)
+  bar:1980 at: 209 text: 209.5 shift:(-14,5)
+  bar:1985 at: 235 text: 235.3 shift:(-14,5)
+  bar:1990 at: 255 text: 255.1 shift:(-14,5)
+  bar:1995 at: 280 text: 280.4 shift:(-14,5)
+  bar:2000 at: 298 text: 298.1 shift:(-14,5)
+  bar:2001 at: 303 text: 303.7 shift:(-14,5)
+  bar:2005 at: 328 text: 328.3 shift:(-14,5)
+  bar:2007 at: 337 text: 337.9 shift:(-14,5)
+  bar:2008 at: 342 text: 342.8 shift:(-14,5)
+  bar:2009 at: 347 text: 347.7 shift:(-14,5)
+  bar:2010 at: 351 text: 351.4 shift:(-14,5)
+  bar:2011 at: 357 text: 357.7 shift:(-14,5)
+  bar:2013 at: 367 text: 367.4 shift:(-14,5)
+  bar:2014 at: 372 text: 372.3 shift:(-14,5)
+  bar:2015 at: 374 text: 374.7 shift:(-14,5)
+  bar:2018 at: 385 text: 385.6 shift:(-14,5)
+  bar:2022 at: 400 text: 400.5 shift:(-14,5)
+</timeline>
+{{Wikidata/Population}}
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Фотоархтофкс ==
+<small><gallery mode="packed" heights=150px>
+Няйф:Half Moon Cay (12385755594).jpg
+Няйф:Great Harbor Cay horseshoe.jpg
+Няйф:Clifton Pier, Bahamas - panoramio.jpg
+Няйф:Bahamas Gazebo.jpg
+Няйф:Cul de Sac - panoramio.jpg
+Няйф:Bahamas 1989 (748) Long Island (25962953990).jpg
+</gallery>
+[[Няйф:Jaws Beach, Bahamas banner.jpg|1400px|кенжешка|куншкасо]]
+== Кяльвалсь ==
+{{refbegin}}
+* {{cite book|author=Paul Albury|title=The Story of the Bahamas|date=1975|publisher=MacMillan Caribbean|isbn=978-0-333-17131-8}} {{ref-en}}
+* {{cite book|author=D. M. Castle|date=1977|title= Review |journal= The Geographical Journal|volume= 143|issue= 2|pages= 346–347|jstor= 1795942|doi=10.2307/1795942}} {{ref-en}}
+* Miller, Hubert W. ''The Colonization of The Bahamas, 1647–1670, The William and Mary Quarterly'' 2 no.1 (January 1945): 33–46 {{ref-en}}
+* Craton, Michael. ''A History of The Bahamas''. London: Collins, 1962 {{ref-en}}
+* Craton, Michael and Saunders, Gail. ''Islanders in the Stream: A History of the Bahamian People''. Athens: University of Georgia Press, 1992 {{ref-en}}
+* Collinwood, Dean. "Columbus and the Discovery of Self", ''Weber Studies'', Vol. 9 No. 3 (Fall) 1992: 29–44 {{ref-en}}
+* Dodge, Steve. ''Abaco: The History of an Out Island and its Cays'', Tropic Isle Publications, 1983 {{ref-en}}
+* Dodge, Steve. ''The Compleat Guide to Nassau'', White Sound Press, 1987 {{ref-en}}
+* Boultbee, Paul G. ''The Bahamas.'' Oxford: ABC-Clio Press, 1990 {{ref-en}}
+* Wood, David E., comp., ''A Guide to Selected Sources to the History of the Seminole Settlements of Red Bays, Andros, 1817–1980'', Nassau: Department of Archives {{ref-en}}
+* Johnson, Wittington B. ''Race Relations in the Bahamas, 1784–1834: The Nonviolent Transformation from a Slave to a Free Society'', Fayetteville: University of Arkansas, 2000{{ref-en}}
+* Shirley, Paul. "Tek Force Wid Force", ''History Today'' 54, no. 41: 30–35{{ref-en}}
+* Saunders, Gail. ''The Social Life in the Bahamas 1880s–1920s''. Nassau: Media Publishing, 1996{{ref-en}}
+* Saunders, Gail. ''Bahamas Society After Emancipation''. Kingston: Ian Randle Publishing, 1990{{ref-en}}
+* Curry, Jimmy. ''Filthy Rich Gangster/First Bahamian Movie''. Movie Mogul Pictures: 1996{{ref-en}}
+* Curry, Jimmy. ''To the Rescue/First Bahamian Rap/Hip Hop Song''. Royal Crown Records, 1985{{ref-en}}
+* Collinwood, Dean. ''The Bahamas Between Worlds'', White Sound Press, 1989{{ref-en}}
+* Collinwood, Dean and Steve Dodge. ''Modern Bahamian Society'', Caribbean Books, 1989{{ref-en}}
+* Dodge, Steve, Robert McIntire and Dean Collinwood. ''The Bahamas Index'', White Sound Press, 1989{{ref-en}}
+* Collinwood, Dean. "The Bahamas", in ''The Whole World Handbook 1992–1995'', 12th ed., New York: St. Martin's Press, 1994{{ref-en}}
+* Collinwood, Dean. "The Bahamas", chapters in Jack W. Hopkins, ed., ''Latin American and Caribbean Contemporary Record'', Vols. 1,2,3,4, Holmes and Meier Publishers, 1983, 1984, 1985, 1986{{ref-en}}
+* Collinwood, Dean. "Problems of Research and Training in Small Islands with a Social Science Faculty", in ''Social Science in Latin America and the Caribbean'', UNESCO, No. 48, 1982{{ref-en}}
+* Collinwood, Dean and Rick Phillips, "The National Literature of the New Bahamas", ''Weber Studies'', Vol.7, No. 1 1990: 43–62{{ref-en}}
+* Collinwood, Dean. "Writers, Social Scientists and Sexual Norms in the Caribbean", ''Tsuda Review'', No. 31 1986: 45–57{{ref-en}}
+* Collinwood, Dean. "Terra Incognita: Research on the Modern Bahamian Society", ''Journal of Caribbean Studies'', Vol. 1, Nos. 2–3 1981: 284–297{{ref-en}}
+* Collinwood, Dean and Steve Dodge. "Political Leadership in the Bahamas", The Bahamas Research Institute, No.1, May 1987{{ref-en}}
+* Johnson, Howard. ''The Bahamas in Slavery and Freedom''. Kingston: Ian Randle Publishing, 1991{{ref-en}}
+* Johnson, Howard. ''The Bahamas from Slavery to Servitude, 1783–1933''. Gainesville: University of Florida Press, 1996{{ref-en}}
+* Alan A. Block. ''Masters of Paradise'', New Brunswick and London, Transaction Publishers, 1998{{ref-en}}
+{{refend}}
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [http://www.bahamas.gov.bs/ Официалонь лопа]{{ref-en}}
+* [https://curlie.org/Regional/Caribbean/Bahamas Багама] «Curlie»{{ref-en}}
+* [http://news.bbc.co.uk/2/hi/americas/country_profiles/1154642.stm Багама] «BBC News»{{ref-en}}
+* [https://www.cia.gov/the-world-factbook/countries/bahamas-the/ Багама] «The World Factbook. Central Intelligence Agency»{{ref-en}}
+* [https://archive.today/20121210193254/http://ucblibraries.colorado.edu/govpubs/for/bahamas.htm Багама] «UCB Libraries GovPubs»{{ref-en}}
+
+{{Кельмеширень Америконь масторхне}}
+{{Гео-керф}}
+
+[[Категорие:Багама]]
+[[Категорие:Масторхне|Багама]]
+[[Категорие:Америконь масторхне|Багама]]
+[[Категорие:Кельмеширень Америка|Багама]]
