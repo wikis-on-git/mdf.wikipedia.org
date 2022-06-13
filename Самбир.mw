@@ -114,8 +114,8 @@ Colors =
  id:cobar2 value:rgb(0.6,0.9,0.6)
 DateFormat = yyyy
 Period = from:0 till:45
-ScaleMajor = unit:year increment:10 start:0 gridcolor:linegrey
-ScaleMinor = unit:year increment:5 start:0 gridcolor:linegrey2
+ScaleMajor = unit:year increment:5 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1 start:0 gridcolor:linegrey2
 PlotData =
  color:cobar width:27 align:left
  bar:1897 from:0 till:15
