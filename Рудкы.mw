@@ -2,7 +2,18 @@
 |статус                   = [[Ош]]
 |мокшень лемтне           = Рудкы
 |васенце лем              = {{lang-uk|Рудки}}
-|изображение              = 
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = Rudky-1.jpg
+ |photo2a = Assumption of the Blessed Virgin Mary RC Church. Rudky.JPG
+ |photo2b = Church of the Holy Eucharist. Rudky.JPG
+ |photo3a = Rudkiratusha.jpg 
+ |photo3b = Church of the Nativity of the Blessed Virgin Mary. Rudky.JPG
+ |photo4a = Rudky 2008 1.jpg
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
 |описание изображения     = 
 |подчинение               = 
 |мастор                   = 
@@ -30,7 +41,7 @@
 |внутреннее деление       = 
 |вид главы                = 
 |оцюнас                   = 
-|дата основания           = 
+|дата основания           = 1472
 |первое упоминание        = 
 |прежние имена            = 
 |статус с                 = 
@@ -173,6 +184,15 @@ PlotData=
 
 == Ошт-ялгат ==
 {{Wikidata/SisterCities}}
+
+== Фотоархтофкс ==
+<gallery mode="packed" heights=150px>
+Няйф:Rudky-2.jpg
+Няйф:Rudky-3.jpg
+Няйф:Пам'ятник Шевченку 130428 1767.jpg
+Няйф:Rudky, Lviv Oblast, Ukraine - panoramio.jpg
+Няйф:Дзвіниця костелу Возне-сіння Господнього (мур.), м.Рудки..jpg
+</gallery>
 == Кяльвалсь ==
 * {{Cite book|author1=Юрій Данилюк|author2=Володимир Дмитрук|title=Рудки|publisher=Енциклопедія історії України; Інститут історії України НАН України. Наукова думка|location=Київ|year=2012|pages=350 — 944 |url=http://www.history.org.ua/?encyclop&termin=Rudky_mst|isbn=978-966-00-1290-5}}{{ref-uk}}
 * {{Cite book|author=Володимир Голинський|title=Рудки|location=Дрогобич|publisher=Коло|year=2010|pages=166|isbn=978-966-2405-54-5}} {{ref-uk}}
