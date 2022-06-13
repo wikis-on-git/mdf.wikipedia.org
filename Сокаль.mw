@@ -1,0 +1,207 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Сокаль
+|васенце лем              = {{lang-uk|Сокаль}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = 2015 Sokal, Kamienice na placu w centrum miasta.JPG
+ |photo2a = Sokal Lvivska-Cathedral of Saints Peter and Paul.jpg
+ |photo2b = Sokal Lvivska-Saint Nicholas church-south-east view.jpg
+ |photo3a = Сокаль. Церковь..jpg 
+ |photo3b = Вул.Шептицького,157.jpg 
+ |photo4a = 2015 Sokal, Ratusz 04.JPG
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = Аймак
+|регион                   = Львивонь аймак
+|регион в таблице         = 
+|вид района               = Район
+|район                    = Чэрвоноградонь район
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Сокаль''' ({{lang-uk|Рудки}}) — [[ош]]сь [[Украина|Украинаса]].
+
+== [[Географиясь]] ==
+
+== [[Климатсь]] ==
+{{Climate chart 
+|Сокаль ошсь	
+| -5.7| -0.2| 47 
+| -4.8| 1.5| 49
+| -1.4| 6.9| 54
+| 4.1| 14.1| 63
+| 9.1| 18.7| 93
+| 12.9| 21.8| 66
+| 15| 23.7| 112
+| 14.5| 23.5| 83
+| 10.3| 18.5| 75
+| 5.7| 12.9| 61
+| 1.8| 7.5| 55
+| -2.4| 2| 53
+|float=
+|clear=
+|source = [https://en.climate-data.org/europe/ukraine/lviv-oblast/sokal-26699/ Сокаль] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Ушетфоль [[1098]] [[киза|кизоня]].
+
+== Эряйхне<ref>[http://pop-stat.mashke.org/ukraine-cities.htm Україна / Ukrajina]</ref><ref name="nas">[http://pop-stat.mashke.org/ukraine-census-perm/lvivska.htm Эряйхне]{{ref-uk}}</ref> ==
+<timeline>
+ImageSize = width:990 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:25000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1959 from:0 till:9352
+ bar:1970 from:0 till:14219
+ bar:1979 from:0 till:18877
+ bar:1989 from:0 till:22177
+ bar:1992 from:0 till:23100
+ bar:1998 from:0 till:22900
+ bar:2001 from:0 till:21693
+ bar:2003 from:0 till:21498
+ bar:2004 from:0 till:21478
+ bar:2005 from:0 till:21458
+ bar:2006 from:0 till:21458
+ bar:2007 from:0 till:21444
+ bar:2008 from:0 till:21408
+ bar:2009 from:0 till:21395
+ bar:2010 from:0 till:21355
+ bar:2011 from:0 till:21337
+ bar:2012 from:0 till:21406
+ bar:2013 from:0 till:21386
+ bar:2014 from:0 till:21371
+ bar:2015 from:0 till:21354
+ bar:2016 from:0 till:21274
+ bar:2017 from:0 till:21214
+ bar:2018 from:0 till:21087
+ bar:2019 from:0 till:20986
+ bar:2020 from:0 till:20882
+ bar:2021 from:0 till:20659
+PlotData=
+ textcolor:black fontsize:S
+ bar:1959 at: 9352 text: 9.352 shift:(-14,5)
+ bar:1970 at: 14219 text: 14.219 shift:(-14,5)
+ bar:1979 at: 18877 text: 18.877 shift:(-14,5)
+ bar:1989 at: 22177 text: 22.177 shift:(-14,5)
+ bar:1992 at: 23100 text: 23.100 shift:(-14,5)
+ bar:1998 at: 22900 text: 22.900 shift:(-14,5)
+ bar:2001 at: 21693 text: 21.693 shift:(-14,5)
+ bar:2003 at: 21498 text: 21.498 shift:(-14,5)
+ bar:2004 at: 21478 text: 21.478 shift:(-14,5)
+ bar:2005 at: 21458 text: 21.458 shift:(-14,5)
+ bar:2006 at: 21458 text: 21.458 shift:(-14,5)
+ bar:2007 at: 21444 text: 21.444 shift:(-14,5)
+ bar:2008 at: 21408 text: 21.408 shift:(-14,5)
+ bar:2009 at: 21395 text: 21.395 shift:(-14,5)
+ bar:2010 at: 21355 text: 21.355 shift:(-14,5)
+ bar:2011 at: 21337 text: 21.337 shift:(-14,5)
+ bar:2012 at: 21406 text: 21.406 shift:(-14,5)
+ bar:2013 at: 21386 text: 21.386 shift:(-14,5)
+ bar:2014 at: 21371 text: 21.371 shift:(-14,5)
+ bar:2015 at: 21354 text: 21.354 shift:(-14,5)
+ bar:2016 at: 21274 text: 21.274 shift:(-14,5)
+ bar:2017 at: 21214 text: 21.214 shift:(-14,5)
+ bar:2018 at: 21087 text: 21.087 shift:(-14,5)
+ bar:2019 at: 20986 text: 20.986 shift:(-14,5)
+ bar:2020 at: 20882 text: 20.882 shift:(-14,5)
+ bar:2021 at: 20659 text: 20.659 shift:(-14,5)
+</timeline>																						
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Фотоархтофкс ==
+<gallery mode="packed" heights=150px>
+Няйф:2015 Sokal, Departament Skarbu Państwa rejonu sokalskiego obwodu lwowskiego 03.JPG
+Няйф:2015 Sokal, Gimnazjum 03.JPG
+Няйф:Вул.Б.Хмельницького,26.jpg
+Няйф:Т. Шевченко.jpg
+Няйф:Житловий будинок. вул.Шептицького,89.jpg
+</gallery>
+[[Няйф:Сокаль Центр міста.jpg|1490px|кенжешка|куншкасо]]
+== Кяльвалсь ==
+* {{Cite book|author1=Дмитро Вортман|author2=Володимир Дмитрук|title=Сокаль|publisher=Енциклопедія історії України; Інститут історії України НАН України. Наукова думка|location=Київ|year=2012|pages=692 — 944 |isbn=978-966-00-1290-5}}{{ref-uk}}
+* {{Cite book|author=Іван Вашків|title=Сокаль і Прибужжя (1377—2000): Історико-краєзнавчий нарис|location=Львів|publisher=Каменяр|year=2000|pages=235—245}} {{ref-uk}}
+ 
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [http://miskrada.sokal.lviv.ua/main.html Официалонь лопа] {{ref-uk}}
+
+{{Гео-керф}}
+
+[[Категорие:Ошне|Сокаль]]
+[[Категорие:Украинонь ошне|Сокаль]]
+[[Категорие:Львивонь аймак|Сокаль]]
