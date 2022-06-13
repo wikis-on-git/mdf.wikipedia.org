@@ -1,0 +1,200 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Грубешув
+|васенце лем              = {{lang-pl|Hrubieszów}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = Hrubieszów Centrum.jpg 
+ |photo1b = Hrubieszów - fotopolska.eu (240182).jpg 
+ |photo2a = Hrubieszów. Dwór Kiesewetterów (1).jpg 
+ |photo2b = Hrubieszów. Plebania kościoła św. Mikołaja. Dom narodzin Prusa XIX w.jpg
+ |photo3a = Hrubieszow-Kosciol sw. Mikolaja.jpg
+ |photo3b = Hrubieszów - budynek (03).jpg
+ |photo4a = Hrubieszów. Dwór Du chateau XVIII w. (4).jpg 
+ |photo4b = Hrubieszów. Dwór Gołachowskich (2).jpg
+ |photo5a = 20170916 Hrubieszów 23.jpg
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = полень кяль
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Грубешув''' ({{lang-pl|Hrubieszów}}) — [[ош]]сь [[Полень мастор|Полень масторса]]. 
+
+== [[Географиясь]] ==
+
+== [[Климатсь]] ==
+{{Climate chart
+|Грубешув ошсь
+| -5.4| -0.5| 43
+| -4.9| 1.2| 41
+| -1.6|	6.4| 48
+| 3.39| 14.1| 54
+| 9.2| 18.9| 78
+| 12.9| 22.1| 79
+| 15.3| 24.2| 97
+| 14.6| 23.8| 69
+| 10.3| 18.5| 70
+| 5.7| 12.6| 52
+| 1.9| 6.9| 46
+| -2.5| 1.7| 45
+|float= 
+|clear=
+|source= [https://en.climate-data.org/europe/poland/lublin-voivodeship/hrubieszow-9866/ Грубешув] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]] ==
+Ушетфоль [[1254]] [[киза|кизоня]].
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:950 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:21000
+ScaleMajor = unit:year increment:5000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+  bar:1400 from:0 till:500
+  bar:1765 from:0 till:2362
+  bar:1823 from:0 till:4200
+  bar:1872 from:0 till:9606
+  bar:1890 from:0 till:10601
+  bar:1899 from:0 till:12554
+  bar:1909 from:0 till:15000
+  bar:1917 from:0 till:8208
+  bar:1921 from:0 till:10000
+  bar:1939 from:0 till:13000
+  bar:1942 from:0 till:15500
+  bar:1945 from:0 till:8000
+  bar:1951 from:0 till:10000
+  bar:1979 from:0 till:17400
+  bar:1995 from:0 till:18800
+  bar:2000 color:cobar2 from:0 till:20200
+  bar:2005 from:0 till:18633
+  bar:2008 from:0 till:18603
+  bar:2009 from:0 till:18549
+  bar:2010 from:0 till:18318
+  bar:2015 from:0 till:18287
+  bar:2016 from:0 till:18212
+  bar:2017 from:0 till:17903
+  bar:2019 from:0 till:17528
+  bar:2020 from:0 till:17232
+PlotData=
+  textcolor:black fontsize:S
+  bar:1400 at: 500 text: 500 shift:(-10,5)
+  bar:1765 at: 2362 text: 2.362 shift:(-14,5)
+  bar:1823 at: 4200 text: 4.200 shift:(-14,5)
+  bar:1872 at: 9606 text: 9.606 shift:(-17,5)
+  bar:1890 at: 10601 text: 10.601 shift:(-14,5)
+  bar:1899 at: 12554 text: 12.554 shift:(-17,5)
+  bar:1909 at: 15000 text: 15.000 shift:(-17,5)
+  bar:1917 at: 8208 text: 8.208 shift:(-13,5)
+  bar:1921 at: 10000 text: 10.000 shift:(-17,5)
+  bar:1939 at: 13000 text: 13.000 shift:(-17,5)
+  bar:1942 at: 15500 text: 15.500 shift:(-17,5)
+  bar:1945 at: 8000 text: 8.000 shift:(-13,5)
+  bar:1951 at: 10000 text: 10.000 shift:(-17,5)
+  bar:1979 at: 17400 text: 17.400 shift:(-23,5)
+  bar:1995 at: 18800 text: 18.800 shift:(-17,5)
+  bar:2000 at: 20200 text: 20.200 shift:(-17,5)
+  bar:2005 at: 18633 text: 18.633 shift:(-17,5)
+  bar:2008 at: 18603 text: 18.603 shift:(-17,5)
+  bar:2009 at: 18549 text: 18.549 shift:(-17,5)
+  bar:2010 at: 18318 text: 18.318 shift:(-15,5)
+  bar:2015 at: 18287 text: 18.287 shift:(-13,8)
+  bar:2016 at: 18212 text: 18,212 shift:(-13,8)
+  bar:2017 at: 17903 text: 17.903 shift:(-11,5)
+  bar:2019 at: 17528 text: 17.528 shift:(-11,5)
+  bar:2020 at: 17232 text: 17.232 shift:(-11,5)
+</timeline>
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Содаф ломатть ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Кяльвалсь ==
+* Hrubieszów // Słownik geograficzny Królestwa Polskiego. — Warszawa : Druk «Wieku», 1882. — Т. III. — S. 179. — S. 179—187{{ref-pl}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+== Ушеширень кучфтемат ==
+* [http://www.miasto.hrubieszow.pl/ Официалонь лопа] {{ref-uk}}
+
+{{Гео-керф}}
+
+[[Категорие:Полень мастор ошне|Грубешув]]
+[[Категорие:ошне|Грубешув]]
