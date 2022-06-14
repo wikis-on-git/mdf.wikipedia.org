@@ -86,7 +86,7 @@
 
 == Эряйхне ==
 <timeline>
-ImageSize = width:700 height:330
+ImageSize = width:790 height:330
 PlotArea = left:50 right:30 top:30 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -100,7 +100,7 @@ Period = from:0 till:18000
 ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
 ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
 PlotData =
-  color:cobar width:19 align:left
+  color:cobar width:29 align:left
   bar:1778 from:0 till:355
   bar:1795 from:0 till:769
   bar:1880 from:0 till:1224
@@ -140,7 +140,7 @@ PlotData=
   bar:2018 at: 17247 text: 17.247 shift:(-14,5)
   bar:2020 at: 17916 text: 17.916 shift:(-14,5)
 </timeline>
-	
+
 == [[Экономикась]] ==
 
 == Культурась ==
