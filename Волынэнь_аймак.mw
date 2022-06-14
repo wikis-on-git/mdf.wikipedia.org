@@ -97,8 +97,80 @@
 == [[Историясь]] ==
 Ушетфоль [[4 декабрьста]] [[1939]] [[киза|кизоня]].
 
-== Эряйхне ==
-{{Wikidata/Population}}
+== Эряйхне<ref>[http://database.ukrcensus.gov.ua/Mult/Dialog/statfile1_c_files/pasport.files/pasport/07_uk.htm Демографічний паспорт - Волинська область]{{ref-uk}}</ref><ref name="nas">[https://index.minfin.com.ua/ua/reference/people/volynskaya/ Населення України. Волинська область.]{{ref-uk}}</ref> ==
+<timeline>
+ImageSize = width:1170 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1100
+ScaleMajor = unit:year increment:100 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:50 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:30 align:left
+ bar:1939 from:0 till:1034
+ bar:1959 from:0 till:890
+ bar:1970 from:0 till:974
+ bar:1979 from:0 till:1015
+ bar:1989 from:0 till:1061
+ bar:1995 from:0 till:1078
+ bar:1998 from:0 till:1073
+ bar:2001 from:0 till:1060
+ bar:2003 from:0 till:1054
+ bar:2004 from:0 till:1048
+ bar:2005 from:0 till:1044
+ bar:2006 from:0 till:1040
+ bar:2007 from:0 till:1038
+ bar:2008 from:0 till:1036
+ bar:2009 from:0 till:1036
+ bar:2010 from:0 till:1036
+ bar:2011 from:0 till:1037
+ bar:2012 from:0 till:1038
+ bar:2013 from:0 till:1040
+ bar:2014 from:0 till:1041
+ bar:2015 from:0 till:1042
+ bar:2016 from:0 till:1042
+ bar:2017 from:0 till:1041
+ bar:2018 from:0 till:1038
+ bar:2019 from:0 till:1035
+ bar:2020 from:0 till:1031
+ bar:2021 from:0 till:1027
+PlotData=
+ textcolor:black fontsize:S
+ bar:1939 at: 1034 text: 1.034 shift:(-14,5)
+ bar:1959 at: 890 text: 890.4 shift:(-14,5)
+ bar:1970 at: 974 text: 974.4 shift:(-14,5)
+ bar:1979 at: 1015 text: 1.015 shift:(-14,5)
+ bar:1989 at: 1061 text: 1.061 shift:(-14,5)
+ bar:1995 at: 1078 text: 1.078 shift:(-14,5)
+ bar:1998 at: 1073 text: 1.073 shift:(-14,5)
+ bar:2001 at: 1060 text: 1.060 shift:(-14,5)
+ bar:2003 at: 1054 text: 1.054 shift:(-14,5)
+ bar:2004 at: 1048 text: 1.048 shift:(-14,5)
+ bar:2005 at: 1044 text: 1.044 shift:(-14,5)
+ bar:2006 at: 1036 text: 1.040 shift:(-14,5)
+ bar:2007 at: 1038 text: 1.038 shift:(-14,5)
+ bar:2008 at: 1036 text: 1.036 shift:(-14,5)
+ bar:2009 at: 1036 text: 1.036 shift:(-14,5)
+ bar:2010 at: 1036 text: 1.036 shift:(-14,5)
+ bar:2011 at: 1037 text: 1.037 shift:(-14,5)
+ bar:2012 at: 1038 text: 1.038 shift:(-14,5)
+ bar:2013 at: 1040 text: 1.040 shift:(-14,5)
+ bar:2014 at: 1041 text: 1.041 shift:(-14,5)
+ bar:2015 at: 1042 text: 1.042 shift:(-14,5)
+ bar:2016 at: 1042 text: 1.042 shift:(-14,5)
+ bar:2017 at: 1041 text: 1.041 shift:(-14,5)
+ bar:2018 at: 1038 text: 1.038 shift:(-14,5)
+ bar:2019 at: 1035 text: 1.035 shift:(-14,5)
+ bar:2020 at: 1031 text: 1.031 shift:(-14,5)
+ bar:2021 at: 1027 text: 1.027 shift:(-14,5)
+</timeline>
 
 == Волынэнь аймакть районтне<ref name="rada">[https://zakon.rada.gov.ua/laws/show/807-IX#Text Постанова Верховної Ради України від 17 липня 2020 року № 807-IX «Про утворення та ліквідацію районів»]{{ref-uk}}</ref>==
 {| border=0 align="left" class="sortable" 
