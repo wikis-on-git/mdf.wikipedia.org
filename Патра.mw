@@ -102,7 +102,59 @@
 == [[Историясь]] ==
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:690 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:200
+ScaleMajor = unit:year increment:50 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1853 from:0 till:15
+ bar:1861 from:0 till:18
+ bar:1870 from:0 till:16
+ bar:1879 from:0 till:25
+ bar:1889 from:0 till:35
+ bar:1896 from:0 till:37
+ bar:1907 from:0 till:37
+ bar:1920 from:0 till:52
+ bar:1928 from:0 till:61
+ bar:1951 from:0 till:87
+ bar:1961 from:0 till:96
+ bar:1971 from:0 till:112
+ bar:1981 from:0 till:142
+ bar:1991 from:0 till:158
+ bar:2001 from:0 till:160
+ bar:2007 from:0 till:180
+ bar:2011 from:0 till:167
+PlotData=
+ textcolor:black fontsize:S
+ bar:1853 at: 15 text: 15.8 shift:(-14,5)
+ bar:1861 at: 18 text: 18.3 shift:(-14,5)
+ bar:1870 at: 16 text: 16.6 shift:(-14,5)
+ bar:1879 at: 25 text: 25.4 shift:(-14,5)
+ bar:1889 at: 35 text: 35.5 shift:(-14,5)
+ bar:1896 at: 37 text: 37.9 shift:(-14,5)
+ bar:1907 at: 37 text: 37.7 shift:(-14,5)
+ bar:1920 at: 52 text: 52.1 shift:(-14,5)
+ bar:1928 at: 61 text: 61.2 shift:(-14,5)
+ bar:1951 at: 87 text: 87.5 shift:(-14,5)
+ bar:1961 at: 96 text: 96.1 shift:(-14,5)
+ bar:1971 at: 112 text: 112.2 shift:(-14,5)
+ bar:1981 at: 142 text: 142.1 shift:(-14,5)
+ bar:1991 at: 158 text: 158.6 shift:(-14,5)
+ bar:2001 at: 160 text: 160.4 shift:(-14,5)
+ bar:2007 at: 180 text: 180.0 shift:(-14,5)
+ bar:2011 at: 167 text: 167.4 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
