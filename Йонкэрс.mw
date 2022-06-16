@@ -105,7 +105,65 @@
 Ушетфоль [[1646]] [[киза|кизоня]].
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:870 height:350
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:250000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:29 align:left
+ bar:1860 from:0 till:8218
+ bar:1870 from:0 till:12733
+ bar:1880 from:0 till:18892
+ bar:1890 from:0 till:32033		
+ bar:1900 from:0 till:47931
+ bar:1910 from:0 till:79803
+ bar:1920 from:0 till:100176
+ bar:1930 from:0 till:134646
+ bar:1940 from:0 till:142598
+ bar:1950 from:0 till:152798
+ bar:1960 from:0 till:190634
+ bar:1970 from:0 till:204297
+ bar:1980 from:0 till:195351
+ bar:1990 from:0 till:188082
+ bar:2000 from:0 till:196086
+ bar:2008 from:0 till:201588
+ bar:2010 from:0 till:195976
+ bar:2017 from:0 till:202019
+ bar:2018 from:0 till:199663
+ bar:2020 from:0 till:211569	
+PlotData=
+ textcolor:black fontsize:S
+ bar:1860 at: 8218 text: 8,218 shift:(-14,5)
+ bar:1870 at: 12733 text: 12,733 shift:(-14,5)
+ bar:1880 at: 18892 text: 18,892 shift:(-14,5)
+ bar:1890 at: 32033 text: 32,033 shift:(-14,5)	
+ bar:1900 at: 47931 text: 47,931 shift:(-14,5)
+ bar:1910 at: 79803 text: 79,803 shift:(-14,5)
+ bar:1920 at: 100176 text: 100,176 shift:(-14,5)
+ bar:1930 at: 134646 text: 134,646 shift:(-14,5)
+ bar:1940 at: 142598 text: 142,598 shift:(-14,5)
+ bar:1950 at: 152798 text: 152,798 shift:(-14,5)
+ bar:1960 at: 190634 text: 190,634 shift:(-14,5)
+ bar:1970 at: 204297 text: 204,297 shift:(-14,5)
+ bar:1980 at: 195351 text: 195,351 shift:(-14,5)
+ bar:1990 at: 188082 text: 188,082 shift:(-14,5)
+ bar:2000 at: 196086 text: 196,086 shift:(-14,5)
+ bar:2008 at: 201588 text: 201,588 shift:(-14,5)
+ bar:2010 at: 195976 text: 195,976 shift:(-14,5)
+ bar:2017 at: 202019 text: 202,019 shift:(-14,5)
+ bar:2018 at: 199663 text: 199,663 shift:(-14,5)
+ bar:2020 at: 211569 text: 211,569 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
