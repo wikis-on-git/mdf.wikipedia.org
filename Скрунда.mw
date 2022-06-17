@@ -103,7 +103,53 @@
 Уштефоль [[1253]] [[киза|кизоня]].
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:670 height:350
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:6000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:27 align:left
+ bar:1935 from:0 till:1087
+ bar:1959 from:0 till:3194
+ bar:1979 from:0 till:3567
+ bar:1989 from:0 till:5235
+ bar:1997 from:0 till:2832
+ bar:2005 from:0 till:2637
+ bar:2010 from:0 till:2468
+ bar:2012 from:0 till:2659
+ bar:2015 from:0 till:2291
+ bar:2016 from:0 till:2232
+ bar:2017 from:0 till:1970
+ bar:2019 from:0 till:1911
+ bar:2020 from:0 till:1895
+ bar:2021 from:0 till:1906
+PlotData=
+ textcolor:black fontsize:S
+ bar:1935 at: 1087 text: 1.087 shift:(-14,5)
+ bar:1959 at: 3194 text: 3.194 shift:(-14,5)
+ bar:1979 at: 3567 text: 3.567 shift:(-14,5)
+ bar:1989 at: 5235 text: 5.235 shift:(-14,5)
+ bar:1997 at: 2832 text: 2.832 shift:(-14,5)
+ bar:2005 at: 2637 text: 2.637 shift:(-14,5)
+ bar:2010 at: 2468 text: 2.468 shift:(-14,5)
+ bar:2012 at: 2659 text: 2.659 shift:(-14,5)
+ bar:2015 at: 2291 text: 2.291 shift:(-14,5)
+ bar:2016 at: 2232 text: 2.232 shift:(-14,5)
+ bar:2017 at: 1970 text: 1.970 shift:(-14,5)
+ bar:2019 at: 1911 text: 1.911 shift:(-14,5)
+ bar:2020 at: 1895 text: 1.895 shift:(-14,5)
+ bar:2021 at: 1906 text: 1.906 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
@@ -127,7 +173,7 @@
 </gallery>
 
 == Кяльвалсь ==
-* {{Cite book|author= Antons Kūkojs|year=1985|title=Septiņkalne. Rēzeknei - 700|location=Rīga|publisher=Avots}} {{ref-lv}}
+* {{Cite book|title=Enciklopēdija Latvijas pilsētas|location=Rīga|publisher=Preses nams|year=1999|pages=462}} {{ref-lv}}
 * {{Cite book|author= Astrīda Iltnere|title= Latvijas Pagasti, Enciklopēdija|publisher=Preses Nams|location=Riga|year=2002|isbn=9984-00-436-8}} {{ref-lv}}
 
 == Лятфтамат ==
