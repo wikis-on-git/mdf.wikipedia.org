@@ -1,0 +1,185 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Мцхэта
+|васенце лем              = {{lang-ka|მცხეთა}}
+|изображение              = {{Photomontage|position=center
+ |color=#ffffff
+ |photo1a = View to Mtskheta from Jvari.jpg
+ |photo2a = Mtskheta - city 3.jpg 
+ |photo2b = Svetitskhoveli - Temple and yard.jpg
+ |photo3a = Cathedral in Mtskheta.jpg
+ |photo3b = 2016 Mccheta, Klasztor Samtawro, Cerkiew św. Nino (01).jpg
+ |photo4a = Mtskheta panorama (January 2013).jpg
+ | spacing = 2
+ | border = 0
+ | size = 270
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = N|lat_deg =  |lat_min =  |lat_sec = 
+ |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
+ |CoordScale = |display =
+|вид региона              = Мхарэ
+|регион                   = Мцхэта-Мтианэти
+|регион в таблице         = 
+|вид района               = Муниципалитет
+|район                    = Мцхэтась муниципалитет{{!}}Мцхэта
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнас                   = 
+|дата основания           = 
+|первое упоминание        = 
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Мцхэта''' ({{lang-ka|მცხეთა}}) — [[ош]]сь [[Грузия|Грузияса]]. 
+
+== [[Географиясь]] ==
+[[Няйф:Georgia Jvari monastery IMG 9320 2055.jpg|290px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+{{Climate chart
+|Мцхэта ошсь
+|-4.7 |4.1|30
+|-3.6|5.5|35
+|-0.7|9.8|67
+|3.8|14.7|111
+|8.9|19.6|117
+|13.1|24.2|79
+|16.6|27.7|50
+|17.1|28.4|51
+|12.6|22.8|55
+|7.1|16.4|70
+|0.8|10.2|47
+|-3.3|5.3|33
+|float= 
+|clear=
+|source= [https://en.climate-data.org/asia/georgia/mtskheta-mtianeti/mtskheta-21793/ Мцхэта ошсь] «Climate-Data.org» {{ref-en}} 
+}}
+== [[Историясь]]==
+
+== Эряйхне<ref>[http://pop-stat.mashke.org/georgia-cities.htm Cities & towns. Georgia] {{ref-en}}</ref> ==
+{{Wikidata/Population}}
+<timeline>
+ImageSize = width:650 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:10000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:500 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:32 align:left
+ bar:1926 from:0 till:1487
+ bar:1939 from:0 till:3077
+ bar:1959 from:0 till:7131
+ bar:1970 from:0 till:7051
+ bar:1979 from:0 till:6860
+ bar:1989 from:0 till:9588
+ bar:2002 from:0 till:7660
+ bar:2014 from:0 till:7940
+ bar:2016 from:0 till:7740
+ bar:2017 from:0 till:7670
+ bar:2018 from:0 till:7617
+ bar:2019 from:0 till:7595
+ bar:2020 from:0 till:7584
+ bar:2021 from:0 till:7606
+PlotData=
+ textcolor:black fontsize:S
+ bar:1926 at: 1487 text: 1,487 shift:(-14,5)
+ bar:1939 at: 3077 text: 3,077 shift:(-14,5)
+ bar:1959 at: 7131 text: 7,131 shift:(-14,5)
+ bar:1970 at: 7051 text: 7,051 shift:(-14,5)
+ bar:1979 at: 6860 text: 6,860 shift:(-14,5)
+ bar:1989 at: 9588 text: 9.588 shift:(-14,5)
+ bar:2002 at: 7660 text: 7.660 shift:(-14,5)
+ bar:2014 at: 7940 text: 7.940 shift:(-14,5)
+ bar:2016 at: 7740 text: 7,740 shift:(-14,5)
+ bar:2017 at: 7670 text: 7,670 shift:(-14,5)
+ bar:2018 at: 7617 text: 7,617 shift:(-14,5)
+ bar:2019 at: 7595 text: 7,595 shift:(-14,5)
+ bar:2020 at: 7584 text: 7,584 shift:(-14,5)
+ bar:2021 at: 7606 text: 7,606 shift:(-14,5)
+</timeline>
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Фотоархтофкс ==
+<gallery mode="packed" heights=130px>
+Няйф:Mtskheta (2011)..jpg
+Няйф:Georgia Mtskheta Bebris-Tsikhe IMG 9319 2050.jpg
+Няйф:Georgia 2011 326 (5680891601).jpg
+Няйф:ჯვრის მამათა მონასტერი.jpg
+Няйф:Gamsakhurdia street, Mtskheta. (Photo A. Muhranoff, 2011).jpg
+Няйф:Samtavro bell-tower & churchyard.jpg
+Няйф:2016 Mccheta, Plac z fontanną (02).jpg
+</gallery>
+
+== Кяльвалсь ==
+* {{cite book|author=Irakli Abashidze|title=Georgian Encyclopedia. Vol. IX.|location=Tbilisi, Georgia|year=1985}}{{ref-ka}}
+* {{cite book|author=Shalva Amiranashvili|title=History of Georgian Art|publisher=Khelovneba|location=Tbilisi, Georgia|year=1961}}{{ref-ka}}
+* {{cite book|author=Grigol Khantsteli|title=Chronicles of Georgia|year=}}{{ref-ka}}
+* {{cite book|author=Roger Rosen|title=Georgia: A Sovereign Country of the Caucasus|publisher=Odyssey Publications|location=Hong Kong|year=1999|isbn=962-217-748-4}}{{ref-ka}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+== Ушеширень кучфтемат ==
+* [http://www.mtskheta-mtianeti.gov.ge/ Официалонь лопа]{{ref-ka}}
+
+{{Гео-керф}}
+
+[[Категорие:Ошне|Мцхэта]]
+[[Категорие:Грузиянь ошне|Мцхэта]]
