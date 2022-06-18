@@ -105,7 +105,65 @@
 Уштефтоль [[1337]] [[киза|кизоня]].
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:800 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:7000
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:28 align:left
+ bar:1870 from:0 till:2191
+ bar:1897 from:0 till:2800
+ bar:1901 from:0 till:2390
+ bar:1939 from:0 till:3100
+ bar:1959 from:0 till:4691
+ bar:1970 from:0 till:4691
+ bar:1976 from:0 till:6000
+ bar:1979 from:0 till:6860
+ bar:1989 from:0 till:6703
+ bar:1995 from:0 till:6142
+ bar:2001 from:0 till:5725
+ bar:2006 from:0 till:5406
+ bar:2007 from:0 till:5357
+ bar:2010 from:0 till:5266
+ bar:2011 from:0 till:4933
+ bar:2017 from:0 till:4427
+ bar:2018 from:0 till:4295
+ bar:2019 from:0 till:4141
+ bar:2020 from:0 till:4153
+ bar:2021 from:0 till:4426
+PlotData=
+ textcolor:black fontsize:S
+ bar:1870 at: 2191 text: 2.191 shift:(-14,5)
+ bar:1897 at: 2800 text: 2.800 shift:(-14,5)
+ bar:1901 at: 2390 text: 2.390 shift:(-14,5)
+ bar:1939 at: 3100 text: 3.100 shift:(-14,5)
+ bar:1959 at: 4691 text: 4.691 shift:(-14,5)
+ bar:1970 at: 4691 text: 4.691 shift:(-14,5)
+ bar:1976 at: 6000 text: 6,000 shift:(-14,5)
+ bar:1979 at: 6860 text: 6,860 shift:(-14,5)
+ bar:1989 at: 6703 text: 6.703 shift:(-14,5)
+ bar:1995 at: 6142 text: 6.142 shift:(-14,5)
+ bar:2001 at: 5725 text: 5.725 shift:(-14,5)
+ bar:2006 at: 5406 text: 5.406 shift:(-14,5)
+ bar:2007 at: 5357 text: 5.357 shift:(-14,5)
+ bar:2010 at: 5266 text: 5.266 shift:(-14,5)
+ bar:2011 at: 4933 text: 4.933 shift:(-14,5)
+ bar:2017 at: 4427 text: 4.427 shift:(-14,5)
+ bar:2018 at: 4295 text: 4.295 shift:(-14,5)
+ bar:2019 at: 4141 text: 4.141 shift:(-14,5)
+ bar:2020 at: 4153 text: 4.153 shift:(-14,5)
+ bar:2021 at: 4426 text: 4.426 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
