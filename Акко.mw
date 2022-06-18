@@ -103,7 +103,72 @@
 == [[Эрямопингсь]] ==
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<timeline>
+ImageSize = width:970 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:50000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:31 align:left
+ bar:1922 from:0 till:6420
+ bar:1931 from:0 till:7897
+ bar:1945 from:0 till:12360
+ bar:1948 from:0 till:4059
+ bar:1955 from:0 till:19200
+ bar:1961 from:0 till:25222
+ bar:1972 from:0 till:33700
+ bar:1983 from:0 till:36396
+ bar:1986 from:0 till:37200
+ bar:1995 from:0 till:44240
+ bar:2003 from:0 till:45600
+ bar:2005 from:0 till:45800
+ bar:2007 from:0 till:46100
+ bar:2008 from:0 till:46252
+ bar:2009 from:0 till:46300
+ bar:2010 from:0 till:46300
+ bar:2011 from:0 till:46464
+ bar:2013 from:0 till:47397
+ bar:2014 from:0 till:47500
+ bar:2015 from:0 till:47675
+ bar:2016 from:0 till:47808
+ bar:2018 from:0 till:48930
+ bar:2019 from:0 till:49380
+PlotData=
+ textcolor:black fontsize:S
+ bar:1922 at: 6420 text: 6.420 shift:(-14,5)
+ bar:1931 at: 7897 text: 7.897 shift:(-14,5)
+ bar:1945 at: 12360 text: 12.360 shift:(-14,5)
+ bar:1948 at: 4059 text: 4.059 shift:(-14,5)
+ bar:1955 at: 19200 text: 19.200 shift:(-14,5)
+ bar:1961 at: 25222 text: 25.222 shift:(-14,5)
+ bar:1972 at: 33700 text: 33.700 shift:(-14,5)
+ bar:1983 at: 36396 text: 36.396 shift:(-14,5)
+ bar:1986 at: 37200 text: 37.200 shift:(-14,5)
+ bar:1995 at: 44240 text: 44.240 shift:(-14,5)
+ bar:2003 at: 45600 text: 45.600 shift:(-14,5)
+ bar:2005 at: 45800 text: 45.800 shift:(-14,5)
+ bar:2007 at: 46100 text: 46.100 shift:(-14,5)
+ bar:2008 at: 46252 text: 46.252 shift:(-14,5)
+ bar:2009 at: 46300 text: 46.300 shift:(-14,5)
+ bar:2010 at: 46300 text: 46,300 shift:(-14,5)
+ bar:2011 at: 46464 text: 46.464 shift:(-14,5)
+ bar:2013 at: 47397 text: 47.397 shift:(-14,5)
+ bar:2014 at: 47500 text: 47.500 shift:(-14,5)
+ bar:2015 at: 47675 text: 47.675 shift:(-14,5)
+ bar:2016 at: 47808 text: 47.808 shift:(-14,5)
+ bar:2018 at: 48930 text: 48.930 shift:(-14,5)
+ bar:2019 at: 49380 text: 49.380 shift:(-14,5)
+</timeline>
+
 == [[Экономикась]] ==
 
 == Культурась ==
