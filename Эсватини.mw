@@ -103,8 +103,68 @@
 == [[Историясь]] ==
 Ушетфоль 6 сентябрьста [[1968]] [[киза|кизоня]].
 
-== Эряйхне ==
-{{Wikidata/Population}}
+== Эряйхне<ref>[https://www.worldometers.info/world-population/swaziland-population/ Population of Eswatini (2020 and historical)]{{ref-en}}</ref><ref>[https://worldpopulationreview.com/countries/eswatini-population Eswatini Population by Year (Historical)] «World Population Review»{{ref-en}}</ref>==
+<timeline>
+ImageSize = width:870 height:350
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:1250000
+ScaleMajor = unit:year increment:100000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:50000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:29 align:left		
+ bar:1950 from:0 till:273000
+ bar:1955 from:0 till:303028
+ bar:1960 from:0 till:336583
+ bar:1965 from:0 till:373919
+ bar:1970 from:0 till:431253
+ bar:1975 from:0 till:499763
+ bar:1980 from:0 till:587858
+ bar:1985 from:0 till:699080
+ bar:1990 from:0 till:822420
+ bar:1995 from:0 till:926841
+ bar:2000 from:0 till:1005435
+ bar:2005 from:0 till:1030579
+ bar:2010 from:0 till:1064837
+ bar:2015 from:0 till:1104044
+ bar:2016 from:0 till:1113997
+ bar:2017 from:0 till:1124753
+ bar:2018 from:0 till:1136281
+ bar:2019 from:0 till:1148130
+ bar:2020 from:0 till:1160164
+ bar:2021 from:0 till:1172362
+ bar:2022 from:0 till:1184817
+PlotData=
+ textcolor:black fontsize:S
+ bar:1950 at: 273000 text: 273.0 shift:(-14,5)
+ bar:1955 at: 303028 text: 303,0 shift:(-14,5)
+ bar:1960 at: 336583 text: 336,5 shift:(-14,5)
+ bar:1965 at: 373919 text: 373,9 shift:(-14,5)
+ bar:1970 at: 431253 text: 431,2 shift:(-14,5)
+ bar:1975 at: 499763 text: 499,7 shift:(-14,5)
+ bar:1980 at: 587858 text: 587,8 shift:(-14,5)
+ bar:1985 at: 699080 text: 699,0 shift:(-14,5)
+ bar:1990 at: 822420 text: 822,4 shift:(-14,5)
+ bar:1995 at: 926841 text: 926,8 shift:(-14,5)
+ bar:2000 at: 1005435 text: 1,005 shift:(-14,5)
+ bar:2005 at: 1030579 text: 1,030 shift:(-14,5)
+ bar:2010 at: 1064837 text: 1,064 shift:(-14,5)
+ bar:2015 at: 1104044 text: 1,104 shift:(-14,5)
+ bar:2016 at: 1113997 text: 1,113 shift:(-14,5)
+ bar:2017 at: 1124753 text: 1,124 shift:(-14,5)
+ bar:2018 at: 1136281 text: 1,136 shift:(-14,5)
+ bar:2019 at: 1148130 text: 1,148 shift:(-14,5)
+ bar:2020 at: 1160164 text: 1,160 shift:(-14,5)
+ bar:2021 at: 1172362 text: 1,172 shift:(-14,5)
+ bar:2022 at: 1184817 text: 1,184 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
