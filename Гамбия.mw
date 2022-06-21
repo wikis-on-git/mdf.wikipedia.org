@@ -109,7 +109,7 @@
 
 == Эряйхне<ref>[https://www.worldometers.info/world-population/gambia-population/ Population of Gambia (2020 and historical)]</ref>==
 <timeline>
-ImageSize = width:990 height:380
+ImageSize = width:1090 height:380
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
@@ -123,19 +123,25 @@ Period = from:0 till:2500000
 ScaleMajor = unit:year increment:500000 start:0 gridcolor:linegrey
 ScaleMinor = unit:year increment:100000 start:0 gridcolor:linegrey2
 PlotData =
- color:cobar width:45 align:left
-  bar:1955 from:0 till:329661
-  bar:1960 from:0 till:365047
+ color:cobar width:39 align:left
+  bar:1955 from:0 till:315486
+  bar:1960 from:0 till:329661
+  bar:1963 from:0 till:365047
   bar:1965 from:0 till:405259
   bar:1970 from:0 till:464410
+  bar:1973 from:0 till:493499
   bar:1975 from:0 till:539979
   bar:1980 from:0 till:637246
+  bar:1983 from:0 till:687817
   bar:1985 from:0 till:755787
   bar:1990 from:0 till:955593
+  bar:1993 from:0 till:1038145
   bar:1995 from:0 till:1128575
   bar:2000 from:0 till:1317703
+  bar:2003 from:0 till:1360681
   bar:2005 from:0 till:1543741
   bar:2010 from:0 till:1793196
+  bar:2013 from:0 till:1882450
   bar:2015 from:0 till:2085860
   bar:2016 from:0 till:2149136
   bar:2017 from:0 till:2213889
@@ -144,18 +150,24 @@ PlotData =
   bar:2020 from:0 till:2416668
 PlotData=
  textcolor:black fontsize:S
-  bar:1955 at: 329661 text: 329,661 shift:(-14,5)
-  bar:1960 at: 365047 text: 365,047 shift:(-14,5)
+  bar:1955 at: 315486 text: 315,486 shift:(-14,5)
+  bar:1960 at: 329661 text: 329,661 shift:(-14,5)
+  bar:1963 at: 365047 text: 365,047 shift:(-14,5)
   bar:1965 at: 405259 text: 405,259 shift:(-14,5)
   bar:1970 at: 464410 text: 464,410 shift:(-14,5)
+  bar:1973 at: 493499 text: 493,499 shift:(-14,5)
   bar:1975 at: 539979 text: 539,979 shift:(-14,5)
   bar:1980 at: 637246 text: 637,246 shift:(-14,5)
+  bar:1983 at: 687817 text: 687,817 shift:(-14,5)
   bar:1985 at: 755787 text: 755,787 shift:(-14,5)
   bar:1990 at: 955593 text: 955,593 shift:(-14,5)
+  bar:1993 at: 1038145 text: 1,038,145 shift:(-14,5)
   bar:1995 at: 1128575 text: 1,128,575 shift:(-14,5)
   bar:2000 at: 1317703 text: 1,317,703 shift:(-14,5)
+  bar:2003 at: 1360681 text: 1,360,681 shift:(-14,5)
   bar:2005 at: 1543741 text: 1,543,741 shift:(-14,5)
   bar:2010 at: 1793196 text: 1,793,196 shift:(-14,5)
+  bar:2013 at: 1882450 text: 1,882,450 shift:(-14,5)
   bar:2015 at: 2085860 text: 2,085,860 shift:(-14,5)
   bar:2016 at: 2149136 text: 2,149,136 shift:(-14,5)
   bar:2017 at: 2213889 text: 2,213,889 shift:(-14,5)
