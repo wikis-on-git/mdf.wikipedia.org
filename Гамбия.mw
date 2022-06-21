@@ -107,8 +107,62 @@
 == [[Историясь]] ==
 Уштефоль 10 февральста [[1965]] [[киза|кизоня]].
 
-== Эряйхне ==
-{{Wikidata/Population}}
+== Эряйхне<ref>[https://www.worldometers.info/world-population/gambia-population/ Population of Gambia (2020 and historical)]</ref>==
+<timeline>
+ImageSize = width:990 height:380
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:2500000
+ScaleMajor = unit:year increment:500000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:100000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:45 align:left
+  bar:1955 from:0 till:329661
+  bar:1960 from:0 till:365047
+  bar:1965 from:0 till:405259
+  bar:1970 from:0 till:464410
+  bar:1975 from:0 till:539979
+  bar:1980 from:0 till:637246
+  bar:1985 from:0 till:755787
+  bar:1990 from:0 till:955593
+  bar:1995 from:0 till:1128575
+  bar:2000 from:0 till:1317703
+  bar:2005 from:0 till:1543741
+  bar:2010 from:0 till:1793196
+  bar:2015 from:0 till:2085860
+  bar:2016 from:0 till:2149136
+  bar:2017 from:0 till:2213889
+  bar:2018 from:0 till:2280094	
+  bar:2019 from:0 till:2347706
+  bar:2020 from:0 till:2416668
+PlotData=
+ textcolor:black fontsize:S
+  bar:1955 at: 329661 text: 329,661 shift:(-14,5)
+  bar:1960 at: 365047 text: 365,047 shift:(-14,5)
+  bar:1965 at: 405259 text: 405,259 shift:(-14,5)
+  bar:1970 at: 464410 text: 464,410 shift:(-14,5)
+  bar:1975 at: 539979 text: 539,979 shift:(-14,5)
+  bar:1980 at: 637246 text: 637,246 shift:(-14,5)
+  bar:1985 at: 755787 text: 755,787 shift:(-14,5)
+  bar:1990 at: 955593 text: 955,593 shift:(-14,5)
+  bar:1995 at: 1128575 text: 1,128,575 shift:(-14,5)
+  bar:2000 at: 1317703 text: 1,317,703 shift:(-14,5)
+  bar:2005 at: 1543741 text: 1,543,741 shift:(-14,5)
+  bar:2010 at: 1793196 text: 1,793,196 shift:(-14,5)
+  bar:2015 at: 2085860 text: 2,085,860 shift:(-14,5)
+  bar:2016 at: 2149136 text: 2,149,136 shift:(-14,5)
+  bar:2017 at: 2213889 text: 2,213,889 shift:(-14,5)
+  bar:2018 at: 2280094 text: 2,280,094 shift:(-14,5)
+  bar:2019 at: 2347706 text: 2,347,706 shift:(-14,5)
+  bar:2020 at: 2416668 text: 2,416,668 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
