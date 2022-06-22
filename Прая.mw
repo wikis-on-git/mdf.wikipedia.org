@@ -99,8 +99,44 @@
 == [[Историясь]] ==
 Уштефоль [[1516]] кизоня.
 
-== Эряйхне ==
-{{Wikidata/Population}}
+== Эряйхне<ref>[https://ine.cv/actualise/dadostat/files/40d2ea0c-60db-48e5-bdd3-36ea5f0f0b09popula%C3%A7%C3%A3o%20residente%20%20por%20concelho%20segundo%20o%20sexo%20e%20meio%20de%20resid%C3%AAncia,%202010.pdf  Instituto Nacional de Estatísticas]</ref> ==
+<timeline>
+ImageSize = width:470 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:170000
+ScaleMajor = unit:year increment:10000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:5000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:38 align:left
+ bar:1990 from:0 till:61644
+ bar:2000 from:0 till:94161
+ bar:2005 from:0 till:111500
+ bar:2006 from:0 till:113364
+ bar:2008 from:0 till:124661
+ bar:2009 from:0 till:127524
+ bar:2010 from:0 till:131602
+ bar:2015 from:0 till:151346
+ bar:2017 from:0 till:159050
+PlotData=
+ textcolor:black fontsize:S
+ bar:1990 at: 61644 text: 61.644 shift:(-14,5)
+ bar:2000 at: 94161 text: 94.161 shift:(-14,5)
+ bar:2005 at: 111500 text: 111.500 shift:(-14,5)
+ bar:2006 at: 113364 text: 113,364 shift:(-14,5)
+ bar:2008 at: 124661 text: 124.661 shift:(-14,5)
+ bar:2009 at: 127524 text: 127.524 shift:(-14,5)
+ bar:2010 at: 131602 text: 131.602 shift:(-14,5)
+ bar:2015 at: 151346 text: 151,346 shift:(-14,5)
+ bar:2017 at: 159050 text: 159,050 shift:(-14,5)
+</timeline>
 
 == [[Экономикась]] ==
 
