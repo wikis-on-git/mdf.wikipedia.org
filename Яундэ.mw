@@ -1,0 +1,211 @@
+{{Эряма васта
+|статус                   = [[Ош]]
+|мокшень лемтне           = Яундэ
+|васенце лем              = {{lang-fr|Yaoundé}}
+|изображение              = {{Photomontage|position=center
+|photo1a =Cameroon-Yaounde01.jpg 
+|photo1b =Yaoundé 1.jpg
+|photo2a = La CNPS.jpg 
+|photo2b =Ministère de l'éducation Yaounde Cameroun.jpg
+|photo3a =Monument de la réunification Yaoundé 01.JPG 
+|photo3b =Yaounde traffic police.jpg
+|photo3c = Monument Leclerc-Eboué 01.JPG
+|photo4a = Façade 2 du Palais des Congres de Yaounde.jpg 
+|photo4b = Hilton Hotel in Yaoundé (2014).JPG
+|photo5a = Yaoundé vue du monument de la réunification.jpg 
+|size = 280
+|spacing = 1
+|color = #FFFFFF
+|border = 1
+}}
+|описание изображения     = 
+|подчинение               = 
+|мастор                   = 
+|герб                     = 
+|флаг                     = 
+|описание герба           = 
+|описание флага           = 
+|ширина герба             = 
+|ширина флага             = 
+ |lat_dir = |lat_deg = |lat_min = |lat_sec = 
+ |lon_dir = |lon_deg = |lon_min = |lon_sec = 
+ |CoordScale = |display =
+|вид региона              = 
+|регион                   = 
+|регион в таблице         = 
+|вид района               = 
+|район                    = 
+|район в таблице          = 
+|вид округа общины        = 
+|округ общины             = 
+|округ общины в таблице   = 
+|вид общины               = 
+|община                   = 
+|община в таблице         = 
+|внутреннее деление       = 
+|вид главы                = 
+|оцюнясь                  = 
+|дата основания           = 
+|первое упоминание        = [[1516]]
+|прежние имена            = 
+|статус с                 = 
+|статус 1 с               =
+|статус 2 с               = 
+|васта                    = 
+|вид высоты               = 
+|высота центра НП         = 
+|климат                   = 
+|официальный язык         = 
+|эряйхне                  = 
+|год переписи             = 
+|плотность                = 
+|агломерация              = 
+|население агломерации    = 
+|национальный состав      = 
+|конфессиональный состав  = 
+|наименование жителей     = 
+|часовой пояс             = 
+|DST                      = 
+|телефонный код           = 
+|почтовый индекс          = 
+|почтовые индексы         = 
+|автомобильный код        = 
+|вид идентификатора       = 
+|цифровой идентификатор   = 
+|категория в Commons      = 
+|сайт                     = 
+|язык сайта               = 
+}}
+'''Яундэ''' ({{lang-fr|Yaoundé}}) — [[пряошец]] [[Камэрун|Камэрунонь масторонь]]<ref name="GlobalDataLab">{{Cite web|url=https://hdi.globaldatalab.org/areadata/shdi/|title=Sub-national HDI - Area Database - Global Data Lab|website=hdi.globaldatalab.org}}{{ref-en}}</ref>.
+
+== [[Географиясь]] ==
+[[Няйф:Yaoundé Palais des Congrès.jpg|290px|кенжешка|вить_кедь]]
+[[Няйф:Palais de justice1.jpg|290px|кенжешка|вить_кедь]]
+== [[Климатсь]] ==
+{{Climate chart 
+|Яундэ ошсь 
+| 20.7| 29.1| 49
+| 21.2| 30.2| 63
+| 21.3| 29.2| 133
+| 21.4| 28.1| 179
+| 20.5| 27.4| 183
+| 20.3| 26.6| 161
+| 19.9| 26.2| 133
+| 20.1| 26.1| 136
+| 20.2| 26.3| 192
+| 20.5| 26.2| 253
+| 20.2| 26.7| 182
+| 20.7| 27.8| 63
+|float= 
+|clear=
+|source= [https://en.climate-data.org/africa/cameroon-142/ Яундэ] «Climate-Data.org» {{ref-en}}
+}}
+== [[Историясь]] ==
+Уштефоль [[1888]] кизоня.
+
+== Эряйхне ==
+<timeline>
+ImageSize = width:970 height:320
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+ id:linegrey2 value:gray(0.9)
+ id:linegrey value:gray(0.7)
+ id:cobar value:rgb(0.2,0.7,0.8)
+ id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:3500000
+ScaleMajor = unit:year increment:500000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:50000 start:0 gridcolor:linegrey2
+PlotData =
+ color:cobar width:38 align:left
+ bar:1926 from:0 till:5865
+ bar:1933 from:0 till:6500
+ bar:1939 from:0 till:9080
+ bar:1945 from:0 till:17311
+ bar:1952 from:0 till:31783
+ bar:1957 from:0 till:58099
+ bar:1962 from:0 till:89969
+ bar:1964 from:0 till:109185
+ bar:1969 from:0 till:165810
+ bar:1970 from:0 till:183000
+ bar:1976 from:0 till:313706
+ bar:1980 from:0 till:443000
+ bar:1987 from:0 till:649252
+ bar:1990 from:0 till:777000
+ bar:2000 from:0 till:1351000
+ bar:2005 from:0 till:1817524
+ bar:2010 from:0 till:2349000
+ bar:2015 from:0 till:2765000
+ bar:2017 from:0 till:3459000
+PlotData=
+ textcolor:black fontsize:S
+ bar:1926 at: 5865 text: 5.865 shift:(-14,5)
+ bar:1933 at: 6500 text: 6.500 shift:(-14,5)
+ bar:1939 at: 9080 text: 9.080 shift:(-14,5)
+ bar:1945 at: 17311 text: 17.311 shift:(-14,5)
+ bar:1952 at: 31783 text: 31.783 shift:(-14,5)
+ bar:1957 at: 58099 text: 58.099 shift:(-14,5)
+ bar:1962 at: 89969 text: 89.969 shift:(-14,5)
+ bar:1964 at: 109185 text: 109.185 shift:(-14,5)
+ bar:1969 at: 165810 text: 165.810 shift:(-14,5)
+ bar:1970 at: 183000 text: 183.000 shift:(-14,5)
+ bar:1976 at: 313706 text: 313.706 shift:(-14,5)
+ bar:1980 at: 443000 text: 443.000 shift:(-14,5)
+ bar:1987 at: 649252 text: 649.252 shift:(-14,5)
+ bar:1990 at: 777000 text: 777.000 shift:(-14,5)
+ bar:2000 at: 1351000 text: 1.351.000 shift:(-14,5)
+ bar:2005 at: 1817524 text: 1.817.524 shift:(-14,5)
+ bar:2010 at: 2349000 text: 2.349.000 shift:(-14,5)
+ bar:2015 at: 2765000 text: 2.765.000 shift:(-14,5)
+ bar:2017 at: 3459000 text: 3.459.000 shift:(-14,5)
+</timeline>
+
+== [[Экономикась]] ==
+
+== Культурась ==
+
+== [[Тонадома]]сь ==
+
+== Спортсь ==
+
+== Ошт-ялгат ==
+{{Wikidata/SisterCities}}
+
+== Галереясь ==
+<gallery mode="packed" heights="130px">
+Няйф:Musée National du Cameroun 01.JPG
+Няйф:Vue de gauche du chateau.jpg
+Няйф:Monument Yaoundé.jpg
+Няйф:Yaoundé Sports Palace 2014 (02).JPG
+Няйф:Bank of Central African States 2014 side.JPG
+Няйф:CRTV Maison de la radio Yaoundé.jpg
+Няйф:Batiment-polytech-cmr.jpg
+</gallery>
+<gallery mode="packed" heights="130px">
+Няйф:Cathedrale d'Edea-vue du ciel by Simbanematick.jpg
+Няйф:La Cathedrale de Yaounde-Vue du ciel-Simbanematick.jpg
+Няйф:Presbyterian Church Messa, Yaoundé 2014.JPG
+Няйф:Reunification Monument. Pyongyang, North Korea. (2605082432).jpg
+Няйф:Yaoundé 1.jpg
+Няйф:Poste Centrale Yaoundé 2.jpg
+Няйф:Image de la poste centrale de Yaoundé.jpg
+</gallery>
+== Кальвалсь ==
+{{refbegin}}
+* Alexandre Bopda. ''Yaoundé et le défi camerounais de l'intégration. À quoi sert une capitale d'Afrique tropicale?''. CNRS Editions, 2003, [[ISBN]] 978-2271061096{{ref-fr}}
+* Martin Luther Djatcheu. ''Fabriquer la ville avec les moyens du bord : L’habitat précaire à Yaoundé (Cameroun)''. Géoconfluences, septembre 2018{{ref-fr}}
+* Jean Patrick Mfoulou Olugu. ''Forme urbaine et mobilité durable à Yaoundé''. Éditions universitaires européennes, Saarbrücken, 2016, [[ISBN]] 978-3-659-55904-4{{ref-fr}}
+* Marie Morelle. ''Yaoundé carcérale. Géographie d'une ville et de sa prison''. Lyon, ENS Lyon, 2019 [[ISBN]] 9791036201004{{ref-fr}}
+* Jean-Emmanuel Pondi. ''(Re)découvrir Yaoundé!: une fresque historique et diplomatique de la capitale camerounaise''. Éditions Afric'Eveil, Yaoundé, 2012, [[ISBN]] 978-995-674501-2{{ref-fr}}
+* Muriel Samé Ekobo, Marie Morelle. ''Yaoundé: promenades patrimoniales: catalogue des édifices remarquables de la capitale du Cameroun''. Ministère des arts et de la culture, Yaoundé, 2016{{ref-fr}}
+{{refend}}
+
+== Лятфтамат ==
+{{Лятфтамат}}
+
+{{Гео-керф}}
+
+[[Категорие:Пряошне|Яундэ]]
+[[Категорие:Камэрунонь ошне|Яундэ]]
