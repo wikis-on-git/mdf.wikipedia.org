@@ -1,0 +1,174 @@
+{{Navbox
+|name=Speedy deletion navbox
+|title=[[WP:Критерии быстрого удаления|Быстрое удаление]]
+|state=autocollapse
+|listclass=hlist
+
+|group1=Политики
+|list1=
+*[[WP:Критерии быстрого удаления|Критерии быстрого удаления]]
+*[[WP:Deletion policy|Удаление страниц]]
+
+|group2=Методические рекомендации
+|list2=
+* [[Wikipedia:Deletion process|Deletion process]]
+* [[Wikipedia:Deletion guidelines for administrators|Deletion guidelines for administrators]]
+* [[Wikipedia:Page blanking|Page blanking]]
+
+|group3=Информационные страницы
+|list3=
+* [[Wikipedia:Критерии быстрого удаления/Overturned speedy deletions|Overturned speedy deletions]]
+* [[Wikipedia:Критерии быстрого удаления/Deletion templates|List of db-x templates]]
+
+|group4=Эссе
+|list4=
+* [[Wikipedia:Критерии быстрого удаления/Explanations|Explanations of the speedy deletion criteria]]
+* [[Wikipedia:Field guide to proper speedy deletion|Field guide to proper speedy deletion]]
+* [[Wikipedia:Why I Hate Speedy Deleters|Why I hate speedy deleters]]
+* [[Wikipedia:Don't assume negative notability|Don't assume negative notability]]
+* [[Wikipedia:What to do if your article gets tagged for speedy deletion|What to do if your article gets tagged for speedy deletion]]
+* [[Wikipedia:Why was the page I created deleted?|Why was the page I created deleted?]]
+* [[Wikipedia:How to save an article proposed for deletion|How to save an article proposed for deletion]]
+
+|group5=Индивидуальные критерии
+|list5=
+*О1: Бессвязное содержимое
+*О3: Страница для вандализма
+*О9: Реклама, спам
+*О11: Явное нарушение авторских прав
+*С5: Статья без доказательств энциклопедической значимости
+
+|list6={{Navbox sublist
+|state=collapsed
+|title=[[:Category:Candidates for speedy deletion|Speedy deletion candidates]]
+|list1=
+*О1
+*О2
+*О3
+*О4
+*О5
+*О6
+*О7
+*О8
+*О9
+*О10
+*О11
+*С1
+*С2
+*С3
+*С5
+*П1
+*П2
+*П3
+*П4
+*П5
+*П6
+*Ф1
+*Ф2
+*Ф3
+*К1
+*К2
+*К3
+*У1
+*У2
+*У3
+*У4
+*У5
+}}
+
+|list7={{Navbox sublist
+|state=collapsed
+|listclass=hlist
+|title=Шаблоны
+
+|group1=Общие
+|list1={{Navbox subgroup
+|group1=О1
+|list1={{tl|db-nonsense}}
+|group2=О2
+|list2={{tl|db-test}}
+|group3=О3
+|list3={{tl|db-vandalism}}
+|group4=О4
+|list4={{tl|db-repost}}
+|group5=О5
+|list5={{tl|db-author}}
+|group6=О6
+|list6={{tl|db-sub}}
+|group7=О7
+|list7={{tl|db-move}}
+|group8=О8
+|list8={{tl|db-fork}}
+|group9=О9
+|list9={{tl|db-spam}}
+|group10=О10
+|list10={{tl|db-badtalk}}
+|group11=О11
+|list11={{tl|db-copyvio}}
+}}
+
+|group2=Статьи
+|list2={{Navbox subgroup
+|group1=С1
+|list1={{tl|db-empty}}
+|group2=С2
+|list2={{tl|db-foreign}}
+|group3=С3
+|list3={{tl|db-nocontent}}
+|group5=С5
+|list5={{tl|db-nn}}
+}}
+
+|group3=Перенаправления
+|list3={{Navbox subgroup
+|group1=П1
+|list1={{tl|db-redirnone}}
+|group2=П2
+|list2={{tl|db-redirspace}}
+|group3=П3
+|list3={{tl|db-redirtypo}}
+|group4=П4
+|list4={{tl|db-redirflect}}
+|group5=П5
+|list5={{tl|db-redirsense}}
+|group6=П6
+|list6={{tl|db-redirtalk}}
+}}
+
+|group4=Файлы
+|list4={{Navbox subgroup
+|group1=Ф1
+|list1={{tl|db-duplicate}}
+|group2=Ф2
+|list2={{tl|db-badimage}}
+|group3=Ф3
+|list3={{tl|db-badfairuse}}
+}}
+
+|group5=Категории
+|list5={{Navbox subgroup
+|group1=К1
+|list1={{tl|db-catempty}}
+|group2=К2
+|list2={{tl|db-rencat}}
+|group3=К3
+|list3={{tl|db-redircat}}
+}}
+
+|group6=Страницы участников
+|list6={{Navbox subgroup
+|group1=У1
+|list1={{tl|db-owner}}
+|group2=У2
+|list2={{tl|db-anon}}
+|group3=У3
+|list3={{tl|db-nouser}}
+|group4=У4
+|list4={{tl|db-baduserpage}}
+|group5=У5
+|list5={{tl|db-inactive}}
+}}
+}}
+}}<noinclude>
+{{doc}}
+</noinclude>
