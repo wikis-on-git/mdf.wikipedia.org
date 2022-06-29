@@ -30,10 +30,10 @@
  |lon_dir = E|lon_deg =  |lon_min =  |lon_sec =  
  |CoordScale = |display =
 |вид региона              = Аймак
-|регион                   = Львивонь аймак
+|регион                   = Львивонь аймак{{!}}Львивонь
 |регион в таблице         = 
 |вид района               = Район
-|район                    = Самбиронь район
+|район                    = Самбиронь район{{!}}Самбиронь 
 |район в таблице          = 
 |вид округа общины        = 
 |округ общины             = 
@@ -65,10 +65,10 @@
 |наименование жителей     = 
 |часовой пояс             = 
 |DST                      = 
-|телефонный код           = 
+|телефонный код           = +380 3236
 |почтовый индекс          = 
 |почтовые индексы         = 
-|автомобильный код        = 
+|автомобилонь код         = 
 |вид идентификатора       = 
 |цифровой идентификатор   = 
 |категория в Commons      = 
@@ -99,11 +99,11 @@
 |source = [https://en.climate-data.org/europe/ukraine/lviv-oblast/sambir-33210/ Самбир] «Climate-Data.org» {{ref-en}} 
 }}
 == [[Историясь]] ==
-Ушетфоль [[1241]] [[киза|кизоня]].
+Уштефоль [[1241]] [[киза|кизоня]].
 
 == Эряйхне<ref>[http://pop-stat.mashke.org/ukraine-cities.htm Україна / Ukrajina]</ref><ref name="nas">[http://pop-stat.mashke.org/ukraine-census-perm/lvivska.htm Эряйхне]{{ref-uk}}</ref> ==
 <timeline>
-ImageSize = width:1170 height:370
+ImageSize = width:1170 height:410
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
