@@ -103,7 +103,39 @@
 Уштефоль XVI сядокиза.
 
 == Эряйхне ==
-{{Wikidata/Population}}
+<div align="left">
+{| class="wikitable" style="text-align:center"
+|+ 
+|-
+|<timeline>
+ImageSize  = width:550 height:300
+PlotArea   = left:70 right:30 top:30 bottom:30
+TimeAxis   = orientation:vertical
+AlignBars  = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)		
+DateFormat = yyyy
+Period     = from:0 till:300000
+ScaleMajor = unit:year increment:50000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:65 align:left
+  bar:1972 from:0 till:133168
+  bar:1992 from:0 till:179138
+  bar:2002 from:0 till:223552
+  bar:2013 color:cobar2 from:0 till:264320
+PlotData=
+  textcolor:black fontsize:S
+  bar:1972 at: 133168 text: 133,168 shift:(-17,5)
+  bar:1992 at: 179138 text: 179,138 shift:(-17,5)
+  bar:2002 at: 223552 text: 223,552 shift:(-17,5)
+  bar:2013 at: 264320 text: 264,320 shift:(-17,5)			
+</timeline>
+|}
+</div>
 
 == [[Экономикась]] ==
 
